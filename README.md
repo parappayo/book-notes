@@ -1,24 +1,39 @@
 # About
 
-Summaries and reviews of books that I've read or am reading
+Summaries and reviews of books that I've read or am reading.
 
-# List of Books
+# Notes on Books
 
-[Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
-[Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
+## Strongly Recommended
 
-# On-Deck
+* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
 
-Roughly from more immediate to less immediate.
+## Recommended
+
+???
+
+## Not-so-Recommended
+
+* [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
+
+# Books I'm Making Notes On
+
+## On-Deck
 
 * 99 Bottles of OOP
 * Learning React
-* Land of Lisp
 * sed & awk 2nd Ed
-* Programming Beyond Practices
-* D&D Rules Cyclopedia
+* Land of Lisp
+* Conversation Transformation
+* Essential Math for Game Programmers
+
+## Backlog
+
 * Think Stats
+* Programming Beyond Practices
 * Release It!
+* Game Programming Patterns
+* The Quick Python Book
 * Clean Code
 * Fluent Python
 * Real-World Haskell
@@ -27,6 +42,13 @@ Roughly from more immediate to less immediate.
 * Modern C++ Programming with Test-Driven Development
 * Practical Common Lisp
 * Absolute OpenBSD
+* Game Engine Architecture
+* The Elements of Computer Systems
+
+## You May Question My Sanity
+
+* D&D Rules Cyclopedia
 * lex & yacc
 * Expert C Programming: Deep C Secrets
+* How Not to Program in C++
 * The Definitive Guide to the Windows Installer

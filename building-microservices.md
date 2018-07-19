@@ -203,3 +203,11 @@ Building Microservices is a fantastic book and one of the best I've read. It pro
 # Articles
 
 * [Challenges in Building Large-Scale Information Retrieval Systems](https://ai.google/research/pubs/pub37797) (Jeff Dean)
+
+# See Also
+
+* [The Container Operator's Manual](https://www.youtube.com/watch?v=sJx_emIiABk) (Alice Goldfuss)
+* Containers have strengths and weaknesses
+* Containers are great for stateless apps
+* Containers require headcount (a new team)
+* You almost certainly do not want to run your database in a container
