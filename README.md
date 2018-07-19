@@ -2,11 +2,6 @@
 
 Summaries and reviews of books that I've read or am reading
 
-# TODO
-
-* Add more notes about Building Microservices
-* Add notes for Unity 5.x Cookbook
-
 # List of Books
 
 [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
