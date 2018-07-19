@@ -1,17 +1,29 @@
 
 # Thoughts
 
-Building Microservices is a fantastic book and one of the best I've read. It provides a concise summary of the state of tech thought in 2015 in the form of good general advice liberally sprinkled with helpful, concrete references to important resources.
+Building Microservices is a fantastic book and one of the best I've read. It provides a concise summary of the state of tech thought in 2015 in the form of good general advice liberally sprinkled with helpful, concrete references to important resources. Implementation details (the sort that would quickly go out of date) are not provided. Martin Fowler is heavily referenced. An atypically large number of concepts and techs are introduced for such a short book.
 
-# Selected Take-Aways
+# Take-Aways
 
-* "Small" = Rewrite and redeploy in 2 weeks (Jon Eaves)
+* Microservices are an approach to SOA
 * Strategic Goals -> Principles -> Practices
+* Divide Complexity -> Standardize Interactions -> Add Discoverability
+* Microservices is another generation of "small is beautiful"
+* Monolith for proof of concept, decompose into services
+* "Small" = Rewrite and redeploy in 2 weeks (Jon Eaves)
+* Standardize system health metrics as much as possible
+* Architectural Safety Measures: Timeouts, Bulkheads, Circuit Breakers
+* Trade-off exists between MTBF and MTTR
+* Warm replica for scaling reads, shards for scaling writes
+* Combination of predictive (scheduled) and reactive autoscaling works well
+* Conway's Law can apply in reverse - architecture drives org structure
+* VLAN is good for security isolation
+* Software load balancer (easy config) can sit behind hardware load balancer
 
 # Concepts
 
 * [12-Factor App](https://12factor.net/)
-* Architectural Safety Measures: Timeouts, Bulkheads, Circuit Breakers
+* Adhesive Services - optimized for lock-in; not cohesive
 * Backends for Frontends (BFFs) - layer between FE and underlying system
 * Blue/Green Deployment
 * Canary Release
@@ -34,21 +46,32 @@ Building Microservices is a fantastic book and one of the best I've read. It pro
 * Hypertext Application Langauge (HAL)
 * Idempotent Request - eg. request ID
 * Immutable Server
+* Internal Open Source
+* Intrusion Detection System (IDS)
+* Intrusion Prevention System (IPS)
 * JSON Web Tokens (JWT)
 * Linux Containers (LXC)
+* Loose Coupling, High Cohesion
+* Loosely vs Tightly Coupled Orgs - Bazaar vs Cathedral
 * Mean Time Between Failures (MTBF) vs Mean Time to Repair (MTTR)
 * Message Hospital / Dead Letter Queue - isolate events that have failed once
-* Monolith Proof of Concept, Decompose into Services
+* Microsoft Security Development Lifecycle
+* Orchestration (central management) vs Choreography (distributed control)
+* OWASP Top 10 Vulnerabilities
 * Postel's Law / Robustness Principle
 * REST API over HTTP
 * Semantic Versioning
-* Service Oriented Architecture
+* Service Level Agreement (SLA)
+* Service Oriented Architecture (SOA)
 * Sidecar Services
 * Single Responsibility Principle (Bob Martin)
+* SRV Record
+* Storage Area Network (SAN)
 * Strangler Application Pattern
 * Stub Service - mock service for test environment
 * Synthetic Transaction Monitoring
 * Tailored Service Templates
+* Two-Phase Commit
 * Type 1 vs Type 2 Virtualization
 * UI Fragment Composition
 * Universal Description, Discovery, and Integration (UDDI)
@@ -83,7 +106,9 @@ Building Microservices is a fantastic book and one of the best I've read. It pro
 
 * Ansible (auto config tool)
 * Apache Storm (analytics)
+* AppArmor (security, preferred on Ubuntu, SuSE)
 * Bouncy Castle (.NET crypto lib)
+* Brakeman (Ruby security static analysis)
 * Cassandra (column-oriented data store)
 * Chef (auto config tool)
 * Chocolately (package manager for Windows)
@@ -99,6 +124,7 @@ Building Microservices is a fantastic book and one of the best I've read. It pro
 * Fabric (cli as Python funcs)
 * Gluu (OpenID provider)
 * Graphite (metrics aggregator)
+* Grsecurity (security)
 * Hadoop (distributed processing)
 * Heroku (PaaS)
 * Hystrix (JVM circuit breaker lib)
@@ -109,12 +135,14 @@ Building Microservices is a fantastic book and one of the best I've read. It pro
 * Kibana (log aggregator)
 * Logstash.net (log processor)
 * Memcache (db cache)
+* Microsoft SCCM (os security)
 * mod_proxy (http load balancer)
 * MongoDB (doc store)
 * Mountebank (stub server)
 * Nagios (monitoring)
 * Nancy (.NET microservices)
 * Neo4j (graph db)
+* Nessus (vulnerability scanner)
 * Ngnix (http server / load balancer)
 * Okta (SAML identity provider)
 * Open Source Gateway Initiative (OSGI)
@@ -125,9 +153,11 @@ Building Microservices is a fantastic book and one of the best I've read. It pro
 * RabbitMQ (message broker)
 * Reactive Extensions (event stream API)
 * Reddis (doc store cache)
+* RedHat Spacewalk (os security)
 * Reimann (event server / router)
 * SchemaSpy (db schema visualizer)
 * Selenium Grid (parallel test runner)
+* SELinux (security)
 * Sensu
 * Serf
 * Shibboleth (integrate Apache with SAML provider)
@@ -141,8 +171,9 @@ Building Microservices is a fantastic book and one of the best I've read. It pro
 * Varnish (http caching proxy)
 * Web Service Definition Language (WSDL, .NET)
 * WebLogic (Oracle Java app server)
+* Zed Attack Proxy (ZAP) (attack simulator)
 * Zipkin (monitoring)
-* Zookeeper
+* Zookeeper (dynamic service entries)
 
 # Books
 
