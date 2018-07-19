@@ -3,9 +3,13 @@
 
 Building Microservices is a fantastic book and one of the best I've read. It provides a concise summary of the state of tech thought in 2015 in the form of good general advice liberally sprinkled with helpful, concrete references to important resources.
 
-# Concepts
+# Selected Take-Aways
 
 * "Small" = Rewrite and redeploy in 2 weeks (Jon Eaves)
+* Strategic Goals -> Principles -> Practices
+
+# Concepts
+
 * [12-Factor App](https://12factor.net/)
 * Architectural Safety Measures: Timeouts, Bulkheads, Circuit Breakers
 * Backends for Frontends (BFFs) - layer between FE and underlying system
@@ -42,7 +46,6 @@ Building Microservices is a fantastic book and one of the best I've read. It pro
 * Sidecar Services
 * Single Responsibility Principle (Bob Martin)
 * Strangler Application Pattern
-* Strategic Goals -> Principles -> Practices
 * Stub Service - mock service for test environment
 * Synthetic Transaction Monitoring
 * Tailored Service Templates
