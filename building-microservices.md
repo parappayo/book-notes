@@ -1,4 +1,10 @@
 
+# About
+
+[Building Microservices: Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do)
+by Sam Newman
+published by O'Reilly, 2015
+
 # Thoughts
 
 Building Microservices is a fantastic book and one of the best I've read. It provides a concise summary of the state of tech thought in 2015 in the form of good general advice liberally sprinkled with helpful, concrete references to important resources. Implementation details (the sort that would quickly go out of date) are not provided. Martin Fowler is heavily referenced. An atypically large number of concepts and techs are introduced for such a short book.
