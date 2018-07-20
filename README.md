@@ -20,7 +20,7 @@ Summaries and reviews of books that I've read or am reading.
 
 ## On-Deck
 
-* 99 Bottles of OOP
+* [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 * Learning React
 * sed & awk 2nd Ed
 * Land of Lisp
