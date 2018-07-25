@@ -2,10 +2,11 @@
 
 Summaries and reviews of books that I've read or am reading.
 
-# Notes on Books
+# Book Notes
 
 ## Strongly Recommended
 
+* [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
 
 ## Recommended
@@ -16,11 +17,10 @@ Summaries and reviews of books that I've read or am reading.
 
 * [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
 
-# Books I'm Making Notes On
+# In Progress
 
 ## On-Deck
 
-* [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 * Learning React
 * sed & awk 2nd Ed
 * Land of Lisp

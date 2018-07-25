@@ -13,8 +13,10 @@ self-published, 2018
 
 * Abstraction (OOP, DRY, DI) is a complexity trade-off: more mental load for more resilience to change
 * Using the wrong abstraction is harder to recover from than duplicated code
+* Abstractions should be useable in future contexts, not just the ones they were extracted from
 * Code should expose the problem domain and name important concepts
 * Consider how soon the future will arrive and whether it comes with new info
+* Clever shortcuts are a false economy; code should tell the truth
 * Skipping TDD steps may lead to missed insights about the problem domain
 * TDD is not free, claims only that benfits outweigh costs
 * Tests should assert what is accomplished, not how
@@ -23,17 +25,19 @@ self-published, 2018
 * Static analysis tools only go so far; can't tell you if your names are meaningful
 * Liskov Substitution Principle also applies to Duck Typed objects
 * OOD is violated when a dependency is injected that does not supply its own behaviour
-* Under OOD conditionals should select for the object with the right behaviour, not select the right behaviour for a given object
-* If immutable objects (FP) were free, we'd always choose to use them
+* OOD conditionals should select the object with the right behaviour, not select the right behaviour for a given object; use Factory methods
+* If immutable objects (FP) were free, we'd always choose to use them because they're so much easier to reason about (threading, caching)
 * Two costs to FP: fixed learning cost (devs), runtime alloc cost
 * Case / switch implies that the conditional remains the same, Else-if does not
 * "Only two hard problems in CS" quote attributed to Phil Karlton
+* "make the change easy, then make the easy change" - Kent Beck
 
 # Concepts
 
 * Assignments, Branches, Conditions (ABC) - code metric
 * Concretely Abstract - damage done by extreme DRY
 * Cyclomatic Complexity - execution path count code metric
+* Data Clump - code smell, typically cured with Extract Class
 * Dependency Injection (DI)
 * Dependency Inversion - depend on abstractions rather than concretions
 * Don't Repeat Yourself (DRY)
@@ -46,16 +50,19 @@ self-published, 2018
 * Object-Oriented Design (OOD)
 * Open Principle - first refactor, then add features, not both at once
 * Open-Closed Principle - open for extension, closed for modification
+* POOD - Practical Object-Oriented Design
 * Primitive Obsession - code smell, cured by Extract Class
 * Shameless Green - quick greens forgive all sins
 * SOLID - Single Responsibility, Open-Closed, Liskov Substitution, Interface Segretgation, Dependency Inversion
 * Source Lines of Code (SLOC) - code metric
 * Speculatively General - paying the abstraction cost too soon
 * Squint Test - superficial evaluation of code similarity
+* Switch Statement - code smell, cure with Replace Conditional with State / Polymorphism
 * Transformation Priority Premise (Bob Martin)
 
 # Techs
 
+* Exercism (coding exercises founded by Katrina Owen)
 * Flog (Ruby ABC-ish code metrics by Ryan Davis)
 * Minitest (Ruby test)
 
