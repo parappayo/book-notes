@@ -76,52 +76,52 @@ Below I have also included some stuff not covered in the book (for want of a bet
 * Instantiate and collision trigger with a target bone to spawn a prop (equipment, arrow, etc.) as a child object on a character
 * Animation Events allow timelines to trigger script functions
 * Simple Ragdoll recipe
-** disable CharacterController, BasicController, and Animator components
-** enable Collider and CharacterJoint component on each bone
-** for each bone's Rigidbody, turn isKinematic off and detectCollisions on
-* Rigidbody.addExplosionForce
+    * disable `CharacterController`, `BasicController`, and `Animator` components
+    * enable `Collider` and `CharacterJoint` component on each bone
+    * for each bone's `Rigidbody`, turn `isKinematic` off and `detectCollisions` on
+* `Rigidbody.addExplosionForce`
 * procedural mouse aim animation using a spine transform and localEulerAngles
 * Navigation -> Object -> Navigation Static checkbox
-* can tie Animator.speed to AudioSource.pitch
+* can tie `Animator.speed` to `AudioSource.pitch`
 
 ## UI Tips
 
 * UI anchors all on one point means no stretching occurs
-* To render UI in world space, change Canvas render mode
-* Image.sprite - swap a UI sprite
-* Collider2D.CompareTag() - check hit by entity type
+* To render UI in world space, change `Canvas` render mode
+* `Image.sprite` - swap a UI sprite
+* `Collider2D.CompareTag()` - check hit by entity type
 * Button transition type "Animation" provides keyframe timeline
-* Bump UI sprites to front with RectTransform.SetAsLastSibling()
-* Text fields support some markup with Rich Text setting
-* TextMesh is convenient for 3D text
-* SliderValueToText - display slider value
+* Bump UI sprites to front with `RectTransform.SetAsLastSibling()`
+* `Text` fields support some markup with Rich Text setting
+* `TextMesh` is convenient for 3D text
+* `SliderValueToText` - display slider value
 * Hide slider handle to make it display-only
-* Use GameObject tags to identify minimap blipped entities
-* SetCustomCursor with Texture2D
-* ToggleGroup - Toggles as radio buttons
+* Use `GameObject` tags to identify minimap blipped entities
+* `SetCustomCursor` with Texture2D
+* `ToggleGroup` - Toggles as radio buttons
 * Tiled image much cheaper than a grid of sprites
-* GUILayout.Label() can take a Sprite to draw an editor icon
-* EditorUtility.DisplayProgressBar / ClearProgressBar
+* `GUILayout.Label()` can take a Sprite to draw an editor icon
+* `EditorUtility.DisplayProgressBar` / `ClearProgressBar`
 
 ## Pixel Perfect Settings
 
 * Project Settings: Disable Anti-Aliasing
-** Edit -> Project Settings -> Quality
-*** Anti-Aliasing -> Disabled
+    * Edit -> Project Settings -> Quality
+        * Anti-Aliasing -> Disabled
 * Sprite Import Settings: Filter Mode = Point, disable compression
-** select sprite / texture asset
-*** Filter Mode -> Point (no filter)
-*** Compression -> None
+    * select sprite / texture asset
+        * Filter Mode -> Point (no filter)
+        * Compression -> None
 * Pixels Per Unit (PPU)
-*** recommended to set it to your tile size
+    * recommended to set it to your tile size
 * Camera Orthographic Size
-** should be set to = Vertical Screen Resolution / (PPU * 0.5)
-*** eg. 270 / (16 / 2) = 8.4375
-** Snapping to Pixel Grid
-*** child object containing the sprite renderer
-*** Late Update ()
-*** position.x = (Mathf.Round(parent.position.x * PPU) / PPU) - parent.position.x;
-*** position.y = (Mathf.Round(parent.position.y * PPU) / PPU) - parent.position.y;
+    * should be set to = Vertical Screen Resolution / (PPU * 0.5)
+        * eg. 270 / (16 / 2) = 8.4375
+    * Snapping to Pixel Grid
+        * child object containing the sprite renderer
+        * `LateUpdate()`
+        * `position.x = (Mathf.Round(parent.position.x * PPU) / PPU) - parent.position.x;`
+        * `position.y = (Mathf.Round(parent.position.y * PPU) / PPU) - parent.position.y;`
 
 # Concepts
 
@@ -166,7 +166,7 @@ Below I have also included some stuff not covered in the book (for want of a bet
 ```
 public static Quaternion QuaternionFromMatrix(Matrix4x4 m)
 {
-return Quaternion.LookRotation(m.GetColumn(2), m.GetColumn(1));
+	return Quaternion.LookRotation(m.GetColumn(2), m.GetColumn(1));
 }
 
 public static Vector4 PositionFromMatrix(Matrix4x4 m)
