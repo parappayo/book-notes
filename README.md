@@ -21,15 +21,16 @@ Summaries and reviews of books that I've read or am reading.
 
 ## On-Deck
 
+* [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
+* Conversation Transformation
 * Learning React
 * sed & awk 2nd Ed
 * Land of Lisp
-* Conversation Transformation
+* REST in Practice
 * Essential Math for Game Programmers
 
 ## Backlog
 
-* Think Stats
 * Programming Beyond Practices
 * Release It!
 * Game Programming Patterns
