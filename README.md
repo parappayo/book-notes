@@ -22,6 +22,7 @@ Summaries and reviews of books that I've read or am reading.
 ## On-Deck
 
 * [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
+* [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 * Conversation Transformation
 * Learning React
 * sed & awk 2nd Ed
