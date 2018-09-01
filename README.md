@@ -54,3 +54,12 @@ Summaries and reviews of books that I've read or am reading.
 * Expert C Programming: Deep C Secrets
 * How Not to Program in C++
 * The Definitive Guide to the Windows Installer
+
+## Hockey
+
+* The Game (Ken Dryden, 1983)
+* Journeyman (Sean Pronger, 2012)
+* The Rebel League (Ed Wiles, 2005)
+* The Down Goes Brown History of the NHL (Sean McIndoe, 2018)
+* Take Your Eye Off the Puck (Greg Wyshynski, 2015)
+* The Battle of Alberta (Mark Spector, 2015)
