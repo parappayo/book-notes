@@ -22,9 +22,10 @@ Summaries and reviews of books that I've read or am reading.
 ## On-Deck
 
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
+* [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
 * Conversation Transformation
 * Learning React
-* sed & awk 2nd Ed
 * Land of Lisp
 * REST in Practice
 * Essential Math for Game Programmers
