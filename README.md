@@ -34,6 +34,7 @@ Summaries and reviews of books that I've read or am reading.
 
 * Programming Beyond Practices
 * Release It!
+* React in Action
 * Game Programming Patterns
 * The Quick Python Book
 * Clean Code
