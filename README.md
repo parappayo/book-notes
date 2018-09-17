@@ -12,6 +12,7 @@ Summaries and reviews of books that I've read or am reading.
 ## Recommended
 
 * [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
+* [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
 
 ## Not-so-Recommended
 

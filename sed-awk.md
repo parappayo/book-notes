@@ -171,6 +171,3 @@ ${
 * "The GNU Awk User's Guide" - Arnold Robbins 1996, now "Effective Awk Programming"
 * "The UNIX Programming Environment" - Brian Kernighan and Rob Pike, 1984
 * "UNIX Text Processing" - Dale Dougherty & Tim O'Reilly 1987
-
-# Code
-
