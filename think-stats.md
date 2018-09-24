@@ -1,9 +1,9 @@
 
 # About
 
-[Think Stats, 2nd Edition: Exploratory Data Analysis](http://shop.oreilly.com/product/0636920034094.do)
-by Allen Downey
-O'Reilly, 2014
+* [Think Stats, 2nd Edition: Exploratory Data Analysis](http://shop.oreilly.com/product/0636920034094.do)
+* by Allen Downey
+* published by O'Reilly, 2014
 
 # Thoughts
 

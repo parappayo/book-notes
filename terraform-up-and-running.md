@@ -1,9 +1,9 @@
 
 # About
 
-[Terraform Up & Running: Writing Infrastructure as Code](https://www.terraformupandrunning.com/)
-by Yevgeniy Brikman
-O'Reilly, March 2017
+* [Terraform Up & Running: Writing Infrastructure as Code](https://www.terraformupandrunning.com/)
+* by Yevgeniy Brikman
+* published by O'Reilly, March 2017
 
 # Thoughts
 

@@ -1,9 +1,9 @@
 
 # About
 
-[Unity 5.x Cookbook](https://www.packtpub.com/game-development/unity-5x-cookbook)
-by Matt Smith, Chico Queiroz
-published by Packt, 2015
+* [Unity 5.x Cookbook](https://www.packtpub.com/game-development/unity-5x-cookbook)
+* by Matt Smith, Chico Queiroz
+* published by Packt, 2015
 
 # Thoughts
 

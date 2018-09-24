@@ -1,9 +1,9 @@
 
 # About
 
-[99 Bottles of OOP: A Practical Guide to Object-Oriented Design](https://www.sandimetz.com/99bottles/)
-by Sandi Metz, Katrina Owen
-self-published, 2018
+* [99 Bottles of OOP: A Practical Guide to Object-Oriented Design](https://www.sandimetz.com/99bottles/)
+* by Sandi Metz, Katrina Owen
+* self-published, 2018
 
 # Thoughts
 

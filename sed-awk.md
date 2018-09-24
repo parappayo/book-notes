@@ -1,9 +1,9 @@
 
 # About
 
-[sed & Awk, 2nd Edition: UNIX Power Tools](http://shop.oreilly.com/product/9781565922259.do)
-by Dale Dougherty, Arnold Robbins
-O'Reilly, 2010
+* [sed & Awk, 2nd Edition: UNIX Power Tools](http://shop.oreilly.com/product/9781565922259.do)
+* by Dale Dougherty, Arnold Robbins
+* published by O'Reilly, 2010
 
 # Thoughts
 

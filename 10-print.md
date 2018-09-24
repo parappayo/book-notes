@@ -1,7 +1,9 @@
 
 # About
 
-[10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://10print.org/)
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://10print.org/)
+* by Casey Reas, Ian Bogost, Jeremy Douglass, John Bell, Mark C. Marino, Mark Sample, Michael Mateas, Nick Montfort, Noah Vawter, and Patsy Baudoin
+* published by MIT Press, 2012
 
 # Thoughts
 

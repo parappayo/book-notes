@@ -1,9 +1,9 @@
 
 # About
 
-[Building Microservices: Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do)
-by Sam Newman
-published by O'Reilly, 2015
+* [Building Microservices: Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do)
+* by Sam Newman
+* published by O'Reilly, 2015
 
 # Thoughts
 
