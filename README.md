@@ -1,6 +1,6 @@
 # About
 
-Summaries and reviews of books that I've read or am reading.
+Helpful references and terse reviews of books that I've read or am reading. Sometimes I include notes about related topics that are not in the actual book.
 
 # Book Notes
 
@@ -8,6 +8,7 @@ Summaries and reviews of books that I've read or am reading.
 
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
+* [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 
 ## Recommended
 
@@ -22,7 +23,6 @@ Summaries and reviews of books that I've read or am reading.
 
 ## On-Deck
 
-* [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
 * [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
 * Conversation Transformation
@@ -33,12 +33,15 @@ Summaries and reviews of books that I've read or am reading.
 
 ## Backlog
 
-* Programming Beyond Practices
 * Release It!
+* The DevOps Handbook
+* Refactoring (2nd Edition)
+* Programming Beyond Practices
 * React in Action
+* Practical Object-Oriented Design (2nd Edition)
+* Agile Principles, Patterns, and Practices in C#
 * Game Programming Patterns
 * The Quick Python Book
-* Clean Code
 * Fluent Python
 * Real-World Haskell
 * C# in Depth 4th Ed
@@ -52,11 +55,11 @@ Summaries and reviews of books that I've read or am reading.
 
 ## You May Question My Sanity
 
+* Expert C Programming: Deep C Secrets
+* The Definitive Guide to the Windows Installer
 * D&D Rules Cyclopedia
 * lex & yacc
-* Expert C Programming: Deep C Secrets
 * How Not to Program in C++
-* The Definitive Guide to the Windows Installer
 
 ## Hockey
 
