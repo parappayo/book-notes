@@ -21,6 +21,7 @@
 * TDD is not free, claims only that benfits outweigh costs
 * Tests should assert what is accomplished, not how
 * Refactoring breaks test - either the change is not refactoring (modified behaviour) or the test is wrong (validates how instead of what)
+* Each code smell has a curative refactoring
 * When stuck naming, try tabulating possible values and think of a sensible column header name
 * Static analysis tools only go so far; can't tell you if your names are meaningful
 * Liskov Substitution Principle also applies to Duck Typed objects
@@ -34,6 +35,7 @@
 
 # Concepts
 
+* 99BOOP - 99 Bottles of OOP
 * Assignments, Branches, Conditions (ABC) - code metric
 * Concretely Abstract - damage done by extreme DRY
 * Cyclomatic Complexity - execution path count code metric
@@ -69,6 +71,7 @@
 # Books
 
 * Implementation Patterns (Kent Beck)
+* Practical Object Oriented Design in Ruby (Sandi Metz)
 * Refactoring: Ruby Edition (Jay Fields, Martin Fowler, Shane Harvie)
 * Test-Driven Development by Example (Kent Beck)
 
@@ -78,5 +81,5 @@
 
 # See Also
 
-* [Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU) (Sandi Metz talk)
-* Each code smell has a curative refactoring
+* [Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU) (Sandi Metz talk, RailsConf 2016)
+* [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) (Sandi Metz talk, RailsConf 2014)
