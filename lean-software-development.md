@@ -15,7 +15,7 @@ A fantastic book. On-point about the principles that enable success in software 
 * Practices follow from principles; focus on adopting lean principles and let practices emerge. Practices should be decided by teams rather than dictated by management. Practices need to be continually updated and refined. Process certification programs may help to document successful practices, but hinder the creation of them.
 * There are too many critical performance metrics to properly capture them individually. Aggregate performance metrics and offer bonuses and incentives for performance at one level higher, eg. team bonuses based on company performance or individual bonuses based on team performance. Protect against scrutiny of individual performance.
 * When encountering difficulty, look to the bigger picture: drill down to root causes, eliminate constraints to growth, and incentivize aggregate performance one level up.
-* Discard the idea that workers are motivated by their pay, and ask what will engage them to participate. Motivation requires a clear, achievable purpose, self-direction, feedback, and freedom from skepticism. This is built on a foundation of belonging (honesty, succeed or fail as a team), safety (tolerance, trust), competence (confidence), and progress (celebrate milestones,)
+* Discard the idea that workers are motivated by their pay, and ask what will engage them to participate. Motivation requires a clear, achievable purpose, self-direction, feedback, and freedom from skepticism. This is built on a foundation of belonging (honesty, succeed or fail as a team), safety (tolerance, trust), competence (confidence), and progress (celebrate milestones.)
 * Leadership differs from management. Managers tackle complexity and use planning, organization, and control. Leaders tackle change by setting direction, enabling colleagues, and motivating the team.
 * Conservative management principles stifle lean design practices. Such principles include committing to early planning decisions, being threatened by feedback and learning, increasing discipline to avoid mistakes, and demanding adherence to rigidly defined processes. These principles are better suited for production processes, not design processes.
 * Work in small batches to shorten feedback loops and respond to observations rather than predictions. Features should not span iterations. Project tooling (CI, TDD) needs to support rapid iteration.
@@ -134,6 +134,18 @@ A fantastic book. On-point about the principles that enable success in software 
 * Work-in-Queue - amount of work waiting for service, roughly proportional to cycle time
 * Work-Out program - used by General Electric; teams surface best practices to their managers, inverting the control chain; successful process improvement and knowledge sharing technique
 * Zero Defects Mentality - US Army - tolerate no mistakes, tends to kill motivation
+
+# Challenges in Dysfunctional Management
+
+This is a bonus section for me to riff on issues that inhibit Lean Development.
+
+* Management in good faith - managers may want to limit the success of individual employees and even be willing to risk team failure for it. Principle-Agent problem, bi-directional Trust Gaps between management and teams.
+* Recognizing simplicity - there may be disagreement over whether a minimal viable product was much less work to deliver than a fully realized version. Leads to "why didn't you just build what I asked?" Breaking work into smaller batches is hindered because management fails to appreciate why some work is "smaller" in the first place.
+* Recognizing cleanliness - to a naive audience, clean code appears to be less work to produce than unnecessarily complicated code. There may be mistaken assumptions such that the clean code accomplishes less, handles fewer error cases, etc. Clean code may fool managers into thinking that the problem was not difficult to solve in the first place.
+* Hero obsession - management may reward the last-minute hero who jumps at every crisis without asking why the crises keep occurring. Common assumption is that most software development crises are inevitable. Unethical developers learn to court crises knowing that they'll be valued more for fixing them later.
+* Allowing velocity to build - various mis-management methods can stifle velocity, such demanding that a developer only work on one task at a time, only giving a developer menial tasks, only giving a developer hard tasks, etc.
+* Assumption of isolation - management may set expectations assuming decoupled subsystems, leading to unpleasant surprises when changing system X breaks system Y. Test processes may be too narrow in scope and fail to account for the Butterfly Effect. Blame-oriented managers may blame today's troubleshooters for yesterday's job security coders.
+* Excruciating pontification - managers, leads, and peers alike may be uninterested in sharing information effectively but make a lot of noise and take credit for it anyway. Mentorship can degenerate into hazing and talking-down.
 
 # Books
 
