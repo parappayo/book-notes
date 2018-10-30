@@ -1,6 +1,6 @@
 # About
 
-Helpful references and terse reviews of books that I've read or am reading. Sometimes I include notes about related topics that are not in the actual book.
+Helpful references and terse reviews of non-fiction books that I've read or am reading. Sometimes I include notes about related topics that are not in the actual book.
 
 # Book Notes
 
@@ -25,21 +25,24 @@ Helpful references and terse reviews of books that I've read or am reading. Some
 
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
 * [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
+* Designing Data-Intensive Applications
+* The DevOps Handbook
+* REST in Practice
 * Conversation Transformation
 * Learning React
 * Land of Lisp
-* REST in Practice
 * Essential Math for Game Programmers
 
 ## Backlog
 
 * Release It!
-* The DevOps Handbook
 * Refactoring (2nd Edition)
 * Programming Beyond Practices
 * React in Action
-* Practical Object-Oriented Design (2nd Edition)
 * Agile Principles, Patterns, and Practices in C#
+* Python for Data Analysis
+* Practical Statistics for Data Scientists
+* Practical Object-Oriented Design (2nd Edition)
 * Game Programming Patterns
 * The Quick Python Book
 * Fluent Python
@@ -52,6 +55,10 @@ Helpful references and terse reviews of books that I've read or am reading. Some
 * Game Engine Architecture
 * The Elements of Computer Systems
 * Think Python
+* Foundations of Game Engine Development
+* The Joy of Clojure
+* Leading Teams
+* The Manager's Path
 
 ## You May Question My Sanity
 
@@ -60,6 +67,7 @@ Helpful references and terse reviews of books that I've read or am reading. Some
 * D&D Rules Cyclopedia
 * lex & yacc
 * How Not to Program in C++
+* To Mock a Mockingbird and Other Logic Puzzles
 
 ## Hockey
 
