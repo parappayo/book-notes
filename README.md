@@ -14,6 +14,7 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 
 * [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
 * [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
+* [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
 
 ## Not-so-Recommended
 
@@ -24,22 +25,23 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 ## On-Deck
 
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
-* [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
 * Designing Data-Intensive Applications
 * The DevOps Handbook
-* REST in Practice
+* The Book of F#
 * Conversation Transformation
 * Learning React
-* Land of Lisp
-* Essential Math for Game Programmers
 
 ## Backlog
 
+* Land of Lisp
+* REST in Practice
 * Release It!
 * Refactoring (2nd Edition)
 * Programming Beyond Practices
-* React in Action
+* C# in Depth 4th Ed
 * Agile Principles, Patterns, and Practices in C#
+* Essential Math for Game Programmers
+* React in Action
 * Python for Data Analysis
 * Practical Statistics for Data Scientists
 * Practical Object-Oriented Design (2nd Edition)
@@ -47,7 +49,6 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * The Quick Python Book
 * Fluent Python
 * Real-World Haskell
-* C# in Depth 4th Ed
 * Effective Modern C++
 * Modern C++ Programming with Test-Driven Development
 * Practical Common Lisp
