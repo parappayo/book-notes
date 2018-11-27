@@ -26,6 +26,7 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
 * Designing Data-Intensive Applications
+* .NET Core in Action
 * The DevOps Handbook
 * The Book of F#
 * Conversation Transformation
@@ -33,9 +34,13 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 
 ## Backlog
 
+* Microservices in .NET Core
 * Land of Lisp
-* REST in Practice
 * Release It!
+* Doman Modeling Made Functional
+* Node.js 8 The Right Way
+* Thinking Forth
+* REST in Practice
 * Refactoring (2nd Edition)
 * Programming Beyond Practices
 * C# in Depth 4th Ed
@@ -60,6 +65,9 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * The Joy of Clojure
 * Leading Teams
 * The Manager's Path
+* The Hitchhiker's Guide to Python
+* Ruby Under a Microscope
+* Category Theory for Programmers
 
 ## You May Question My Sanity
 
