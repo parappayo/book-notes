@@ -12,6 +12,7 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 
 ## Recommended
 
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
 * [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
 * [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
 * [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
@@ -24,7 +25,6 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 
 ## On-Deck
 
-* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
 * Designing Data-Intensive Applications
 * .NET Core in Action
 * The DevOps Handbook
