@@ -25,9 +25,8 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 
 ## On-Deck
 
-* Designing Data-Intensive Applications
-* .NET Core in Action
-* The DevOps Handbook
+* [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
+* [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * The Book of F#
 * Conversation Transformation
 * Learning React
@@ -37,6 +36,7 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * Microservices in .NET Core
 * Land of Lisp
 * Release It!
+* The DevOps Handbook
 * Doman Modeling Made Functional
 * Node.js 8 The Right Way
 * Thinking Forth
