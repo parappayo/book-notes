@@ -27,21 +27,24 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+* [Learning React](./learning-react.md) (2017, O'Reilly)
+* Visualize This (Nathan Yau)
+* Doing Data Science (Cathy O'Neil and Rachel Schutt)
 * The Book of F#
 * Conversation Transformation
-* Learning React
 
 ## Backlog
 
 * Microservices in .NET Core
-* Land of Lisp
+* Data Points
 * Release It!
 * The DevOps Handbook
+* Refactoring (2nd Edition)
+* Land of Lisp
 * Doman Modeling Made Functional
 * Node.js 8 The Right Way
 * Thinking Forth
 * REST in Practice
-* Refactoring (2nd Edition)
 * Programming Beyond Practices
 * C# in Depth 4th Ed
 * Agile Principles, Patterns, and Practices in C#
