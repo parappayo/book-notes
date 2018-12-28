@@ -96,8 +96,9 @@ On the other hand, sed is a good example of an overly terse domain-specific lang
 
 ## CLI Flags
 
-* `-n` - suppress automatic input, require p command instead
+* `-n` - suppress automatic output, require p command instead
 * `-f` - read script from file instead of as an argument
+* `-i` - in-place editing of a file, will not read from stdin
 
 ## Examples
 
