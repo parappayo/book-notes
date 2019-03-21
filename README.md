@@ -16,6 +16,7 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
 * [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
 * [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
+* [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
 
 ## Not-so-Recommended
 
@@ -29,7 +30,6 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * [Learning React](./learning-react.md) (2017, O'Reilly)
-* Conversation Transformation
 * Visualize This (Nathan Yau)
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
 * The Book of F#
@@ -81,6 +81,9 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * Foundations of Game Engine Development
 * Game Engine Architecture
 * The Elements of Computer Systems
+* Systems Programming in Modula-3
+* Significant Zero
+* Bad Blood
 
 ## Hockey
 
