@@ -30,14 +30,18 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * [Learning React](./learning-react.md) (2017, O'Reilly)
+* [The Hitchhiker's Guide to Python](./hitchhiker-python.md) (Kenneth Reitz and Tanya Schlusser, 2016, O'Reilly)
 * Visualize This (Nathan Yau)
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
 * The Book of F#
+* Kanban in Action
+* RESTful Web APIs
 
 ## Backlog
 
-* Leading Teams
 * The Manager's Path
+* Practical SQL
+* Leading Teams
 * Microservices in .NET Core
 * Data Points
 * The DevOps Handbook
@@ -62,8 +66,10 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * Practical Common Lisp
 * Think Python
 * The Joy of Clojure
-* The Hitchhiker's Guide to Python
 * Ruby Under a Microscope
+* Practical Vim
+* Switch: How to Change Things When Change is Hard
+* Secure Your Node.js Web Application
 
 ## You May Question My Sanity
 
