@@ -6,6 +6,22 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 
 A loosely curated selection of books intended to provide a broad perspective on each topic.
 
+## Programming Methodology
+
+* Refactoring (Kent Beck, Martin Fowler, 1999, Addison-Wesley)
+* [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
+* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
+* [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
+* Domain Modelling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+
+## Software Project Management
+
+* Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
+* [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+* Kanban in Action (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
+* The Manager's Path (Camille Fournier, 2017, O'Reilly)
+* Accelerate (Gene Kim, 2018, IT Revolution)
+
 ## Lisp & Scheme
 
 * Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
@@ -65,9 +81,11 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
 * The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
 * Ruby Under a Microscope (Pat Shaughnessy, 2013, No Starch)
+* Learn You Some Erlang for Great Good! (Fred Hebert, 2013, No Starch)
 * The Book of F# (Dave Fancher, 2014, No Starch)
 * Functional Programming in Scala (Paul Chiusano, Runar Bjarnason, 2014, Manning)
 * Programming Sound with Pure Data (Tony Hillerson, 2014, Pragmatic Bookshelf)
+* Programming Rust (Jim Blandy, Jason Orendorff, 2017, O'Reilly)
 
 ## Operating Systems
 
