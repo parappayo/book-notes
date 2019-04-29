@@ -6,17 +6,17 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 
 ## Strongly Recommended
 
+* [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
-* [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 
 ## Recommended
 
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
-* [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
-* [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
-* [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
 * [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
+* [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
+* [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
+* [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
 
 ## Not-so-Recommended
 
@@ -31,6 +31,7 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * [Learning React](./learning-react.md) (2017, O'Reilly)
 * [The Hitchhiker's Guide to Python](./hitchhiker-python.md) (Kenneth Reitz and Tanya Schlusser, 2016, O'Reilly)
+* The Manager's Path
 * Visualize This (Nathan Yau)
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
 * The Book of F#
@@ -39,16 +40,18 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 
 ## Backlog
 
-* The Manager's Path
+* Introducing EventStorming
+* Refactoring (2nd Edition)
+* SQL for Smarties
+* Domain Modeling Made Functional
+* Land of Lisp
+* UNIX and Linux System Administration Handbook (5th Edition)
 * Practical SQL
 * Leading Teams
 * Microservices in .NET Core
 * Data Points
 * The DevOps Handbook
-* Refactoring (2nd Edition)
-* UNIX and Linux System Administration Handbook (5th Edition)
-* Land of Lisp
-* Doman Modeling Made Functional
+* Vue.js Up & Running
 * Node.js 8 The Right Way
 * SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys
 * REST in Practice
@@ -61,8 +64,6 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * The Quick Python Book
 * Fluent Python
 * Real-World Haskell
-* Effective Modern C++
-* Modern C++ Programming with Test-Driven Development
 * Practical Common Lisp
 * Think Python
 * The Joy of Clojure
@@ -90,6 +91,8 @@ Helpful references and terse reviews of non-fiction books that I've read or am r
 * Systems Programming in Modula-3
 * Significant Zero
 * Bad Blood
+* Effective Modern C++
+* Modern C++ Programming with Test-Driven Development
 
 ## Hockey
 
