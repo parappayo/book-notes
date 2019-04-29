@@ -9,10 +9,13 @@ A loosely curated selection of books intended to provide a broad perspective on 
 ## Programming Methodology
 
 * Refactoring (Kent Beck, Martin Fowler, 1999, Addison-Wesley)
+* The Pragmatic Programmer (Andy Hunt, Dave Thomas, 1999, Pragmatic Bookshelf)
 * [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
+* Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 * Domain Modelling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+* Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
 ## Software Project Management
 
@@ -20,6 +23,7 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 * Kanban in Action (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
+* The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
 * Accelerate (Gene Kim, 2018, IT Revolution)
 
 ## Lisp & Scheme
@@ -76,7 +80,9 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
 * The Art of Prolog (Leon Sterling, 1986, MIT Press)
 * lex & yacc (Brown, Levine, and Mason, 1990, O'Reilly)
+* Programming Perl (Larry Wall, 1991, O'Reilly)
 * Systems Programming in Modula-3 (Greg Nelson, 1991, Prentice Hall)
+* Programming Ruby (Andy Hunt, Chad Fowler, and Dave Thomas, 2001, Pragmatic Bookshelf)
 * Real-World Haskell (O'Sullivan, Stewart, and Goerzen, 2008, O'Reilly)
 * [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
 * The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
@@ -87,11 +93,21 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * Programming Sound with Pure Data (Tony Hillerson, 2014, Pragmatic Bookshelf)
 * Programming Rust (Jim Blandy, Jason Orendorff, 2017, O'Reilly)
 
+## General Computing
+
+* Numerical Recipes (William Press, 1986, Cambridge University Press)
+* The Turing Omnibus (Alexander Dewdney, 1989)
+* Applied Cryptography (Bruce Schneier, 1993, Wiley)
+* Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
+* Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
+* The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
+
 ## Operating Systems
 
 * The Design and Implementation of the 4.3BSD Operating System (Samuel Leffler, 1989, Addison-Wesley)
 * Linux Administration Handbook (Nemeth, Snyder, and Hein, 1989, Addison-Wesley)
 * Programming Windows (Charles Petzold, 1990, Microsoft)
+* Advanced Programming in the UNIX Environment (W. Richard Stevens, 1992, Addison-Wesley)
 * Absolute FreeBSD (Michael Lucas, 2007, No Starch)
 
 ## Game Development
@@ -102,6 +118,23 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * Game Programming Patterns (Robert Nystrom, 2011, Genever Benning)
 * Best of Game Programming Gems (Mark DeLoura, 2014, Nelson Education)
 * Foundations of Game Engine Development (Eric Lengyel, 2016, Terathon Software)
+
+## Web Services
+
+* RESTful Web APIs
+* REST in Practice
+* Secure Your Node.js Web Application
+* Microservices in .NET Core
+* Node.js 8 The Right Way
+
+## RPG
+
+* Shadowrun (1989, FASA)
+* D&D Rules Cyclopedia (Aaron Allston, Jon Pickens, Steven Schend, 1991, TSR)
+* Eberron Campaign Setting (Keith Baker, Bill Slavicsek, and James Wyatt, 2004, Wizards of the Coast)
+* D&D 4th Edition Player's Handbook (Heinsoo, Collins, Wyatt, Crawford, and Mearls, 2009, Wizards of the Coast)
+* Pathfinder Core Rulebook (Jason Bulmahn, 2009, Paizo)
+* Rules Compendium 4e (2010, Wizards of the Coast)
 
 ## Hockey
 
@@ -160,7 +193,7 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * The DevOps Handbook
 * Refactoring (2nd Edition)
 * UNIX and Linux System Administration Handbook (5th Edition)
-* Doman Modeling Made Functional
+* Domain Modeling Made Functional
 * Node.js 8 The Right Way
 * SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys
 * REST in Practice
@@ -176,9 +209,7 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * Absolute OpenBSD
 * Programming Pearls
 * The Definitive Guide to the Windows Installer
-* D&D Rules Cyclopedia
 * To Mock a Mockingbird and Other Logic Puzzles
 * Category Theory for Programmers
-* The Elements of Computer Systems
 * Significant Zero
 * Bad Blood
