@@ -121,11 +121,12 @@ A loosely curated selection of books intended to provide a broad perspective on 
 
 ## Web Services
 
-* RESTful Web APIs
-* REST in Practice
-* Secure Your Node.js Web Application
-* Microservices in .NET Core
-* Node.js 8 The Right Way
+* REST in Practice (Savas Parastatidis, Jim Webber, and Ian Robinson, 2010, O'Reilly)
+* RESTful Web APIs (Leonard Richardson, Sam Ruby, and Mike Amundsen, 2013, O'Reilly)
+* Secure Your Node.js Web Application (Karl Duuna, 2015, Pragmatic Bookshelf)
+* Microservices in .NET Core (Christian Gammelgaard, 2017, Manning)
+* Designing Web APIs (Amir Shevat, Brenda Jin, and Saurabh Sahni, 2018, O'Reilly)
+* Node.js 8 The Right Way (Jim Wilson, 2018, Pragmatic Bookshelf)
 
 ## RPG
 
