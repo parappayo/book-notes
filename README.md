@@ -8,14 +8,19 @@ A loosely curated selection of books intended to provide a broad perspective on 
 
 ## Programming Methodology
 
+Suggested Track: The Pragmatic Programmer -> Working Effectively with Legacy Code -> Release It! -> Building Microservices
+
 * Refactoring (Kent Beck, Martin Fowler, 1999, Addison-Wesley)
 * The Pragmatic Programmer (Andy Hunt, Dave Thomas, 1999, Pragmatic Bookshelf)
+* Working Effectively with Legacy Code (Michael Feathers, 2004, Prentice Hall)
 * [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
 * Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 
 ## Software Project Management
+
+Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -> Radical Candor
 
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
@@ -40,6 +45,8 @@ A loosely curated selection of books intended to provide a broad perspective on 
 
 ## Python
 
+Suggested Track: The Quick Python Book -> The Hitchhiker's Guide to Python
+
 * The Quick Python Book (Daryl Harms, Kenneth McDonald, 2000, Manning)
 * Gray Hat Python (Justin Seitz, 2009, No Starch)
 * Python for Data Analysis (Wes McKinney, 2011, O'Reilly)
@@ -57,6 +64,8 @@ A loosely curated selection of books intended to provide a broad perspective on 
 
 ## C & C++
 
+Suggested Track: How Not to Program in C++ -> Effective C++ -> Expert C Programming
+
 * The C Programming Language (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
 * Effective C++ (Scott Meyers, 1992, Addison-Wesley)
 * Expert C Programming (Peter van der Linden, 1994, Prentice Hall)
@@ -71,6 +80,8 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * Functional Programming in C++ (Ivan Cukic, 2018, Manning)
 
 ## JavaScript
+
+Suggested Track: JavaScript: The Good Parts -> Learning React
 
 * JavaScript: The Good Parts (Douglas Crockford, 2008, O'Reilly)
 * Eloquent JavaScript (Marijn Haverbeke, 2011, No Starch)
@@ -103,6 +114,8 @@ A loosely curated selection of books intended to provide a broad perspective on 
 
 ## General Computing
 
+Suggested Track: The Elements of Computing Systems -> The Turing Omnibus -> Numerical Recipies -> Hacker's Delight
+
 * Numerical Recipes (William Press, 1986, Cambridge University Press)
 * The Turing Omnibus (Alexander Dewdney, 1989)
 * Applied Cryptography (Bruce Schneier, 1993, Wiley)
@@ -119,6 +132,8 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * Absolute FreeBSD (Michael Lucas, 2007, No Starch)
 
 ## Game Development
+
+Suggested Track: Game Programming Patterns -> Game Engine Architecture
 
 * Flights of Fantasy (Christopher Lampton, 1993, Waite Group)
 * Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
@@ -146,6 +161,8 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * Rules Compendium 4e (2010, Wizards of the Coast)
 
 ## Hockey
+
+Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of the NHL -> Journeyman -> The Game
 
 * The Game (Ken Dryden, 1983)
 * The Rebel League (Ed Wiles, 2005)
