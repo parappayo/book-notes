@@ -35,6 +35,15 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * Domain Modelling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
+## Data & Analytics
+
+* Visualize This (Nathan Yau, 2011, Wiley)
+* Python for Data Analysis (Wes McKinney, 2011, O'Reilly)
+* Doing Data Science (Cathy O'Neil and Rachel Schutt, 2013, O'Reilly)
+* Data Points (Nathan Yau, 2013, Wiley)
+* [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+* A Curious Moon (Rob Conery, 2017, Big Machine)
+
 ## Lisp & Scheme
 
 * Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
@@ -93,6 +102,14 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 
 * The Book of F# (Dave Fancher, 2014, No Starch)
 * Domain Modeling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+
+## SQL
+
+* SQL for Smarties (Joe Celko, 1995, Morgan Kaufmann)
+* SQL Bookbook (Anthony Molinaro, 2005, O'Reilly)
+* SQL Hacks (Andrew Cumming, 2006, O'Reilly)
+* Head First SQL (Lynn Beighley, 2007, O'Reilly)
+* Practical SQL (Anthony DeBarros, 2018, No Starch)
 
 ## Other Programming Languages
 
@@ -206,7 +223,6 @@ Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of th
 * [The Hitchhiker's Guide to Python](./hitchhiker-python.md) (Kenneth Reitz and Tanya Schlusser, 2016, O'Reilly)
 * Domain Modeling Made Functional
 * The Manager's Path
-* Visualize This (Nathan Yau)
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
 * The Book of F#
 * Kanban in Action
@@ -214,15 +230,13 @@ Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of th
 
 ## Backlog
 
+* Visualize This (Nathan Yau)
 * Introducing EventStorming
 * Refactoring (2nd Edition)
-* SQL for Smarties
 * Land of Lisp
 * UNIX and Linux System Administration Handbook (5th Edition)
-* Practical SQL
 * Leading Teams
 * Microservices in .NET Core
-* Data Points
 * The DevOps Handbook
 * Vue.js Up & Running
 * Refactoring (2nd Edition)
