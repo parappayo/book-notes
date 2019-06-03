@@ -43,6 +43,7 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * Data Points (Nathan Yau, 2013, Wiley)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * A Curious Moon (Rob Conery, 2017, Big Machine)
+* Practical Statistics for Data Scientists (Peter Bruce and Andrew Bruce, 2017, O'Reilly)
 
 ## Lisp & Scheme
 
@@ -215,21 +216,21 @@ Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of th
 
 ## On-Deck
 
-* A Curious Moon
 * [Release It! Second Edition](./release-it.md) (Michael Nygard, 2018, Pragmatic Bookshelf)
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * [Learning React](./learning-react.md) (2017, O'Reilly)
 * [The Hitchhiker's Guide to Python](./hitchhiker-python.md) (Kenneth Reitz and Tanya Schlusser, 2016, O'Reilly)
+* A Curious Moon
 * Domain Modeling Made Functional
 * The Manager's Path
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
-* The Book of F#
 * Kanban in Action
 * RESTful Web APIs
 
 ## Backlog
 
+* The Book of F#
 * Visualize This (Nathan Yau)
 * Introducing EventStorming
 * Refactoring (2nd Edition)
@@ -237,20 +238,10 @@ Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of th
 * UNIX and Linux System Administration Handbook (5th Edition)
 * Leading Teams
 * Microservices in .NET Core
-* The DevOps Handbook
 * Vue.js Up & Running
-* Refactoring (2nd Edition)
-* UNIX and Linux System Administration Handbook (5th Edition)
-* Domain Modeling Made Functional
-* Node.js 8 The Right Way
 * SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys
-* REST in Practice
 * Programming Beyond Practices
-* Practical Statistics for Data Scientists
 * Practical Object-Oriented Design (2nd Edition)
-* Practical Vim
-* Switch: How to Change Things When Change is Hard
-* Secure Your Node.js Web Application
 
 ## You May Question My Sanity
 
@@ -261,3 +252,5 @@ Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of th
 * Category Theory for Programmers
 * Significant Zero
 * Bad Blood
+* Practical Vim
+* Switch: How to Change Things When Change is Hard
