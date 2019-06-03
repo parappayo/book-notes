@@ -14,8 +14,6 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
 * Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
-* Domain Modelling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
-* Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
 ## Software Project Management
 
@@ -24,7 +22,13 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * Kanban in Action (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
-* Accelerate (Gene Kim, 2018, IT Revolution)
+* Radical Candor (Kim Scott, 2017, Pan Macmillen)
+* [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
+
+## Software Project Design
+
+* Domain Modelling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+* Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
 ## Lisp & Scheme
 
@@ -74,6 +78,11 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * If Hemingway Wrote JavaScript (Angus Croll, 2014, No Starch)
 * Learning React (Alex Banks, Eve Porcello, 2017, O'Reilly)
 
+## F\#
+
+* The Book of F# (Dave Fancher, 2014, No Starch)
+* Domain Modeling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+
 ## Other Programming Languages
 
 * Thinking Forth (Leo Brodie, 1984, Fig Leaf)
@@ -88,7 +97,6 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
 * Ruby Under a Microscope (Pat Shaughnessy, 2013, No Starch)
 * Learn You Some Erlang for Great Good! (Fred Hebert, 2013, No Starch)
-* The Book of F# (Dave Fancher, 2014, No Starch)
 * Functional Programming in Scala (Paul Chiusano, Runar Bjarnason, 2014, Manning)
 * Programming Sound with Pure Data (Tony Hillerson, 2014, Pragmatic Bookshelf)
 * Programming Rust (Jim Blandy, Jason Orendorff, 2017, O'Reilly)
@@ -153,6 +161,7 @@ A loosely curated selection of books intended to provide a broad perspective on 
 ## Strongly Recommended
 
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+* [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
 
@@ -172,12 +181,13 @@ A loosely curated selection of books intended to provide a broad perspective on 
 
 ## On-Deck
 
+* A Curious Moon
 * [Release It! Second Edition](./release-it.md) (Michael Nygard, 2018, Pragmatic Bookshelf)
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * [Learning React](./learning-react.md) (2017, O'Reilly)
 * [The Hitchhiker's Guide to Python](./hitchhiker-python.md) (Kenneth Reitz and Tanya Schlusser, 2016, O'Reilly)
-* Accelerate
+* Domain Modeling Made Functional
 * The Manager's Path
 * Visualize This (Nathan Yau)
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
@@ -190,7 +200,6 @@ A loosely curated selection of books intended to provide a broad perspective on 
 * Introducing EventStorming
 * Refactoring (2nd Edition)
 * SQL for Smarties
-* Domain Modeling Made Functional
 * Land of Lisp
 * UNIX and Linux System Administration Handbook (5th Edition)
 * Practical SQL
