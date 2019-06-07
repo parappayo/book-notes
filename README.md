@@ -42,7 +42,7 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * Doing Data Science (Cathy O'Neil and Rachel Schutt, 2013, O'Reilly)
 * Data Points (Nathan Yau, 2013, Wiley)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
-* A Curious Moon (Rob Conery, 2017, Big Machine)
+* [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
 * Practical Statistics for Data Scientists (Peter Bruce and Andrew Bruce, 2017, O'Reilly)
 
 ## Lisp & Scheme
@@ -97,12 +97,12 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 * Eloquent JavaScript (Marijn Haverbeke, 2011, No Starch)
 * Node.js in Action (Harter, Cantelon, Rajlich, and Holowaychuk, 2011, Manning)
 * If Hemingway Wrote JavaScript (Angus Croll, 2014, No Starch)
-* Learning React (Alex Banks, Eve Porcello, 2017, O'Reilly)
+* [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
 
 ## F\#
 
 * The Book of F# (Dave Fancher, 2014, No Starch)
-* Domain Modeling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+* [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 
 ## SQL
 
@@ -112,7 +112,7 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 * Head First SQL (Lynn Beighley, 2007, O'Reilly)
 * Practical SQL (Anthony DeBarros, 2018, No Starch)
 
-## Other Programming Languages
+## Programming Languages
 
 * Thinking Forth (Leo Brodie, 1984, Fig Leaf)
 * Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
@@ -216,13 +216,11 @@ Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of th
 
 ## On-Deck
 
+* [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
+* [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * [Release It! Second Edition](./release-it.md) (Michael Nygard, 2018, Pragmatic Bookshelf)
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
-* [Learning React](./learning-react.md) (2017, O'Reilly)
-* [The Hitchhiker's Guide to Python](./hitchhiker-python.md) (Kenneth Reitz and Tanya Schlusser, 2016, O'Reilly)
-* A Curious Moon
-* Domain Modeling Made Functional
 * The Manager's Path
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
 * Kanban in Action
