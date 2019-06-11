@@ -47,8 +47,10 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path
 * Data Points (Nathan Yau, 2013, Wiley)
 * [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+* Database Reliability Engineering (Charity Majors, Laine Campbell, 2017, O'Reilly)
 * [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
 * Practical Statistics for Data Scientists (Peter Bruce and Andrew Bruce, 2017, O'Reilly)
+* Deep Learning and the Game of Go (Kevin Ferguson, 2019, Manning)
 
 ## Lisp & Scheme
 
@@ -156,10 +158,6 @@ Suggested Track: The Elements of Computing Systems -> The Turing Omnibus -> Nume
 * Advanced Programming in the UNIX Environment (W. Richard Stevens, 1992, Addison-Wesley)
 * Absolute FreeBSD (Michael Lucas, 2007, No Starch)
 
-## Cloud Architecture
-
-* [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
-
 ## Game Development
 
 Suggested Track: Game Programming Patterns -> Game Engine Architecture
@@ -179,6 +177,16 @@ Suggested Track: Game Programming Patterns -> Game Engine Architecture
 * Microservices in .NET Core (Christian Gammelgaard, 2017, Manning)
 * Designing Web APIs (Amir Shevat, Brenda Jin, and Saurabh Sahni, 2018, O'Reilly)
 * Node.js 8 The Right Way (Jim Wilson, 2018, Pragmatic Bookshelf)
+
+## Networks
+
+* Twisted Network Programming Essentials (Jessica McKellar, Abe Fettig, 2013, O'Reilly)
+* Networking for Systems Administrators (Michael Lucas, 2015, Tilted Windmill)
+
+## Cloud Architecture
+
+* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
+* [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
 
 ## RPG
 
@@ -221,6 +229,8 @@ The following are books that I made study notes for even though I didn't like th
 
 # In Progress
 
+I should implement limits on work-in-progress.
+
 ## On-Deck
 
 * [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
@@ -229,14 +239,15 @@ The following are books that I made study notes for even though I didn't like th
 * [Release It! Second Edition](./release-it.md) (Michael Nygard, 2018, Pragmatic Bookshelf)
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
-* The Manager's Path
+* Resilient Management (Lara Hogan, 2019, A Book Apart)
+* The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
-* RESTful Web APIs
+* RESTful Web APIs (Leonard Richardson, Sam Ruby, and Mike Amundsen, 2013, O'Reilly)
 
 ## Backlog
 
-* The Book of F#
-* Visualize This (Nathan Yau)
+* The Book of F# (Dave Fancher, 2014, No Starch)
+* Visualize This (Nathan Yau, 2011, Wiley)
 * Introducing EventStorming
 * Refactoring (2nd Edition)
 * Land of Lisp
