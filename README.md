@@ -20,15 +20,19 @@ Suggested Track: The Pragmatic Programmer -> Working Effectively with Legacy Cod
 
 ## Software Project Management
 
-Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -> Radical Candor
+Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path
 
-* Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
-* Kanban in Action (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
+* [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
-* Radical Candor (Kim Scott, 2017, Pan Macmillen)
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
+
+## Soft Skills
+
+* Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
+* [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
+* Radical Candor (Kim Scott, 2017, Pan Macmillen)
 
 ## Software Project Design
 
@@ -41,6 +45,7 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * Python for Data Analysis (Wes McKinney, 2011, O'Reilly)
 * Doing Data Science (Cathy O'Neil and Rachel Schutt, 2013, O'Reilly)
 * Data Points (Nathan Yau, 2013, Wiley)
+* [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
 * Practical Statistics for Data Scientists (Peter Bruce and Andrew Bruce, 2017, O'Reilly)
@@ -65,6 +70,7 @@ Suggested Track: The Quick Python Book -> The Hitchhiker's Guide to Python
 * Black Hat Python (Justin Seitz, 2015, No Starch)
 * [The Hitchhiker's Guide to Python](./hitchhiker-python.md) (Kenneth Reitz and Tanya Schlusser, 2016, O'Reilly)
 * Test-Driven Development with Python (Harry Percival, 2017, O'Reilly)
+* Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
 
 ## C\#
 
@@ -140,6 +146,7 @@ Suggested Track: The Elements of Computing Systems -> The Turing Omnibus -> Nume
 * Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
 * Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
 * The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
 
 ## Operating Systems
 
@@ -148,6 +155,10 @@ Suggested Track: The Elements of Computing Systems -> The Turing Omnibus -> Nume
 * Programming Windows (Charles Petzold, 1990, Microsoft)
 * Advanced Programming in the UNIX Environment (W. Richard Stevens, 1992, Addison-Wesley)
 * Absolute FreeBSD (Michael Lucas, 2007, No Starch)
+
+## Cloud Architecture
+
+* [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
 
 ## Game Development
 
@@ -191,24 +202,20 @@ Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of th
 * The Battle of Alberta (Mark Spector, 2015)
 * The Down Goes Brown History of the NHL (Sean McIndoe, 2018)
 
-# By Tier
+# Favourite Tech Books
 
-## Strongly Recommended
+The following books are ones that I especially like, loosely ranked.
 
+* Land of Lisp (Conrad Barski, 2011, No Starch)
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+* The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
 
-## Recommended
+# Not Recommended
 
-* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
-* [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
-* [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
-* [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
-* [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
-
-## Not-so-Recommended
+The following are books that I made study notes for even though I didn't like them.
 
 * [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
 
@@ -216,6 +223,7 @@ Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of th
 
 ## On-Deck
 
+* [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
 * [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
 * [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * [Release It! Second Edition](./release-it.md) (Michael Nygard, 2018, Pragmatic Bookshelf)
@@ -223,7 +231,6 @@ Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of th
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * The Manager's Path
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
-* Kanban in Action
 * RESTful Web APIs
 
 ## Backlog
