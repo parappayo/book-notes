@@ -22,17 +22,15 @@ Suggested Track: The Pragmatic Programmer -> Working Effectively with Legacy Cod
 
 Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path
 
+* Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+* [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
 * [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
+* Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
+* [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
-
-## Soft Skills
-
-* Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
-* [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
-* Radical Candor (Kim Scott, 2017, Pan Macmillen)
 
 ## Software Project Design
 
@@ -233,13 +231,18 @@ I should implement limits on work-in-progress.
 
 ## On-Deck
 
+* [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
 * [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
 * [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * [Release It! Second Edition](./release-it.md) (Michael Nygard, 2018, Pragmatic Bookshelf)
+
+## Next Up
+
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * Resilient Management (Lara Hogan, 2019, A Book Apart)
+* Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
 * RESTful Web APIs (Leonard Richardson, Sam Ruby, and Mike Amundsen, 2013, O'Reilly)
@@ -251,13 +254,18 @@ I should implement limits on work-in-progress.
 * Introducing EventStorming
 * Refactoring (2nd Edition)
 * Land of Lisp
-* UNIX and Linux System Administration Handbook (5th Edition)
-* Leading Teams
 * Microservices in .NET Core
-* Vue.js Up & Running
-* SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys
+
+## Would be Nice
+
+* Significant Zero
+* Bad Blood
+* Switch: How to Change Things When Change is Hard
 * Programming Beyond Practices
 * Practical Object-Oriented Design (2nd Edition)
+* UNIX and Linux System Administration Handbook (5th Edition)
+* Vue.js Up & Running
+* SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys
 
 ## You May Question My Sanity
 
@@ -266,7 +274,4 @@ I should implement limits on work-in-progress.
 * The Definitive Guide to the Windows Installer
 * To Mock a Mockingbird and Other Logic Puzzles
 * Category Theory for Programmers
-* Significant Zero
-* Bad Blood
 * Practical Vim
-* Switch: How to Change Things When Change is Hard
