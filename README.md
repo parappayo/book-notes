@@ -249,12 +249,14 @@ I should implement limits on work-in-progress.
 
 ## Backlog
 
+* Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
 * The Book of F# (Dave Fancher, 2014, No Starch)
 * Visualize This (Nathan Yau, 2011, Wiley)
 * Introducing EventStorming
 * Refactoring (2nd Edition)
 * Land of Lisp
 * Microservices in .NET Core
+* The Imposter's Handbook (Rob Conery, 2016, Big Machine)
 
 ## Would be Nice
 
