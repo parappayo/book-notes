@@ -6,7 +6,7 @@ published by Pragmatic Bookshelf, 2018
 
 # Thoughts
 
-A lot of overlap here with Lean Software Development and Building Microservices.
+Covers a lot of ground about the pains of operating software in production. Condenses a lot of real-world experience into anecdotes, recommendations, and best practices. A good companion to Lean Software Development and Building Microservices.
 
 # Take-Aways
 
@@ -27,7 +27,7 @@ A lot of overlap here with Lean Software Development and Building Microservices.
 * ATG architecture - Oracle web commerce product, Art Technology Group was acquired
 * Auto-Scaling - impose a financial restraintas a risk management measure; there is a lag time while new servers spin up when autoscaling; need to build in lead time
 * Bogon - wandering TCP packets that arrive late and typically out of sequence; TCP TIME_WAIT state is a defense against, where recently closed ports remain unavailable until some time has elapsed
-* Bot Sign - IP addresses that use a variety of different agent strings in the same short timespan; no cookies being provided
+* Botsign - IP addresses that use a variety of different agent strings in the same short timespan; no cookies being provided
 * Bulkheads - allow one sub-cluster to fail without the problematic load spreading to every node in the cluster; use circuit breakers
 * Butterfly Architecture - antipattern; high integration with a central service with inputs on one side and outputs on the other
 * Caches - eg. memcached, Redis; commonly used to move session data out of in-process service memory to an out-of-process in-memory store; should focus on the most expensive data, monitor hit / miss rates, and have an invalidation strategy
