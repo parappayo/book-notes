@@ -20,17 +20,20 @@ Suggested Track: The Pragmatic Programmer -> Working Effectively with Legacy Cod
 
 ## Software Project Management
 
-Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path
+Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -> Radical Candor
 
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+* ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
+* Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
 * [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
 * [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
-* The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
 * Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
+* The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
+* Resilient Management (Lara Hogan, 2019, A Book Apart)
 
 ## Software Project Design
 
@@ -233,7 +236,6 @@ I should implement limits on work-in-progress.
 ## On-Deck
 
 * [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
-* [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
 * [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
 * [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * [Release It! Second Edition](./release-it.md) (Michael Nygard, 2018, Pragmatic Bookshelf)
@@ -242,8 +244,6 @@ I should implement limits on work-in-progress.
 
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
-* Resilient Management (Lara Hogan, 2019, A Book Apart)
-* Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * Doing Data Science (Cathy O'Neil and Rachel Schutt)
 * RESTful Web APIs (Leonard Richardson, Sam Ruby, and Mike Amundsen, 2013, O'Reilly)
@@ -253,8 +253,6 @@ I should implement limits on work-in-progress.
 * Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
 * The Book of F# (Dave Fancher, 2014, No Starch)
 * Visualize This (Nathan Yau, 2011, Wiley)
-* Introducing EventStorming
-* Refactoring (2nd Edition)
 * Land of Lisp
 * Microservices in .NET Core
 * The Imposter's Handbook (Rob Conery, 2016, Big Machine)
@@ -264,7 +262,6 @@ I should implement limits on work-in-progress.
 * Significant Zero
 * Bad Blood
 * Switch: How to Change Things When Change is Hard
-* Programming Beyond Practices
 * Practical Object-Oriented Design (2nd Edition)
 * UNIX and Linux System Administration Handbook (5th Edition)
 * Vue.js Up & Running
