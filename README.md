@@ -25,6 +25,8 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 * ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
+* Agile Retrospectives: Making Good Teams Great (Larsen, Derby, and Schwaber, 2006, Pragmatic Bookshelf)
+* Manage It! Your Guide to Modern, Pragmatic Project Management (Johanna Rothman, 2007, Pragmatic Bookshelf)
 * Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
 * [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
 * [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
@@ -34,6 +36,7 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * Resilient Management (Lara Hogan, 2019, A Book Apart)
+* A Scrum Book: The Spirit of the Game (Jeff Sutherland, Jim Coplien, 2019, Pragmatic Bookshelf)
 
 ## Software Project Design
 
