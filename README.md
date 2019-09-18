@@ -239,20 +239,16 @@ I should implement limits on work-in-progress.
 ## On-Deck
 
 * [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
-* [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
-* [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * [Release It! Second Edition](./release-it.md) (Michael Nygard, 2018, Pragmatic Bookshelf)
-
-## Next Up
-
+* [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
-* Doing Data Science (Cathy O'Neil and Rachel Schutt)
-* RESTful Web APIs (Leonard Richardson, Sam Ruby, and Mike Amundsen, 2013, O'Reilly)
 
 ## Backlog
 
+* Doing Data Science (Cathy O'Neil and Rachel Schutt)
+* RESTful Web APIs (Leonard Richardson, Sam Ruby, and Mike Amundsen, 2013, O'Reilly)
 * Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
 * The Book of F# (Dave Fancher, 2014, No Starch)
 * Visualize This (Nathan Yau, 2011, Wiley)
