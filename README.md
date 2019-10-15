@@ -172,6 +172,7 @@ Suggested Track: Game Programming Patterns -> Game Engine Architecture
 * Game Engine Architecture (Jason Gregory, 2009, CRC Press)
 * Game Programming Patterns (Robert Nystrom, 2011, Genever Benning)
 * Best of Game Programming Gems (Mark DeLoura, 2014, Nelson Education)
+* [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
 * Foundations of Game Engine Development (Eric Lengyel, 2016, Terathon Software)
 
 ## Web Services
@@ -192,6 +193,13 @@ Suggested Track: Game Programming Patterns -> Game Engine Architecture
 
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
 * [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
+
+## Electronics, Hardware Hacking
+
+* Hacking the Xbox (Andrew Huang, 2003, No Starch)
+* Getting Started with Raspberry Pi (Matt Richardson, Shawn Wallace, 2012, O'Reilly)
+* Raspberry Pi Cookbook (Simon Monk, 2013, O'Reilly)
+* The Hardware Hacker (Andrew Huang, 2017, No Starch)
 
 ## RPG
 
@@ -225,12 +233,6 @@ The following books are ones that I especially like, loosely ranked.
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
-
-# Not Recommended
-
-The following are books that I made study notes for even though I didn't like them.
-
-* [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
 
 # In Progress
 
