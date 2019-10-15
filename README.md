@@ -101,6 +101,7 @@ Suggested Track: How Not to Program in C++ -> Effective C++ -> Expert C Programm
 * Modern C++ Programming with Test-Driven Development (Jeff Langr, 2013, Pragmatic Bookshelf)
 * Effective Modern C++ (Scotty Meyers, 2015, O'Reilly)
 * Functional Programming in C++ (Ivan Cukic, 2018, Manning)
+* Modern C (Jens Gustedt, 2019, Manning)
 
 ## JavaScript
 
@@ -198,7 +199,7 @@ Suggested Track: Game Programming Patterns -> Game Engine Architecture
 
 * Hacking the Xbox (Andrew Huang, 2003, No Starch)
 * Getting Started with Raspberry Pi (Matt Richardson, Shawn Wallace, 2012, O'Reilly)
-* Raspberry Pi Cookbook (Simon Monk, 2013, O'Reilly)
+* [Raspberry Pi Cookbook](./raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
 * The Hardware Hacker (Andrew Huang, 2017, No Starch)
 
 ## RPG
