@@ -2,6 +2,12 @@
 
 Helpful references and terse reviews of non-fiction books that I've read or am reading. Sometimes I include notes about related topics that are not in the actual book.
 
+The goal of this is drifting over time, but loosely speaking I would like to accomplish the following:
+
+* Capture key learnings from the technical books that I read
+* Highlight which books I find most worth-while and why
+* Direct my study efforts towards areas that make me a better software developer
+
 # By Subject
 
 A loosely curated selection of books intended to provide a broad perspective on each topic.
@@ -22,47 +28,39 @@ Suggested Track: The Pragmatic Programmer -> Working Effectively with Legacy Cod
 
 Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -> Radical Candor
 
-* Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
-* ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
 * Agile Retrospectives: Making Good Teams Great (Larsen, Derby, and Schwaber, 2006, Pragmatic Bookshelf)
 * Manage It! Your Guide to Modern, Pragmatic Project Management (Johanna Rothman, 2007, Pragmatic Bookshelf)
-* Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
-* [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
 * [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
 * The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
-* Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
-* The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
-* Resilient Management (Lara Hogan, 2019, A Book Apart)
 * A Scrum Book: The Spirit of the Game (Jeff Sutherland, Jim Coplien, 2019, Pragmatic Bookshelf)
+
+## Leadership and Communication
+
+* Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
+* ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
+* Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
+* [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
+* Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
+* The Manager's Path (Camille Fournier, 2017, O'Reilly)
+* Resilient Management (Lara Hogan, 2019, A Book Apart)
 
 ## Software Project Design
 
 * Domain Modelling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
-## Data & Analytics
-
-* Visualize This (Nathan Yau, 2011, Wiley)
-* Python for Data Analysis (Wes McKinney, 2011, O'Reilly)
-* Doing Data Science (Cathy O'Neil and Rachel Schutt, 2013, O'Reilly)
-* Data Points (Nathan Yau, 2013, Wiley)
-* [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
-* [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
-* Database Reliability Engineering (Charity Majors, Laine Campbell, 2017, O'Reilly)
-* [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
-* Practical Statistics for Data Scientists (Peter Bruce and Andrew Bruce, 2017, O'Reilly)
-* Deep Learning and the Game of Go (Kevin Ferguson, 2019, Manning)
-
 ## Lisp & Scheme
 
 * Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
+* Common Lisp the Language (Guy Steele, 1984, Digital Press)
 * The Scheme Programming Language (R. Kent Dybvig, 1987, MIT Press)
 * ANSI Common Lisp (Paul Graham, 1995, Prentice Hall)
 * Practical Common Lisp (Peter Seibel, 2005, Apress)
 * Land of Lisp (Conrad Barski, 2011, No Starch)
+* Realm of Racket (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
 
 ## Python
 
@@ -112,11 +110,34 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 * Node.js in Action (Harter, Cantelon, Rajlich, and Holowaychuk, 2011, Manning)
 * If Hemingway Wrote JavaScript (Angus Croll, 2014, No Starch)
 * [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
+* Vue.js Up & Running (Callum Macrae, 2018, O'Reilly)
 
 ## F\#
 
 * The Book of F# (Dave Fancher, 2014, No Starch)
 * [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+
+## Data Engineering
+
+* [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+* Database Reliability Engineering (Charity Majors, Laine Campbell, 2017, O'Reilly)
+* Architecting Modern Data Platforms (George, Kunigk, Buss, Wilkinson, 2018, O'Reilly)
+* Streaming Systems (Akidau, Chernyak, Lax, 2018, O'Reilly)
+
+## Data Analytics
+
+* Python for Data Analysis (Wes McKinney, 2011, O'Reilly)
+* Advanced Analytics with Spark (Ryza, Owen, Laserson, Wills, 2009, O'Reilly)
+* Doing Data Science (Cathy O'Neil and Rachel Schutt, 2013, O'Reilly)
+* [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
+* [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
+* Practical Statistics for Data Scientists (Peter Bruce and Andrew Bruce, 2017, O'Reilly)
+
+## Data Visualization
+
+* Visualize This (Nathan Yau, 2011, Wiley)
+* Data Points (Nathan Yau, 2013, Wiley)
+* Tableau Your Data! (Daniel Murray, 2013, Wiley)
 
 ## SQL
 
@@ -125,6 +146,13 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 * SQL Hacks (Andrew Cumming, 2006, O'Reilly)
 * Head First SQL (Lynn Beighley, 2007, O'Reilly)
 * Practical SQL (Anthony DeBarros, 2018, No Starch)
+
+## Text Processing
+
+* Effective awk Programming (Arnold Robins, 1996, O'Reilly)
+* [sed & awk](./sed-awk.md) (Arnold Robbins, Dale Dougherty, 1997, O'Reilly)
+* Text Mining with R (Julia Silge, David Robinson, 2017, O'Reilly)
+* Applied Text Analysis with Python (Benjamin Bengfort, Rebecca Bilbro, Tony Ojeda, 2018, O'Reilly)
 
 ## Programming Languages
 
@@ -136,7 +164,6 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 * Systems Programming in Modula-3 (Greg Nelson, 1991, Prentice Hall)
 * Programming Ruby (Andy Hunt, Chad Fowler, and Dave Thomas, 2001, Pragmatic Bookshelf)
 * Real-World Haskell (O'Sullivan, Stewart, and Goerzen, 2008, O'Reilly)
-* [sed & awk 2nd Ed](./sed-awk.md) (2010, O'Reilly)
 * The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
 * Ruby Under a Microscope (Pat Shaughnessy, 2013, No Starch)
 * Learn You Some Erlang for Great Good! (Fred Hebert, 2013, No Starch)
@@ -148,6 +175,7 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 
 Suggested Track: The Elements of Computing Systems -> The Turing Omnibus -> Numerical Recipies -> Hacker's Delight
 
+* Programming Pearls (Jon Bentley, 1986, Addison-Wesley)
 * Numerical Recipes (William Press, 1986, Cambridge University Press)
 * The Turing Omnibus (Alexander Dewdney, 1989)
 * Applied Cryptography (Bruce Schneier, 1993, Wiley)
@@ -155,11 +183,12 @@ Suggested Track: The Elements of Computing Systems -> The Turing Omnibus -> Nume
 * Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
 * The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
+* The Imposter's Handbook (Rob Conery, 2016, Big Machine)
 
 ## Operating Systems
 
 * The Design and Implementation of the 4.3BSD Operating System (Samuel Leffler, 1989, Addison-Wesley)
-* Linux Administration Handbook (Nemeth, Snyder, and Hein, 1989, Addison-Wesley)
+* Unix and Linux Administration Handbook (Nemeth, Snyder, and Hein, 1989, Addison-Wesley)
 * Programming Windows (Charles Petzold, 1990, Microsoft)
 * Advanced Programming in the UNIX Environment (W. Richard Stevens, 1992, Addison-Wesley)
 * Absolute FreeBSD (Michael Lucas, 2007, No Starch)
@@ -175,6 +204,10 @@ Suggested Track: Game Programming Patterns -> Game Engine Architecture
 * Best of Game Programming Gems (Mark DeLoura, 2014, Nelson Education)
 * [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
 * Foundations of Game Engine Development (Eric Lengyel, 2016, Terathon Software)
+
+## Artificial Intelligence and Machine Learning
+
+* Deep Learning and the Game of Go (Kevin Ferguson, 2019, Manning)
 
 ## Web Services
 
@@ -250,29 +283,11 @@ I should implement limits on work-in-progress.
 
 ## Backlog
 
-* Doing Data Science (Cathy O'Neil and Rachel Schutt)
-* RESTful Web APIs (Leonard Richardson, Sam Ruby, and Mike Amundsen, 2013, O'Reilly)
-* Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
-* The Book of F# (Dave Fancher, 2014, No Starch)
-* Visualize This (Nathan Yau, 2011, Wiley)
-* Land of Lisp
-* Microservices in .NET Core
-* The Imposter's Handbook (Rob Conery, 2016, Big Machine)
-
-## Would be Nice
-
 * Significant Zero
 * Bad Blood
-* Switch: How to Change Things When Change is Hard
 * Practical Object-Oriented Design (2nd Edition)
-* UNIX and Linux System Administration Handbook (5th Edition)
-* Vue.js Up & Running
 * SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys
-
-## You May Question My Sanity
-
 * Absolute OpenBSD
-* Programming Pearls
 * The Definitive Guide to the Windows Installer
 * To Mock a Mockingbird and Other Logic Puzzles
 * Category Theory for Programmers
