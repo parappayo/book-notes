@@ -37,7 +37,7 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * A Scrum Book: The Spirit of the Game (Jeff Sutherland, Jim Coplien, 2019, Pragmatic Bookshelf)
 
-## Leadership and Communication
+## Leadership & Communication
 
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
@@ -54,13 +54,28 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 
 ## Lisp & Scheme
 
+* The Little Lisper (Daniel Friedman, 1974, MIT Press)
 * Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
 * Common Lisp the Language (Guy Steele, 1984, Digital Press)
-* The Scheme Programming Language (R. Kent Dybvig, 1987, MIT Press)
+* [The Scheme Programming Language](./scheme-programming-lang.md) (R. Kent Dybvig, 1987, MIT Press)
 * ANSI Common Lisp (Paul Graham, 1995, Prentice Hall)
+* The Seasoned Schemer (Daniel Friedman, Matthias Felleisen, 1995)
 * Practical Common Lisp (Peter Seibel, 2005, Apress)
+* The Reasoned Schemer (Friedman, Byrd, Kiselyov, 2005, MIT Press)
 * Land of Lisp (Conrad Barski, 2011, No Starch)
 * Realm of Racket (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
+* The Little Prover (Daniel Friedman 2015, Carl Eastlund, 2015, MIT Press)
+* The Little Typer (Daniel Friedman, David Christiansen, 2018, MIT Press)
+
+## Prolog
+
+* Programming in Prolog (Clocksin, Mellish, 1981, Springer)
+* Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
+* The Art of Prolog (Leon Sterling, 1986, MIT Press)
+* Adventure in Prolog (Dennis Merritt, 1990, Springer)
+* The Craft of Prolog (Richard O'Keefe, 1990, MIT Press)
+* The Practice of Prolog (Leon Sterling, 1990, MIT Press)
+* Learn Prolog Now! (Blackburn, Bos, Striegnitz, 2006, College Publications)
 
 ## Python
 
@@ -157,8 +172,6 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 ## Programming Languages
 
 * Thinking Forth (Leo Brodie, 1984, Fig Leaf)
-* Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
-* The Art of Prolog (Leon Sterling, 1986, MIT Press)
 * lex & yacc (Brown, Levine, and Mason, 1990, O'Reilly)
 * Programming Perl (Larry Wall, 1991, O'Reilly)
 * Systems Programming in Modula-3 (Greg Nelson, 1991, Prentice Hall)
