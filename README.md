@@ -49,6 +49,10 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 
 ## Software Project Design
 
+* Domain-Driven Design (Eric Evans, 2003, Addison-Wesley)
+* Enterprise Integration Patterns (Gregor Hohpe, Bobby Woolf, 2003, Addison-Wesley)
+* Implementing Domain-Driven Design (Vaughn Vernon, 2013, Addison-Wesley)
+* Domain-Driven Design Distilled (Vaughn Vernon, 2016, Addison-Wesley)
 * Domain Modelling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
@@ -289,13 +293,14 @@ I should implement limits on work-in-progress.
 
 * [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * [Release It! Second Edition](./release-it.md) (Michael Nygard, 2018, Pragmatic Bookshelf)
-* [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
-* [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
 
 ## Backlog
 
+* Domain-Driven Design Distilled (Vaughn Vernon, 2016, Addison-Wesley)
+* [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+* [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * Significant Zero
 * Bad Blood
 * Practical Object-Oriented Design (2nd Edition)
