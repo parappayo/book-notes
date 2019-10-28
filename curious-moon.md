@@ -141,10 +141,10 @@ Fun book, littered with helpful Postgres advice.
 
 # Code
 
-`COPY schema.table_name FROM file_path WITH DELIMITER ',' HEADER CSV;`
-`select my_col::timestampz from my_table;` - test whether column is all valid dates
-`select '2001-01-01'timestampz;` - can see the conversion to local timezone
-`select … at timezone 'UTC'` - force a particular timezone
-`drop table if exists my_table cascade;` - will also drop foreign_key references
-`psql \H \o <filename>` - outputs to file as an html table
-`cat ./**/*.csv >combined.csv` # will include all header rows, though
+* `COPY schema.table_name FROM file_path WITH DELIMITER ',' HEADER CSV;`
+* `select my_col::timestampz from my_table;` -- test whether column is all valid dates
+* `select '2001-01-01'timestampz;` -- can see the conversion to local timezone
+* `select … at timezone 'UTC'` -- force a particular timezone
+* `drop table if exists my_table cascade;` -- will also drop foreign_key references
+* `psql \H \o <filename>` # outputs to file as an html table
+* `cat ./**/*.csv >combined.csv` # will include all header rows, though
