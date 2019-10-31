@@ -49,6 +49,7 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 
 ## Software Project Design
 
+* Design Patterns (Gamma, Vlissides, Helm, Johnson, 1994, Addison-Wesley)
 * Domain-Driven Design (Eric Evans, 2003, Addison-Wesley)
 * Enterprise Integration Patterns (Gregor Hohpe, Bobby Woolf, 2003, Addison-Wesley)
 * Implementing Domain-Driven Design (Vaughn Vernon, 2013, Addison-Wesley)
@@ -168,6 +169,7 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 
 ## Text Processing
 
+* The Awk Programming Language (Aho, Weinberger, Kernighan, 1988, Addison-Wesley)
 * Effective awk Programming (Arnold Robins, 1996, O'Reilly)
 * [sed & awk](./sed-awk.md) (Arnold Robbins, Dale Dougherty, 1997, O'Reilly)
 * Text Mining with R (Julia Silge, David Robinson, 2017, O'Reilly)

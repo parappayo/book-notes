@@ -9,7 +9,7 @@
 
 I will happily study classic Unix command-line tools with barely any excuse for doing do. It is good to have widely available, well-documented tools for data processing.
 
-On the other hand, sed is a good example of an overly terse domain-specific language; all but the most elegant sed programs are difficult to follow. I get the impression that sed does not lend itself to self-documenting code, and that sed puts the user at risk for brittle legacy systems.
+On the other hand, sed and awk may be examples of overly terse domain-specific languages. All but the most elegant applications of them are difficult to follow; they do not enable self-documenting code, and that puts the user at risk for brittle legacy systems.
 
 # Take-Aways
 
@@ -24,39 +24,44 @@ On the other hand, sed is a good example of an overly terse domain-specific lang
 
 # Concepts
 
-* `-` hyphen operator - lets you specify a range of characters inside of a character class
-* `|` pipe operator (regex) - "or" in a group, either regex can match
-* Basic Regular Expressions (BRE) - specified by Posix
-* character class - regex `[]`, hypen first or last in a character class is just a char in the class, same with ] first
-* equivalence class, eg. `[=e=]`, allows è to be matched using the same rules if the locale supports it (such as in French)
-* Extended Regular Expressions (ERE) - specified by Posix, eg. `[:alpha:]`, `[:space:]`, `[:digit:]`
-
 # Techs
 
-* awk - Aho, Weinberger, Kernighan lang
+* awk - Aho, Weinberger, Kernighan lang; major revisions in 1978 (Version 7 UNIX) and 1987 (SunOS 4.1); POSIX standard awk based on 1989 version for System V Release 4
+* gawk - GNU Awk
+* mawk - minimal awk, often used for performance
 * MKS Toolkit - DOS ports of Unix tools
 * nawk - new awk, introduced by Unix System V
 * sed - Stream Editor
 * sqtroff - formatting software
+* SunOS - BSD4.3 derived OS, super-ceded by Solaris
 * troff - Unix document formatting software
+* Ultrix - BSD4.3 derived OS by DEC
 * Verion 7 Unix (V7) - introduced sed & awk
 * XView - Sun Microsystems - X Window System toolkit
 
-# Grep Quick Reference
+# Grep
 
+## Concepts
+
+* `-` hyphen operator - lets you specify a range of characters inside of a character class
 * `\{n\}` matches n occurrences of previous char, `{n,}` match at least n, `{n,m}` match >=n <=m
 * `^` caret / circumflex operator - invert a character class
+* `|` pipe operator (regex) - "or" in a group, either regex can match
+* Basic Regular Expressions (BRE) - specified by Posix
+* Character Class - regex `[]`, hypen first or last in a character class is just a char in the class, same with ] first
+* Equivalence Class - eg. `[=e=]`, allows è to be matched using the same rules if the locale supports it (such as in French)
+* Extended Regular Expressions (ERE) - specified by Posix, eg. `[:alpha:]`, `[:space:]`, `[:digit:]`
 
 ## CLI Flags
 
 * `-c` - count matching lines
 
-## Examples
+## Code
 
 * `grep -c '^$' file` - count the number of empty lines in a file
 * `grep -c '[ \t]$' file` - count the number of lines ending with a space or tab
 
-# Sed Quick Reference
+# Sed
 
 ## Take-Aways
 
@@ -100,7 +105,7 @@ On the other hand, sed is a good example of an overly terse domain-specific lang
 * `-f` - read script from file instead of as an argument
 * `-i` - in-place editing of a file, will not read from stdin
 
-## Examples
+## Code
 
 * `sed 's/from/to/' input` - all lines are output whether substitution occurred or not
 * `s!/usr/mail!/usr2/mail!` - substitution using `!` as a separator rather than `/`, helpful for working with paths
@@ -157,18 +162,77 @@ ${
 }
 ```
 
-# Awk Quick Reference
+# Awk
 
-* `address { command }` - general building block of awk programs, if a line matches the regex address, run commands on it
+## Take-Aways
+
+* `address { command }` - building block of awk programs, if a line matches the address (condition, could be regex), run commands on it
+* To append strings, whitespace is enough, eg. `"foo" "bar"` results in "foobar".
+* For control flow: if, while, do-while, for, break, and continue are all C style constructs.
+
+## Concepts
+
+* `$*` - in the shell, expands to all cli arguments
+* `$` - field operator, $1, $2, etc. contain delimited fields, default is whitespace delimited; `$(var1 + var2)` works as a way to calculate which field to use
+* `$NF` - last field on the current record
+* `&&` - has higher precedence than `||`
+* `**` - awk exponent operator (also `^`)
+* `\a` - ASCII BEL char, may trigger an audible alert
+* `\x` - hex value char is not POSIX but commonly supported
+* `^` - awk exponent operator (also `**`)
+* `ARGV` - system var; array of cli args, `ARGC` also exists
+* `BEGIN` - pattern occurs before awk starts reading input
+* `CONVFMT` - system var
+* `CONVFMT` - system var; conversion format string, eg. `%d`; defaults to `%.6g`
+* `delete` operator - can remove member from an array
+* `END` - pattern occurs after all input is read
+* `ENVIRON` - system var; array of environment variables
+* `FILENAME` - system var, current input file
+* `FS` - field separator system var; eg. `BEGIN { FS = "," }` for crude csv; set to a single space tell awk to split on any whitespace (the default); multi-char value gets interpreted as a regex; eg. `FS = "\t+"` any number of tabs as one delimiter, `FS = "[':\t]"` split on any of the chars in the class
+* `in` operator - test if key is in array
+* `next` statement - start processing the next line right away, skip further rules for the current input line
+* `NF` - system var; number of fields
+* `NR == 1 { … } ` # pattern for acting on the first input record, eg. headers of a csv
+* `NR` - system var; number of input records so far
+* `OFMT` - earlier versions of awk use this instead of `CONVFMT`
+* `OFS` - system var; output field separator; defaults to space
+* `ORS` - system var; output record separator; defaults to newline
+* `print` vs `printf` - former automatically appends a newline, latter uses format str
+* `RS` - system var; record separator
+* `split(input_string, output_array, separator)` - string to array, returns the number of elements found; separator can be regex
+* `~` match operator - tests a string against a regex; eg. `$5 ~ /hey/` to test if fifth column contains "hey"; inverse is `!~`
+* Associative Array - awk arrays are associative arrays (map style), not like C arrays; keys are casted to strings; iterate contents with `for (item in array)`; can be multidimensional with `my_array[key1, key2]` syntax, works by concatenating keys with a character (typically `\034`) defined in the `SUBSEP` var
+* Command Line Params - `awk -f my_script.awk foo=bar boo=baz inputfile` creates vars foo and boo with values boo and baz; system vars can also be set; important caveat that these values are not available until after the begin procedure due to order of evaluation rules, so use a rule like `NR = 1` to do any cli parameter validation, or use the `-v` option
+* Main Input Loop - awk programming model assumes a loop over each line of input
+* Precision Format Specifier - as in C, eg. `%.2f` for two decimal places
+* Set Counter, Test Counter, Increment Counter - the parts of a for loop
+* System Variables - either settings that can be tweaked, or runtime state (eg. current record number)
+* Width Format Specifier - useful to align output into columns; `%8s` pads string arg with preceding spaces, `%-8s` pads with following spaces
 
 ## CLI Flags
 
-* `-F` - sets the field delimiter, defaults to whitespace
+* `-F` - specifies the field separator, can also be specified in script (better practice), eg. `BEGIN { FS = "," }`
+* `-v` - can be used to force command line params to be evaluated before the `BEGIN` block
 
-# Books
+## Code
 
-* "Mastering Regular Expressions" by Jeffrey Friedl (O'Reilly)
-* "SED - A Non-Interactive Text Editor," article by Lee McMahon 1978
-* "The GNU Awk User's Guide" - Arnold Robbins 1996, now "Effective Awk Programming"
-* "The UNIX Programming Environment" - Brian Kernighan and Rob Pike, 1984
-* "UNIX Text Processing" - Dale Dougherty & Tim O'Reilly 1987
+* `awk 'BEGIN { print "Hello, world" }'`
+* `awk 'BEGIN { for (env in ENVIRON) { print env "=" ENVIRON[env] } }'` # like /usr/bin/env
+
+```
+# Count blank lines.
+/^$/ {
+  ++x
+}
+END {
+  print x
+}
+```
+
+# Publications
+
+* Mastering Regular Expressions by Jeffrey Friedl (O'Reilly)
+* SED - A Non-Interactive Text Editor, article by Lee McMahon 1978
+* The GNU Awk User's Guide - Arnold Robbins 1996, now Effective Awk Programming
+* The UNIX Programming Environment - Brian Kernighan and Rob Pike, 1984
+* UNIX Text Processing - Dale Dougherty & Tim O'Reilly 1987
