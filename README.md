@@ -53,7 +53,7 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * Domain-Driven Design (Eric Evans, 2003, Addison-Wesley)
 * Enterprise Integration Patterns (Gregor Hohpe, Bobby Woolf, 2003, Addison-Wesley)
 * Implementing Domain-Driven Design (Vaughn Vernon, 2013, Addison-Wesley)
-* Domain-Driven Design Distilled (Vaughn Vernon, 2016, Addison-Wesley)
+* [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
 * Domain Modelling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
