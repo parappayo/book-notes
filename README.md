@@ -8,21 +8,31 @@ The goal of this is drifting over time, but loosely speaking I would like to acc
 * Highlight which books I find most worth-while and why
 * Direct my study efforts towards areas that make me a better software developer
 
-# By Subject
+# Software Development Books, by Subject
 
 A loosely curated selection of books intended to provide a broad perspective on each topic.
 
-## Programming Methodology
+Topics are roughly organized from more general / soft skills to more technical / hard skills. The idea is to drill down starting from the manager's perspective into the realm of building stuff.
 
-Suggested Track: The Pragmatic Programmer -> Working Effectively with Legacy Code -> Release It! -> Building Microservices
+## Leadership & Communication
 
-* Refactoring (Kent Beck, Martin Fowler, 1999, Addison-Wesley)
-* The Pragmatic Programmer (Andy Hunt, Dave Thomas, 1999, Pragmatic Bookshelf)
-* Working Effectively with Legacy Code (Michael Feathers, 2004, Prentice Hall)
-* [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
-* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
-* Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
-* [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
+* Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
+* ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
+* Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
+* [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
+* Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
+* The Manager's Path (Camille Fournier, 2017, O'Reilly)
+* Resilient Management (Lara Hogan, 2019, A Book Apart)
+
+## Software Project Design / Modeling
+
+* Design Patterns (Gamma, Vlissides, Helm, Johnson, 1994, Addison-Wesley)
+* Domain-Driven Design (Eric Evans, 2003, Addison-Wesley)
+* Enterprise Integration Patterns (Gregor Hohpe, Bobby Woolf, 2003, Addison-Wesley)
+* Implementing Domain-Driven Design (Vaughn Vernon, 2013, Addison-Wesley)
+* [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
+* [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+* Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
 ## Software Project Management
 
@@ -37,27 +47,110 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * A Scrum Book: The Spirit of the Game (Jeff Sutherland, Jim Coplien, 2019, Pragmatic Bookshelf)
 
-## Leadership & Communication
+## General Computing
 
-* Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
-* ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
-* Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
-* [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
-* Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
-* The Manager's Path (Camille Fournier, 2017, O'Reilly)
-* Resilient Management (Lara Hogan, 2019, A Book Apart)
+Suggested Track: The Elements of Computing Systems -> The Turing Omnibus -> Numerical Recipies -> Hacker's Delight
 
-## Software Project Design
+* Programming Pearls (Jon Bentley, 1986, Addison-Wesley)
+* Numerical Recipes (William Press, 1986, Cambridge University Press)
+* The Turing Omnibus (Alexander Dewdney, 1989)
+* Applied Cryptography (Bruce Schneier, 1993, Wiley)
+* Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
+* Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
+* The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
+* The Imposter's Handbook (Rob Conery, 2016, Big Machine)
 
-* Design Patterns (Gamma, Vlissides, Helm, Johnson, 1994, Addison-Wesley)
-* Domain-Driven Design (Eric Evans, 2003, Addison-Wesley)
-* Enterprise Integration Patterns (Gregor Hohpe, Bobby Woolf, 2003, Addison-Wesley)
-* Implementing Domain-Driven Design (Vaughn Vernon, 2013, Addison-Wesley)
-* [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
-* Domain Modelling Made Functional (Scott Wlaschin, 2018, Pragmatic Bookshelf)
-* Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
+## Programming Methodology
 
-## Lisp & Scheme
+Suggested Track: The Pragmatic Programmer -> Working Effectively with Legacy Code -> Release It! -> Building Microservices
+
+* Refactoring (Kent Beck, Martin Fowler, 1999, Addison-Wesley)
+* The Pragmatic Programmer (Andy Hunt, Dave Thomas, 1999, Pragmatic Bookshelf)
+* Working Effectively with Legacy Code (Michael Feathers, 2004, Prentice Hall)
+* [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
+* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
+* Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
+* [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
+
+## Data
+
+### Data Engineering
+
+* [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+* Database Reliability Engineering (Charity Majors, Laine Campbell, 2017, O'Reilly)
+* Architecting Modern Data Platforms (George, Kunigk, Buss, Wilkinson, 2018, O'Reilly)
+* Streaming Systems (Akidau, Chernyak, Lax, 2018, O'Reilly)
+
+### Data Analytics
+
+* Python for Data Analysis (Wes McKinney, 2011, O'Reilly)
+* Advanced Analytics with Spark (Ryza, Owen, Laserson, Wills, 2009, O'Reilly)
+* Doing Data Science (Cathy O'Neil and Rachel Schutt, 2013, O'Reilly)
+* [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
+* [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
+* Practical Statistics for Data Scientists (Peter Bruce and Andrew Bruce, 2017, O'Reilly)
+
+### Data Visualization
+
+* Visualize This (Nathan Yau, 2011, Wiley)
+* Data Points (Nathan Yau, 2013, Wiley)
+* Tableau Your Data! (Daniel Murray, 2013, Wiley)
+
+### SQL
+
+* SQL for Smarties (Joe Celko, 1995, Morgan Kaufmann)
+* SQL Bookbook (Anthony Molinaro, 2005, O'Reilly)
+* SQL Hacks (Andrew Cumming, 2006, O'Reilly)
+* Head First SQL (Lynn Beighley, 2007, O'Reilly)
+* Practical SQL (Anthony DeBarros, 2018, No Starch)
+
+### Text Processing
+
+* The Awk Programming Language (Aho, Weinberger, Kernighan, 1988, Addison-Wesley)
+* Effective awk Programming (Arnold Robins, 1996, O'Reilly)
+* [sed & awk](./sed-awk.md) (Arnold Robbins, Dale Dougherty, 1997, O'Reilly)
+* Practical Vim (Drew Neil, 2015, Pragmatic Bookshelf)
+* Text Mining with R (Julia Silge, David Robinson, 2017, O'Reilly)
+* Applied Text Analysis with Python (Benjamin Bengfort, Rebecca Bilbro, Tony Ojeda, 2018, O'Reilly)
+
+### Artificial Intelligence and Machine Learning
+
+* Deep Learning and the Game of Go (Kevin Ferguson, 2019, Manning)
+
+## Infrastructure
+
+### Operating Systems
+
+* The Design and Implementation of the 4.3BSD Operating System (Samuel Leffler, 1989, Addison-Wesley)
+* Unix and Linux Administration Handbook (Nemeth, Snyder, and Hein, 1989, Addison-Wesley)
+* Programming Windows (Charles Petzold, 1990, Microsoft)
+* Advanced Programming in the UNIX Environment (W. Richard Stevens, 1992, Addison-Wesley)
+* Absolute OpenBSD (Michael Lucas, 2003, No Starch)
+* Absolute FreeBSD (Michael Lucas, 2007, No Starch)
+
+### Networks
+
+* Twisted Network Programming Essentials (Jessica McKellar, Abe Fettig, 2013, O'Reilly)
+* Networking for Systems Administrators (Michael Lucas, 2015, Tilted Windmill)
+
+### Cloud Architecture
+
+* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
+* [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
+
+### Web Services
+
+* REST in Practice (Savas Parastatidis, Jim Webber, and Ian Robinson, 2010, O'Reilly)
+* RESTful Web APIs (Leonard Richardson, Sam Ruby, and Mike Amundsen, 2013, O'Reilly)
+* Secure Your Node.js Web Application (Karl Duuna, 2015, Pragmatic Bookshelf)
+* Microservices in .NET Core (Christian Gammelgaard, 2017, Manning)
+* Designing Web APIs (Amir Shevat, Brenda Jin, and Saurabh Sahni, 2018, O'Reilly)
+* Node.js 8 The Right Way (Jim Wilson, 2018, Pragmatic Bookshelf)
+
+## Programming Languages
+
+### Lisp & Scheme
 
 * The Little Lisper (Daniel Friedman, 1974, MIT Press)
 * Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
@@ -72,7 +165,7 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * The Little Prover (Daniel Friedman 2015, Carl Eastlund, 2015, MIT Press)
 * The Little Typer (Daniel Friedman, David Christiansen, 2018, MIT Press)
 
-## Prolog
+### Prolog
 
 * Programming in Prolog (Clocksin, Mellish, 1981, Springer)
 * Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
@@ -82,7 +175,7 @@ Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -
 * The Practice of Prolog (Leon Sterling, 1990, MIT Press)
 * Learn Prolog Now! (Blackburn, Bos, Striegnitz, 2006, College Publications)
 
-## Python
+### Python
 
 Suggested Track: The Quick Python Book -> The Hitchhiker's Guide to Python
 
@@ -97,13 +190,7 @@ Suggested Track: The Quick Python Book -> The Hitchhiker's Guide to Python
 * Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
 * Serious Python (Julien Danjou, 2019, No Starch)
 
-## C\#
-
-* Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
-* C# in Depth (Jon Skeet, 2008, Manning)
-* .NET Core in Action (Dustin Metzgar, 2018, Manning)
-
-## C & C++
+### C & C++
 
 Suggested Track: How Not to Program in C++ -> Effective C++ -> Expert C Programming
 
@@ -121,7 +208,13 @@ Suggested Track: How Not to Program in C++ -> Effective C++ -> Expert C Programm
 * Functional Programming in C++ (Ivan Cukic, 2018, Manning)
 * Modern C (Jens Gustedt, 2019, Manning)
 
-## JavaScript
+### C\#
+
+* Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
+* C# in Depth (Jon Skeet, 2008, Manning)
+* .NET Core in Action (Dustin Metzgar, 2018, Manning)
+
+### JavaScript
 
 Suggested Track: JavaScript: The Good Parts -> Learning React
 
@@ -132,85 +225,32 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 * [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
 * Vue.js Up & Running (Callum Macrae, 2018, O'Reilly)
 
-## F\#
+### Ruby
+
+* Programming Ruby (Andy Hunt, Chad Fowler, and Dave Thomas, 2001, Pragmatic Bookshelf)
+* Ruby Under a Microscope (Pat Shaughnessy, 2013, No Starch)
+
+### F\#
 
 * The Book of F# (Dave Fancher, 2014, No Starch)
 * [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 
-## Data Engineering
+### Perl
 
-* [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
-* Database Reliability Engineering (Charity Majors, Laine Campbell, 2017, O'Reilly)
-* Architecting Modern Data Platforms (George, Kunigk, Buss, Wilkinson, 2018, O'Reilly)
-* Streaming Systems (Akidau, Chernyak, Lax, 2018, O'Reilly)
+* Programming Perl (Larry Wall, 1991, O'Reilly)
+* Higher Order Perl (Mark Dominus, 2005, Morgan Kaufmann)
 
-## Data Analytics
-
-* Python for Data Analysis (Wes McKinney, 2011, O'Reilly)
-* Advanced Analytics with Spark (Ryza, Owen, Laserson, Wills, 2009, O'Reilly)
-* Doing Data Science (Cathy O'Neil and Rachel Schutt, 2013, O'Reilly)
-* [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
-* [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
-* Practical Statistics for Data Scientists (Peter Bruce and Andrew Bruce, 2017, O'Reilly)
-
-## Data Visualization
-
-* Visualize This (Nathan Yau, 2011, Wiley)
-* Data Points (Nathan Yau, 2013, Wiley)
-* Tableau Your Data! (Daniel Murray, 2013, Wiley)
-
-## SQL
-
-* SQL for Smarties (Joe Celko, 1995, Morgan Kaufmann)
-* SQL Bookbook (Anthony Molinaro, 2005, O'Reilly)
-* SQL Hacks (Andrew Cumming, 2006, O'Reilly)
-* Head First SQL (Lynn Beighley, 2007, O'Reilly)
-* Practical SQL (Anthony DeBarros, 2018, No Starch)
-
-## Text Processing
-
-* The Awk Programming Language (Aho, Weinberger, Kernighan, 1988, Addison-Wesley)
-* Effective awk Programming (Arnold Robins, 1996, O'Reilly)
-* [sed & awk](./sed-awk.md) (Arnold Robbins, Dale Dougherty, 1997, O'Reilly)
-* Text Mining with R (Julia Silge, David Robinson, 2017, O'Reilly)
-* Applied Text Analysis with Python (Benjamin Bengfort, Rebecca Bilbro, Tony Ojeda, 2018, O'Reilly)
-
-## Programming Languages
+### Other
 
 * Thinking Forth (Leo Brodie, 1984, Fig Leaf)
 * lex & yacc (Brown, Levine, and Mason, 1990, O'Reilly)
-* Programming Perl (Larry Wall, 1991, O'Reilly)
 * Systems Programming in Modula-3 (Greg Nelson, 1991, Prentice Hall)
-* Programming Ruby (Andy Hunt, Chad Fowler, and Dave Thomas, 2001, Pragmatic Bookshelf)
 * Real-World Haskell (O'Sullivan, Stewart, and Goerzen, 2008, O'Reilly)
 * The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
-* Ruby Under a Microscope (Pat Shaughnessy, 2013, No Starch)
 * Learn You Some Erlang for Great Good! (Fred Hebert, 2013, No Starch)
 * Functional Programming in Scala (Paul Chiusano, Runar Bjarnason, 2014, Manning)
 * Programming Sound with Pure Data (Tony Hillerson, 2014, Pragmatic Bookshelf)
 * Programming Rust (Jim Blandy, Jason Orendorff, 2017, O'Reilly)
-
-## General Computing
-
-Suggested Track: The Elements of Computing Systems -> The Turing Omnibus -> Numerical Recipies -> Hacker's Delight
-
-* Programming Pearls (Jon Bentley, 1986, Addison-Wesley)
-* Numerical Recipes (William Press, 1986, Cambridge University Press)
-* The Turing Omnibus (Alexander Dewdney, 1989)
-* Applied Cryptography (Bruce Schneier, 1993, Wiley)
-* Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
-* Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
-* The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
-* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
-* The Imposter's Handbook (Rob Conery, 2016, Big Machine)
-
-## Operating Systems
-
-* The Design and Implementation of the 4.3BSD Operating System (Samuel Leffler, 1989, Addison-Wesley)
-* Unix and Linux Administration Handbook (Nemeth, Snyder, and Hein, 1989, Addison-Wesley)
-* Programming Windows (Charles Petzold, 1990, Microsoft)
-* Advanced Programming in the UNIX Environment (W. Richard Stevens, 1992, Addison-Wesley)
-* Absolute FreeBSD (Michael Lucas, 2007, No Starch)
 
 ## Game Development
 
@@ -224,35 +264,14 @@ Suggested Track: Game Programming Patterns -> Game Engine Architecture
 * [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
 * Foundations of Game Engine Development (Eric Lengyel, 2016, Terathon Software)
 
-## Artificial Intelligence and Machine Learning
-
-* Deep Learning and the Game of Go (Kevin Ferguson, 2019, Manning)
-
-## Web Services
-
-* REST in Practice (Savas Parastatidis, Jim Webber, and Ian Robinson, 2010, O'Reilly)
-* RESTful Web APIs (Leonard Richardson, Sam Ruby, and Mike Amundsen, 2013, O'Reilly)
-* Secure Your Node.js Web Application (Karl Duuna, 2015, Pragmatic Bookshelf)
-* Microservices in .NET Core (Christian Gammelgaard, 2017, Manning)
-* Designing Web APIs (Amir Shevat, Brenda Jin, and Saurabh Sahni, 2018, O'Reilly)
-* Node.js 8 The Right Way (Jim Wilson, 2018, Pragmatic Bookshelf)
-
-## Networks
-
-* Twisted Network Programming Essentials (Jessica McKellar, Abe Fettig, 2013, O'Reilly)
-* Networking for Systems Administrators (Michael Lucas, 2015, Tilted Windmill)
-
-## Cloud Architecture
-
-* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
-* [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
-
 ## Electronics, Hardware Hacking
 
 * Hacking the Xbox (Andrew Huang, 2003, No Starch)
 * Getting Started with Raspberry Pi (Matt Richardson, Shawn Wallace, 2012, O'Reilly)
 * [Raspberry Pi Cookbook](./raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
 * The Hardware Hacker (Andrew Huang, 2017, No Starch)
+
+# Other Books, by Subject
 
 ## RPG
 
@@ -307,8 +326,6 @@ I should implement limits on work-in-progress.
 * Bad Blood
 * Practical Object-Oriented Design (2nd Edition)
 * SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys
-* Absolute OpenBSD
 * The Definitive Guide to the Windows Installer
 * To Mock a Mockingbird and Other Logic Puzzles
 * Category Theory for Programmers
-* Practical Vim
