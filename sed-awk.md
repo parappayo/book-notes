@@ -22,8 +22,6 @@ On the other hand, sed and awk may be examples of overly terse domain-specific l
 * The 80 char limit was hard-coded into some systems that stored all text in a fixed-width format.
 * Older System V man pages are often in nroff format and it may be necessary to strip special chars in order to make them human-readable in plaintext.
 
-# Concepts
-
 # Techs
 
 * awk - Aho, Weinberger, Kernighan lang; major revisions in 1978 (Version 7 UNIX) and 1987 (SunOS 4.1); POSIX standard awk based on 1989 version for System V Release 4

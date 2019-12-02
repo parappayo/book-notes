@@ -188,7 +188,8 @@ Suggested Track: The Quick Python Book -> The Hitchhiker's Guide to Python
 * [The Hitchhiker's Guide to Python](./hitchhiker-python.md) (Kenneth Reitz and Tanya Schlusser, 2016, O'Reilly)
 * Test-Driven Development with Python (Harry Percival, 2017, O'Reilly)
 * Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
-* Serious Python (Julien Danjou, 2019, No Starch)
+* [Serious Python](./serious-python.md) (Julien Danjou, 2019, No Starch)
+* Math Adventures with Python (Peter Farrell, 2019, No Starch)
 
 ### C & C++
 
