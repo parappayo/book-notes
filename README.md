@@ -22,6 +22,7 @@ Topics are roughly organized from more general / soft skills to more technical /
 * [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
 * Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
+* [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * Resilient Management (Lara Hogan, 2019, A Book Apart)
 
 ## Software Project Design / Modeling
@@ -36,20 +37,15 @@ Topics are roughly organized from more general / soft skills to more technical /
 
 ## Software Project Management
 
-Suggested Track: Lean Software Development -> Accelerate -> The Manager's Path -> Radical Candor
-
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 * Agile Retrospectives: Making Good Teams Great (Larsen, Derby, and Schwaber, 2006, Pragmatic Bookshelf)
 * Manage It! Your Guide to Modern, Pragmatic Project Management (Johanna Rothman, 2007, Pragmatic Bookshelf)
 * [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
 * The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
-* [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * A Scrum Book: The Spirit of the Game (Jeff Sutherland, Jim Coplien, 2019, Pragmatic Bookshelf)
 
 ## General Computing
-
-Suggested Track: The Elements of Computing Systems -> The Turing Omnibus -> Numerical Recipies -> Hacker's Delight
 
 * Programming Pearls (Jon Bentley, 1986, Addison-Wesley)
 * Numerical Recipes (William Press, 1986, Cambridge University Press)
@@ -62,8 +58,6 @@ Suggested Track: The Elements of Computing Systems -> The Turing Omnibus -> Nume
 * The Imposter's Handbook (Rob Conery, 2016, Big Machine)
 
 ## Programming Methodology
-
-Suggested Track: The Pragmatic Programmer -> Working Effectively with Legacy Code -> Release It! -> Building Microservices
 
 * Refactoring (Kent Beck, Martin Fowler, 1999, Addison-Wesley)
 * The Pragmatic Programmer (Andy Hunt, Dave Thomas, 1999, Pragmatic Bookshelf)
@@ -177,8 +171,6 @@ Suggested Track: The Pragmatic Programmer -> Working Effectively with Legacy Cod
 
 ### Python
 
-Suggested Track: The Quick Python Book -> The Hitchhiker's Guide to Python
-
 * The Quick Python Book (Daryl Harms, Kenneth McDonald, 2000, Manning)
 * Gray Hat Python (Justin Seitz, 2009, No Starch)
 * Python for Data Analysis (Wes McKinney, 2011, O'Reilly)
@@ -192,8 +184,6 @@ Suggested Track: The Quick Python Book -> The Hitchhiker's Guide to Python
 * Math Adventures with Python (Peter Farrell, 2019, No Starch)
 
 ### C & C++
-
-Suggested Track: How Not to Program in C++ -> Effective C++ -> Expert C Programming
 
 * The C Programming Language (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
 * Effective C++ (Scott Meyers, 1992, Addison-Wesley)
@@ -216,8 +206,6 @@ Suggested Track: How Not to Program in C++ -> Effective C++ -> Expert C Programm
 * .NET Core in Action (Dustin Metzgar, 2018, Manning)
 
 ### JavaScript
-
-Suggested Track: JavaScript: The Good Parts -> Learning React
 
 * JavaScript: The Good Parts (Douglas Crockford, 2008, O'Reilly)
 * Eloquent JavaScript (Marijn Haverbeke, 2011, No Starch)
@@ -255,8 +243,6 @@ Suggested Track: JavaScript: The Good Parts -> Learning React
 
 ## Game Development
 
-Suggested Track: Game Programming Patterns -> Game Engine Architecture
-
 * Flights of Fantasy (Christopher Lampton, 1993, Waite Group)
 * Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
 * Game Engine Architecture (Jason Gregory, 2009, CRC Press)
@@ -284,8 +270,6 @@ Suggested Track: Game Programming Patterns -> Game Engine Architecture
 * Rules Compendium 4e (2010, Wizards of the Coast)
 
 ## Hockey
-
-Suggested Track: Take Your Eye Off the Puck -> The Down Goes Brown History of the NHL -> Journeyman -> The Game
 
 * The Game (Ken Dryden, 1983)
 * The Rebel League (Ed Wiles, 2005)
