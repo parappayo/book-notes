@@ -41,7 +41,6 @@ Topics are roughly organized from more general / soft skills to more technical /
 * Agile Retrospectives: Making Good Teams Great (Larsen, Derby, and Schwaber, 2006, Pragmatic Bookshelf)
 * Manage It! Your Guide to Modern, Pragmatic Project Management (Johanna Rothman, 2007, Pragmatic Bookshelf)
 * [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
-* The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * A Scrum Book: The Spirit of the Game (Jeff Sutherland, Jim Coplien, 2019, Pragmatic Bookshelf)
 
@@ -62,15 +61,24 @@ Topics are roughly organized from more general / soft skills to more technical /
 * Refactoring (Kent Beck, Martin Fowler, 1999, Addison-Wesley)
 * The Pragmatic Programmer (Andy Hunt, Dave Thomas, 1999, Pragmatic Bookshelf)
 * Working Effectively with Legacy Code (Michael Feathers, 2004, Prentice Hall)
-* [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
 * Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
+
+## Operations
+
+* [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
+* The Art of Capacity Planning (Arun Kejariwal, John Allspaw, 2008, O'Reilly)
+* Web Operations (John Allspaw, Jesse Robbins, 2010, O'Reilly)
+* The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
+* Site Reliability Engineering (Beyer, Jones, Petoff, Murphy, 2016, O'Reilly)
+* Effective DevOps (Jennifer Davis, 2016, O'Reilly)
 
 ## Data
 
 ### Data Engineering
 
+* Information Architecture (Rosenfeld, Morville, Arango, 1998, O'Reilly)
 * [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * Database Reliability Engineering (Charity Majors, Laine Campbell, 2017, O'Reilly)
 * Architecting Modern Data Platforms (George, Kunigk, Buss, Wilkinson, 2018, O'Reilly)
@@ -125,13 +133,14 @@ Topics are roughly organized from more general / soft skills to more technical /
 
 ### Networks
 
-* Twisted Network Programming Essentials (Jessica McKellar, Abe Fettig, 2013, O'Reilly)
+* Twisted: Network Programming Essentials (Jessica McKellar, Abe Fettig, 2013, O'Reilly)
 * Networking for Systems Administrators (Michael Lucas, 2015, Tilted Windmill)
 
 ### Cloud Architecture
 
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
 * [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
+* Cloud Native Infrastructure (Justin Garrison, Kris Nova, 2017, O'Reilly)
 
 ### Web Services
 
