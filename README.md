@@ -23,6 +23,7 @@ Topics are roughly organized from more general / soft skills to more technical /
 * Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
+* The Culture Code (Daniel Coyle, 2018, Random House)
 * Resilient Management (Lara Hogan, 2019, A Book Apart)
 
 ## Software Project Design / Modeling
@@ -30,8 +31,11 @@ Topics are roughly organized from more general / soft skills to more technical /
 * Design Patterns (Gamma, Vlissides, Helm, Johnson, 1994, Addison-Wesley)
 * Domain-Driven Design (Eric Evans, 2003, Addison-Wesley)
 * Enterprise Integration Patterns (Gregor Hohpe, Bobby Woolf, 2003, Addison-Wesley)
+* Specification by Example (Gojko Adzic, 2011, Manning)
 * Implementing Domain-Driven Design (Vaughn Vernon, 2013, Addison-Wesley)
 * [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
+* Clean Architecture (Robert Martin, 2017, Prentice Hall)
+* Design It! (Michael Keeling, 2017, Pragmatic Bookshelf)
 * [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
@@ -60,15 +64,21 @@ Topics are roughly organized from more general / soft skills to more technical /
 
 * Refactoring (Kent Beck, Martin Fowler, 1999, Addison-Wesley)
 * The Pragmatic Programmer (Andy Hunt, Dave Thomas, 1999, Pragmatic Bookshelf)
+* Test Driven Development: By Example (Kent Beck, 2002, Addison-Wesley)
 * Working Effectively with Legacy Code (Michael Feathers, 2004, Prentice Hall)
+* Extreme Programming Explained (Kent Beck, Cynthia Andres, 2004, Addison-Wesley)
+* Clean Code (Robert Martin, 2009, Prentice Hall)
 * [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
 * Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
+* Adaptive Code (Gary Hall, 2017, Microsoft Press)
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
+* Monolith to Microservices (Sam Newman, 2019, O'Reilly)
 
 ## Operations
 
 * [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
 * The Art of Capacity Planning (Arun Kejariwal, John Allspaw, 2008, O'Reilly)
+* Continuous Delivery (Jez Humble, David Farley, 2010, Addison-Wesley)
 * Web Operations (John Allspaw, Jesse Robbins, 2010, O'Reilly)
 * The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
 * Site Reliability Engineering (Beyer, Jones, Petoff, Murphy, 2016, O'Reilly)
@@ -197,6 +207,7 @@ Topics are roughly organized from more general / soft skills to more technical /
 * The C Programming Language (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
 * Effective C++ (Scott Meyers, 1992, Addison-Wesley)
 * Expert C Programming (Peter van der Linden, 1994, Prentice Hall)
+* C++ Gems (Stanley Lippman, 1998, Cambridge University Press)
 * Exceptional C++ (Herb Sutter, 1999, Addison-Wesley)
 * Accelerated C++ (Andrew Koenig, Barbara Moo, 2000, Addison-Wesley)
 * Modern C++ Design (Andrei Alexandrescu, 2001, Addison-Wesley)
@@ -212,6 +223,7 @@ Topics are roughly organized from more general / soft skills to more technical /
 
 * Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
 * C# in Depth (Jon Skeet, 2008, Manning)
+* Adaptive Code Via C# (Gary Hall, 2014, Microsoft Press)
 * .NET Core in Action (Dustin Metzgar, 2018, Manning)
 
 ### JavaScript
