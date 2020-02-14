@@ -163,31 +163,6 @@ Topics are roughly organized from more general / soft skills to more technical /
 
 ## Programming Languages
 
-### Lisp & Scheme
-
-* The Little Lisper (Daniel Friedman, 1974, MIT Press)
-* Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
-* Common Lisp the Language (Guy Steele, 1984, Digital Press)
-* [The Scheme Programming Language](./scheme-programming-lang.md) (R. Kent Dybvig, 1987, MIT Press)
-* ANSI Common Lisp (Paul Graham, 1995, Prentice Hall)
-* The Seasoned Schemer (Daniel Friedman, Matthias Felleisen, 1995)
-* Practical Common Lisp (Peter Seibel, 2005, Apress)
-* The Reasoned Schemer (Friedman, Byrd, Kiselyov, 2005, MIT Press)
-* Land of Lisp (Conrad Barski, 2011, No Starch)
-* Realm of Racket (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
-* The Little Prover (Daniel Friedman 2015, Carl Eastlund, 2015, MIT Press)
-* The Little Typer (Daniel Friedman, David Christiansen, 2018, MIT Press)
-
-### Prolog
-
-* Programming in Prolog (Clocksin, Mellish, 1981, Springer)
-* Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
-* The Art of Prolog (Leon Sterling, 1986, MIT Press)
-* Adventure in Prolog (Dennis Merritt, 1990, Springer)
-* The Craft of Prolog (Richard O'Keefe, 1990, MIT Press)
-* The Practice of Prolog (Leon Sterling, 1990, MIT Press)
-* Learn Prolog Now! (Blackburn, Bos, Striegnitz, 2006, College Publications)
-
 ### Python
 
 * The Quick Python Book (Daryl Harms, Kenneth McDonald, 2000, Manning)
@@ -201,6 +176,13 @@ Topics are roughly organized from more general / soft skills to more technical /
 * Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
 * [Serious Python](./serious-python.md) (Julien Danjou, 2019, No Starch)
 * Math Adventures with Python (Peter Farrell, 2019, No Starch)
+
+### C\#
+
+* Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
+* C# in Depth (Jon Skeet, 2008, Manning)
+* Adaptive Code Via C# (Gary Hall, 2014, Microsoft Press)
+* .NET Core in Action (Dustin Metzgar, 2018, Manning)
 
 ### C & C++
 
@@ -219,12 +201,44 @@ Topics are roughly organized from more general / soft skills to more technical /
 * Functional Programming in C++ (Ivan Cukic, 2018, Manning)
 * Modern C (Jens Gustedt, 2019, Manning)
 
-### C\#
+### Rust
 
-* Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
-* C# in Depth (Jon Skeet, 2008, Manning)
-* Adaptive Code Via C# (Gary Hall, 2014, Microsoft Press)
-* .NET Core in Action (Dustin Metzgar, 2018, Manning)
+* Programming Rust (Jim Blandy, Jason Orendorff, 2017, O'Reilly)
+* The Rust Programming Language (Steve Klabnik, Carol Nichols, 2018, No Starch)
+* Programming WebAssembly with Rust (Kevin Hoffman, 2019, Pragmatic Bookshelf)
+* Rust in Action (Tim McNamara, 2020, Manning)
+
+### Lisp & Scheme
+
+* The Little Lisper (Daniel Friedman, 1974, MIT Press)
+* Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
+* Common Lisp the Language (Guy Steele, 1984, Digital Press)
+* [The Scheme Programming Language](./scheme-programming-lang.md) (R. Kent Dybvig, 1987, MIT Press)
+* ANSI Common Lisp (Paul Graham, 1995, Prentice Hall)
+* The Seasoned Schemer (Daniel Friedman, Matthias Felleisen, 1995)
+* Practical Common Lisp (Peter Seibel, 2005, Apress)
+* The Reasoned Schemer (Friedman, Byrd, Kiselyov, 2005, MIT Press)
+* Land of Lisp (Conrad Barski, 2011, No Starch)
+* Realm of Racket (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
+* The Little Prover (Daniel Friedman 2015, Carl Eastlund, 2015, MIT Press)
+* The Little Typer (Daniel Friedman, David Christiansen, 2018, MIT Press)
+
+### Haskell
+
+* Real-World Haskell (O'Sullivan, Stewart, and Goerzen, 2008, O'Reilly)
+* Learn You a Haskell for Great Good! (Miran Lipovača, 2011, No Starch)
+* Get Programming with Haskell (Will Kurt 2018, Manning)
+* Haskell in Depth (Vitaly Bragilevsky, 2020, Manning)
+
+### Prolog
+
+* Programming in Prolog (Clocksin, Mellish, 1981, Springer)
+* Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
+* The Art of Prolog (Leon Sterling, 1986, MIT Press)
+* Adventure in Prolog (Dennis Merritt, 1990, Springer)
+* The Craft of Prolog (Richard O'Keefe, 1990, MIT Press)
+* The Practice of Prolog (Leon Sterling, 1990, MIT Press)
+* Learn Prolog Now! (Blackburn, Bos, Striegnitz, 2006, College Publications)
 
 ### JavaScript
 
@@ -235,15 +249,15 @@ Topics are roughly organized from more general / soft skills to more technical /
 * [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
 * Vue.js Up & Running (Callum Macrae, 2018, O'Reilly)
 
-### Ruby
-
-* Programming Ruby (Andy Hunt, Chad Fowler, and Dave Thomas, 2001, Pragmatic Bookshelf)
-* Ruby Under a Microscope (Pat Shaughnessy, 2013, No Starch)
-
 ### F\#
 
 * The Book of F# (Dave Fancher, 2014, No Starch)
 * [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+
+### Ruby
+
+* Programming Ruby (Andy Hunt, Chad Fowler, and Dave Thomas, 2001, Pragmatic Bookshelf)
+* Ruby Under a Microscope (Pat Shaughnessy, 2013, No Starch)
 
 ### Perl
 
@@ -255,12 +269,10 @@ Topics are roughly organized from more general / soft skills to more technical /
 * Thinking Forth (Leo Brodie, 1984, Fig Leaf)
 * lex & yacc (Brown, Levine, and Mason, 1990, O'Reilly)
 * Systems Programming in Modula-3 (Greg Nelson, 1991, Prentice Hall)
-* Real-World Haskell (O'Sullivan, Stewart, and Goerzen, 2008, O'Reilly)
 * The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
 * Learn You Some Erlang for Great Good! (Fred Hebert, 2013, No Starch)
 * Functional Programming in Scala (Paul Chiusano, Runar Bjarnason, 2014, Manning)
 * Programming Sound with Pure Data (Tony Hillerson, 2014, Pragmatic Bookshelf)
-* Programming Rust (Jim Blandy, Jason Orendorff, 2017, O'Reilly)
 
 ## Game Development
 
