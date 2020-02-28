@@ -14,6 +14,8 @@ A loosely curated selection of books intended to provide a broad perspective on 
 
 Topics are roughly organized from more general / soft skills to more technical / hard skills. The idea is to drill down starting from the manager's perspective into the realm of building stuff.
 
+The years listed by each book are typically for the first edition even if that is not the edition that I read.
+
 ## Leadership & Communication
 
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
@@ -267,6 +269,17 @@ Topics are roughly organized from more general / soft skills to more technical /
 
 * Programming Perl (Larry Wall, 1991, O'Reilly)
 * Higher Order Perl (Mark Dominus, 2005, Morgan Kaufmann)
+
+### Java
+
+* Java in a Nutshell (David Flanagan, 1996, O'Reilly)
+* Java Network Programming (Elliotte Harold, 1997, O'Reilly)
+* Effective Java (Joshua Bloch, 2001, Addison-Wesley)
+* Head First Java (Kathy Sierra, Bert Bates, 2003, O'Reilly)
+* Think Java (Allen B. Downey, 2004, O'Reilly)
+* Java Generics (Philip Wadler, Maurice Naftalin, 2009, O'Reilly)
+* Java 8 Lambdas (Richard Warburton, 2014, O'Reilly)
+* Pro Java 9 Games Development (Wallace Jackson, 2017, Apress)
 
 ### Other
 
