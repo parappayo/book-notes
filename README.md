@@ -31,6 +31,7 @@ Topics are roughly organized from more general / soft skills to more technical /
 * Design Patterns (Gamma, Vlissides, Helm, Johnson, 1994, Addison-Wesley)
 * Domain-Driven Design (Eric Evans, 2003, Addison-Wesley)
 * Enterprise Integration Patterns (Gregor Hohpe, Bobby Woolf, 2003, Addison-Wesley)
+* Head First Design Patterns (Kathy Sierra, Elisabeth Freeman, 2004, O'Reilly)
 * Specification by Example (Gojko Adzic, 2011, Manning)
 * Implementing Domain-Driven Design (Vaughn Vernon, 2013, Addison-Wesley)
 * [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
@@ -45,6 +46,7 @@ Topics are roughly organized from more general / soft skills to more technical /
 * Agile Retrospectives: Making Good Teams Great (Larsen, Derby, and Schwaber, 2006, Pragmatic Bookshelf)
 * Manage It! Your Guide to Modern, Pragmatic Project Management (Johanna Rothman, 2007, Pragmatic Bookshelf)
 * [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
+* Head First Agile (Andrew Stellman, Jill Alison Hart, 2017, O'Reilly)
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * A Scrum Book: The Spirit of the Game (Jeff Sutherland, Jim Coplien, 2019, Pragmatic Bookshelf)
 
@@ -180,6 +182,7 @@ Topics are roughly organized from more general / soft skills to more technical /
 ### C\#
 
 * Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
+* Head First C# (Andrew Stellman, 2007, O'Reilly)
 * C# in Depth (Jon Skeet, 2008, Manning)
 * Adaptive Code Via C# (Gary Hall, 2014, Microsoft Press)
 * .NET Core in Action (Dustin Metzgar, 2018, Manning)
@@ -258,6 +261,7 @@ Topics are roughly organized from more general / soft skills to more technical /
 
 * Programming Ruby (Andy Hunt, Chad Fowler, and Dave Thomas, 2001, Pragmatic Bookshelf)
 * Ruby Under a Microscope (Pat Shaughnessy, 2013, No Starch)
+* Head First Ruby (Jay McGavren, 2015, O'Reilly)
 
 ### Perl
 
