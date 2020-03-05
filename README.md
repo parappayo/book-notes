@@ -8,6 +8,90 @@ The goal of this is drifting over time, but loosely speaking I would like to acc
 * Highlight which books I find most worth-while and why
 * Direct my study efforts towards areas that make me a better software developer
 
+# Favourite Tech Books
+
+The following books are ones that I especially like, loosely ranked.
+
+1. Land of Lisp (Conrad Barski, 2011, No Starch)
+1. [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+1. The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
+1. [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
+
+# Learning Paths
+
+An evolving collection of book sequences.
+
+## A Tour of Programming Langs
+
+Be a real polyglot.
+
+1. Real-World Haskell (O'Sullivan, Stewart, and Goerzen, 2008, O'Reilly)
+1. Programming Rust (Jim Blandy, Jason Orendorff, 2017, O'Reilly)
+1. Learn You Some Erlang for Great Good! (Fred Hebert, 2013, No Starch)
+1. The Book of F# (Dave Fancher, 2014, No Starch)
+1. Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
+1. The D Programming Language (Andrei Alexandrescu, 2010, Addison-Wesley)
+1. The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
+
+## Fun and Inspirational
+
+Goofy fun books. The real good stuff.
+
+1. Land of Lisp (Conrad Barski, 2011, No Starch)
+1. [Realm of Racket](./realm-of-racket.md) (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
+1. [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
+1. Making Games for the Atari 2600 (Steven Hugg, 2016, Puzzling Plans)
+1. Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
+1. To Mock a Mockingbird (Raymond Smullyan, 1985, Oxford)
+
+## Out-Growing the Individual Contributor Mindset
+
+For when you've become a competent programmer and the next rung in your journey involves organizational and people problems.
+
+1. Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
+1. [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
+1. [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+1. The Manager's Path (Camille Fournier, 2017, O'Reilly)
+1. [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
+1. [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
+1. [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
+
+## Hobby Hacker
+
+For getting into hardware hacking and maker-space stuff. (Not much here yet, sorry.)
+
+1. The Quick Python Book (Daryl Harms, Kenneth McDonald, 2000, Manning)
+1. [Raspberry Pi Cookbook](./raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
+1. Hacking the Xbox (Andrew Huang, 2003, No Starch)
+
+## DIY Computing Science Degree
+
+My attempt at a general computing science curriculum. Some introductory books followed by a progression of low level to high level programming (machine code -> C -> Lisp -> Java) with material about compilers, operating systems, networks, databases, and design patterns along the way.
+
+A real Comp Sci curriculum would be a lot more math-y, with calculus, linear algebra, and statistics material at a bare minimum. It'd be great to start a separate list for that.
+
+There's a lot of room for improvement and refinement. I need to actually work through this list in order to vet it. I'd probably substitute some things.
+
+1. The Imposter's Handbook (Rob Conery, 2016, Big Machine)
+1. The Turing Omnibus (Alexander Dewdney, 1989)
+1. Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
+1. The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
+1. The Art of Assembly Language (Randall Hyde, 2003, No Starch)
+1. Learn C the Hard Way (Zed Shaw, 2015, Addison-Wesley)
+1. Compilers: Principles, Techniques, and Tools (Alfred Aho, Monica Lam, Ravi Sethi, Jeffrey Ullman, 1986, Pearson)
+1. lex & yacc (Brown, Levine, and Mason, 1990, O'Reilly)
+1. Absolute FreeBSD (Michael Lucas, 2007, No Starch)
+1. The Design and Implementation of the 4.3BSD Operating System (Samuel Leffler, 1989, Addison-Wesley)
+1. Land of Lisp (Conrad Barski, 2011, No Starch)
+1. Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
+1. Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
+1. Think Java (Allen B. Downey, 2004, O'Reilly)
+1. Java Network Programming (Elliotte Harold, 1997, O'Reilly)
+1. Head First SQL (Lynn Beighley, 2007, O'Reilly)
+1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+1. Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
+1. Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
+
 # Software Development Books, by Subject
 
 A loosely curated selection of books intended to provide a broad perspective on each topic.
@@ -35,6 +119,7 @@ The years listed by each book are typically for the first edition even if that i
 * Enterprise Integration Patterns (Gregor Hohpe, Bobby Woolf, 2003, Addison-Wesley)
 * Head First Design Patterns (Kathy Sierra, Elisabeth Freeman, 2004, O'Reilly)
 * Specification by Example (Gojko Adzic, 2011, Manning)
+* Practical Object-Oriented Design (Sandi Metz, 2012, Addison-Wesley)
 * Implementing Domain-Driven Design (Vaughn Vernon, 2013, Addison-Wesley)
 * [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
 * Clean Architecture (Robert Martin, 2017, Prentice Hall)
@@ -52,10 +137,11 @@ The years listed by each book are typically for the first edition even if that i
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * A Scrum Book: The Spirit of the Game (Jeff Sutherland, Jim Coplien, 2019, Pragmatic Bookshelf)
 
-## General Computing
+## Computing Science & General Computing
 
 * Programming Pearls (Jon Bentley, 1986, Addison-Wesley)
 * Numerical Recipes (William Press, 1986, Cambridge University Press)
+* Compilers: Principles, Techniques, and Tools (Alfred Aho, Monica Lam, Ravi Sethi, Jeffrey Ullman, 1986, Pearson)
 * The Turing Omnibus (Alexander Dewdney, 1989)
 * Applied Cryptography (Bruce Schneier, 1993, Wiley)
 * Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
@@ -63,6 +149,7 @@ The years listed by each book are typically for the first edition even if that i
 * The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
 * The Imposter's Handbook (Rob Conery, 2016, Big Machine)
+* Category Theory for Programmers (Bartosz Milewski, 2018, Blurb)
 
 ## Programming Methodology
 
@@ -136,19 +223,24 @@ The years listed by each book are typically for the first edition even if that i
 
 ## Infrastructure
 
-### Operating Systems
+### Operating Systems / Unix
 
 * The Design and Implementation of the 4.3BSD Operating System (Samuel Leffler, 1989, Addison-Wesley)
 * Unix and Linux Administration Handbook (Nemeth, Snyder, and Hein, 1989, Addison-Wesley)
-* Programming Windows (Charles Petzold, 1990, Microsoft)
 * Advanced Programming in the UNIX Environment (W. Richard Stevens, 1992, Addison-Wesley)
 * Absolute OpenBSD (Michael Lucas, 2003, No Starch)
 * Absolute FreeBSD (Michael Lucas, 2007, No Starch)
+
+### Operating Systems / Windows
+
+* Programming Windows (Charles Petzold, 1990, Microsoft)
+* The Definitive Guide to the Windows Installer (Phil Wilson, 2004, Apress)
 
 ### Networks
 
 * Twisted: Network Programming Essentials (Jessica McKellar, Abe Fettig, 2013, O'Reilly)
 * Networking for Systems Administrators (Michael Lucas, 2015, Tilted Windmill)
+* SSH Mastery (Michael Lucas, 2018, Tilted Windmill)
 
 ### Cloud Architecture
 
@@ -187,7 +279,7 @@ The years listed by each book are typically for the first edition even if that i
 * Head First C# (Andrew Stellman, 2007, O'Reilly)
 * C# in Depth (Jon Skeet, 2008, Manning)
 * Adaptive Code Via C# (Gary Hall, 2014, Microsoft Press)
-* .NET Core in Action (Dustin Metzgar, 2018, Manning)
+* [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 
 ### C & C++
 
@@ -350,37 +442,7 @@ The years listed by each book are typically for the first edition even if that i
 * The Battle of Alberta (Mark Spector, 2015)
 * The Down Goes Brown History of the NHL (Sean McIndoe, 2018)
 
-# Favourite Tech Books
+## Miscellaneous
 
-The following books are ones that I especially like, loosely ranked.
-
-* Land of Lisp (Conrad Barski, 2011, No Starch)
-* [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
-* The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
-* [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
-* [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
-* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
-
-# In Progress
-
-I should implement limits on work-in-progress.
-
-## On-Deck
-
-* [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
-* [Release It! Second Edition](./release-it.md) (Michael Nygard, 2018, Pragmatic Bookshelf)
-* [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
-* The Manager's Path (Camille Fournier, 2017, O'Reilly)
-
-## Backlog
-
-* Domain-Driven Design Distilled (Vaughn Vernon, 2016, Addison-Wesley)
-* [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
-* [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 * Significant Zero
 * Bad Blood
-* Practical Object-Oriented Design (2nd Edition)
-* SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys
-* The Definitive Guide to the Windows Installer
-* To Mock a Mockingbird and Other Logic Puzzles
-* Category Theory for Programmers
