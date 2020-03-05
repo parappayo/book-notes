@@ -1,8 +1,9 @@
+
 # About
 
-[The Hitchhiker's Guide to Python: Best Practices for Development](https://docs.python-guide.org/)
-by Kenneth Reitz and Tanya Schlusser
-published by O'Reilly, 2016
+* [The Hitchhiker's Guide to Python: Best Practices for Development](https://docs.python-guide.org/)
+* by Kenneth Reitz and Tanya Schlusser
+* published by O'Reilly, 2016
 
 # Thoughts
 

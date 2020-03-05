@@ -1,8 +1,9 @@
+
 # About
 
-[.NET Core in Action](https://www.manning.com/books/dotnet-core-in-action)
-by Dustin Metzgar
-published by Manning Press, 2018
+* [.NET Core in Action](https://www.manning.com/books/dotnet-core-in-action)
+* by Dustin Metzgar
+* published by Manning Press, 2018
 
 # Thoughts
 

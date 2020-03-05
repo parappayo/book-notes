@@ -1,8 +1,9 @@
+
 # About
 
-[Release It! Second Edition: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee2/release-it-second-edition)
-by Michael Nygard, Katharine Dvorak
-published by Pragmatic Bookshelf, 2018
+* [Release It! Second Edition: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee2/release-it-second-edition)
+* by Michael Nygard, Katharine Dvorak
+* published by Pragmatic Bookshelf, 2018
 
 # Thoughts
 

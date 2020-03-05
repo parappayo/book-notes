@@ -1,8 +1,9 @@
+
 # About
 
-[Raspberry Pi Cookbook](http://razzpisampler.oreilly.com/)
-by Simon Monk
-published by O'Reilly Media, 2013
+* [Raspberry Pi Cookbook](http://razzpisampler.oreilly.com/)
+* by Simon Monk
+* published by O'Reilly Media, 2013
 
 # Thoughts
 

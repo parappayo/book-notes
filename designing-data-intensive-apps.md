@@ -1,8 +1,9 @@
+
 # About
 
-[Designing Data-Intensive Applications](https://dataintensive.net/)
-by Martin Kleppmann
-published by O'Reilly, 2017
+* [Designing Data-Intensive Applications](https://dataintensive.net/)
+* by Martin Kleppmann
+* published by O'Reilly, 2017
 
 # Thoughts
 
