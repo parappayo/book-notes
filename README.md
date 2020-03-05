@@ -293,13 +293,21 @@ The years listed by each book are typically for the first edition even if that i
 
 ## Game Development
 
-* Flights of Fantasy (Christopher Lampton, 1993, Waite Group)
+* Graphics Programming Black Book (Michael Abrash, 1997, Coriolis)
 * Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
 * Game Engine Architecture (Jason Gregory, 2009, CRC Press)
 * Game Programming Patterns (Robert Nystrom, 2011, Genever Benning)
 * Best of Game Programming Gems (Mark DeLoura, 2014, Nelson Education)
 * [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
 * Foundations of Game Engine Development (Eric Lengyel, 2016, Terathon Software)
+
+## Game Development / DOS Programming
+
+* The Waite Group's MS-DOS Developer's Guide (John Angermeyer, Kevin Jaeger, 1986, Waite Group)
+* Flights of Fantasy (Christopher Lampton, 1993, Waite Group)
+* Zen of Graphics Programming (Michael Abrash, 1994, Coriolis)
+* Tricks of the Game Programming Gurus (André LaMothe, 1994, Sams)
+* Black Art of 3D Game Programming (André LaMothe, 1995, Waite Group)
 
 ## Electronics, Hardware Hacking
 
