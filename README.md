@@ -202,7 +202,9 @@ The years listed by each book are typically for the first edition even if that i
 * C++ Concurrency in Action (Anthony Williams, 2012, Manning)
 * A Tour of C++ (Bjarne Stroustrup, 2013, Addison-Wesley)
 * Modern C++ Programming with Test-Driven Development (Jeff Langr, 2013, Pragmatic Bookshelf)
+* 21st Century C (Ben Klemens, 2014, O'Reilly)
 * Effective Modern C++ (Scotty Meyers, 2015, O'Reilly)
+* Learn C the Hard Way (Zed Shaw, 2015, Addison-Wesley)
 * Functional Programming in C++ (Ivan Cukic, 2018, Manning)
 * Modern C (Jens Gustedt, 2019, Manning)
 
@@ -281,11 +283,20 @@ The years listed by each book are typically for the first edition even if that i
 * Java 8 Lambdas (Richard Warburton, 2014, O'Reilly)
 * Pro Java 9 Games Development (Wallace Jackson, 2017, Apress)
 
+### Assembly
+
+* Assembly Language Step-by-Step (Jeff Duntemann, 1992, Wiley)
+* Assembly Language 68000 (Alan Clements, 1993, Cengage)
+* The Art of Assembly Language (Randall Hyde, 2003, No Starch)
+* Making Games for the Atari 2600 (Steven Hugg, 2016, Puzzling Plans)
+* Making Games for the NES (Steven Hugg, 2019, Puzzling Plans)
+
 ### Other
 
 * Thinking Forth (Leo Brodie, 1984, Fig Leaf)
 * lex & yacc (Brown, Levine, and Mason, 1990, O'Reilly)
 * Systems Programming in Modula-3 (Greg Nelson, 1991, Prentice Hall)
+* The D Programming Language (Andrei Alexandrescu, 2010, Addison-Wesley)
 * The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
 * Learn You Some Erlang for Great Good! (Fred Hebert, 2013, No Starch)
 * Functional Programming in Scala (Paul Chiusano, Runar Bjarnason, 2014, Manning)
@@ -308,6 +319,7 @@ The years listed by each book are typically for the first edition even if that i
 * Zen of Graphics Programming (Michael Abrash, 1994, Coriolis)
 * Tricks of the Game Programming Gurus (André LaMothe, 1994, Sams)
 * Black Art of 3D Game Programming (André LaMothe, 1995, Waite Group)
+* Game Engine Black Book: Wolfenstein 3D (Fabien Sanglard, 2017, Software Wizards)
 
 ## Electronics, Hardware Hacking
 
