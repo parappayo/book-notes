@@ -224,7 +224,7 @@ The years listed by each book are typically for the first edition even if that i
 * Practical Common Lisp (Peter Seibel, 2005, Apress)
 * The Reasoned Schemer (Friedman, Byrd, Kiselyov, 2005, MIT Press)
 * Land of Lisp (Conrad Barski, 2011, No Starch)
-* Realm of Racket (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
+* [Realm of Racket](./realm-of-racket.md) (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
 * The Little Prover (Daniel Friedman 2015, Carl Eastlund, 2015, MIT Press)
 * The Little Typer (Daniel Friedman, David Christiansen, 2018, MIT Press)
 
