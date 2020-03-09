@@ -21,18 +21,6 @@ The following books are ones that I especially like, loosely ranked.
 
 An evolving collection of book sequences.
 
-## A Tour of Programming Langs
-
-Be a real polyglot.
-
-1. Real-World Haskell (O'Sullivan, Stewart, and Goerzen, 2008, O'Reilly)
-1. Programming Rust (Jim Blandy, Jason Orendorff, 2017, O'Reilly)
-1. Learn You Some Erlang for Great Good! (Fred Hebert, 2013, No Starch)
-1. The Book of F# (Dave Fancher, 2014, No Starch)
-1. Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
-1. The D Programming Language (Andrei Alexandrescu, 2010, Addison-Wesley)
-1. The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
-
 ## Fun and Inspirational
 
 Goofy fun books. The real good stuff.
@@ -55,6 +43,29 @@ For when you've become a competent programmer and the next rung in your journey 
 1. [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 1. [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 1. [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
+
+## Variety Langs
+
+For the discerning polyglot.
+
+1. Real-World Haskell (O'Sullivan, Stewart, and Goerzen, 2008, O'Reilly)
+1. Programming Rust (Jim Blandy, Jason Orendorff, 2017, O'Reilly)
+1. Learn You Some Erlang for Great Good! (Fred Hebert, 2013, No Starch)
+1. The Book of F# (Dave Fancher, 2014, No Starch)
+1. Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
+1. The D Programming Language (Andrei Alexandrescu, 2010, Addison-Wesley)
+1. The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
+
+## Curly Langs
+
+We should have stuck to Algol.
+
+1. The C Programming Language (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
+1. Effective C++ (Scott Meyers, 1992, Addison-Wesley)
+1. Expert C Programming (Peter van der Linden, 1994, Prentice Hall)
+1. Think Java (Allen B. Downey, 2004, O'Reilly)
+1. C# in Depth (Jon Skeet, 2008, Manning)
+1. JavaScript: The Good Parts (Douglas Crockford, 2008, O'Reilly)
 
 ## Hobby Hacker
 
