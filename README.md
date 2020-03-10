@@ -83,7 +83,7 @@ A real Comp Sci curriculum would be a lot more math-y, with calculus, linear alg
 
 There's a lot of room for improvement and refinement. I need to actually work through this list in order to vet it. I'd probably substitute some things.
 
-1. The Imposter's Handbook (Rob Conery, 2016, Big Machine)
+1. [The Imposter's Handbook](./imposters-handbook.md) (Rob Conery, 2016, Big Machine)
 1. The Turing Omnibus (Alexander Dewdney, 1989)
 1. Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
 1. The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
@@ -109,7 +109,7 @@ A loosely curated selection of books intended to provide a broad perspective on 
 
 Topics are roughly organized from more general / soft skills to more technical / hard skills. The idea is to drill down starting from the manager's perspective into the realm of building stuff.
 
-The years listed by each book are typically for the first edition even if that is not the edition that I read.
+Books within each topic are ordered by year of publication. The years listed by each book are typically for the first edition even if that is not the edition that I read.
 
 ## Leadership & Communication
 
@@ -159,7 +159,7 @@ The years listed by each book are typically for the first edition even if that i
 * Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
 * The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
-* The Imposter's Handbook (Rob Conery, 2016, Big Machine)
+* [The Imposter's Handbook](./imposters-handbook.md) (Rob Conery, 2016, Big Machine)
 * Category Theory for Programmers (Bartosz Milewski, 2018, Blurb)
 
 ## Programming Methodology
