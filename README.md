@@ -150,6 +150,8 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ## Computing Science & General Computing
 
+* Computers and Intractability (Michael Garey, David Johnson, 1979, Freeman)
+* Computability: An Introduction to Recursive Function Theory (Nigel Cutland, 1980, Cambridge University Press)
 * Programming Pearls (Jon Bentley, 1986, Addison-Wesley)
 * Numerical Recipes (William Press, 1986, Cambridge University Press)
 * Compilers: Principles, Techniques, and Tools (Alfred Aho, Monica Lam, Ravi Sethi, Jeffrey Ullman, 1986, Pearson)
@@ -175,6 +177,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Adaptive Code (Gary Hall, 2017, Microsoft Press)
 * [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
 * Monolith to Microservices (Sam Newman, 2019, O'Reilly)
+* Mastering Software Technique (Noah Gibbs, 2020, Gumroad)
 
 ## Operations
 
@@ -390,6 +393,8 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 * Assembly Language Step-by-Step (Jeff Duntemann, 1992, Wiley)
 * Assembly Language 68000 (Alan Clements, 1993, Cengage)
+* The DLX Instruction Set Architecture Handbook (Philip Sailer, David Kaeli, 1996, Morgan-Kaufmann)
+* See MIPS Run (Dominic Sweetman, 1999, Morgan-Kaufmann)
 * The Art of Assembly Language (Randall Hyde, 2003, No Starch)
 * Making Games for the Atari 2600 (Steven Hugg, 2016, Puzzling Plans)
 * Making Games for the NES (Steven Hugg, 2019, Puzzling Plans)
