@@ -60,7 +60,7 @@ For the discerning polyglot.
 
 We should have stuck to Algol.
 
-1. The C Programming Language (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
+1. [The C Programming Language](./c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
 1. Effective C++ (Scott Meyers, 1992, Addison-Wesley)
 1. Expert C Programming (Peter van der Linden, 1994, Prentice Hall)
 1. Think Java (Allen B. Downey, 2004, O'Reilly)
@@ -297,7 +297,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ### C & C++
 
-* The C Programming Language (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
+* [The C Programming Language](./c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
 * Effective C++ (Scott Meyers, 1992, Addison-Wesley)
 * Expert C Programming (Peter van der Linden, 1994, Prentice Hall)
 * C++ Gems (Stanley Lippman, 1998, Cambridge University Press)

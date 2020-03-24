@@ -96,4 +96,5 @@
 * Lean Software Development - Mary and Tom Poppendieck book
 * Personal Kanban - book by Jim Benson
 * Refactoring: Improving the Design of Existing Code - Kent Beck, Martin Fowler book
+* The Goal - book by Eliyahu Goldratt, Jeff Cox
 * The Toyota Way - book by Jeffrey Liker; Toyota is the inspiration of Kanban
