@@ -436,6 +436,23 @@ Books within each topic are ordered by year of publication. The years listed by 
 * [Raspberry Pi Cookbook](./raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
 * The Hardware Hacker (Andrew Huang, 2017, No Starch)
 
+## Mathematics
+
+* Div, Grad, Curl, and All That (Harry Moritz Schey, 1973, W. M. Norton)
+* Topology (James Munkres, 1974, Prentice Hall)
+* How To Read And Do Proofs (Daniel Solow, 1982, Wiley)
+* A Book of Abstract Algebra (Charles Pinter, 1982, McGraw-Hill)
+* Mathematics for the Nonmathematician (Morris Kline, 1985, Dover)
+* Abstract Algebra (David Dummit, Richard Foote, 1991, Wiley)
+* The Art of Problem Solving (Richard Rusczyk, Sandor Lehoczky, 1994, AoPS)
+* Number Theory (George Andrews, 1994, Dover)
+* Linear Algebra Done Right (Sheldon Axler, 1995, Springer)
+* What Is Mathematics? An Elementary Approach to Ideas and Methods (Richard Courant, Herbert Robbins, Ian Stewart, 1996, Oxford University Press)
+* Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
+* No Bullshit Guide to Math and Physics (Ivan Savov, 2010, Minireference)
+* Introduction to Probability, Statistics, and Random Processes (Hossein Pishro-Nik, 2014, Kappa Research)
+* Math Adventures with Python (Peter Farrell, 2019, No Starch)
+
 # Other Books, by Subject
 
 ## RPG
