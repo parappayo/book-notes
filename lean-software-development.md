@@ -46,7 +46,6 @@ A fantastic book. On-point about the principles that enable success in software 
 * Applied Ratio - metric for utilization, often incorrectly tied to profit; utilization does not necessarily add value
 * Architecture Matrix - synchronization approach: teams agree on a system architecture and interfaces before building subsystems
 * As-Built Documentation - docs that are up-to-date with the actual code; very difficult to have in practice
-* Barry Bohem - quote about fixing a software problem after delivery costing 100 times more than when the problem was first introduced; quote about the best way to develop low-cost, high-quality software is to write less code (with Philip Papaccio)
 * Burn Down Chart - shows convergence as backlog being reduced
 * Capability Maturity Model (CMM) - developed by Watts Humphrey; used as a certification program, tends to add bureaucracy and hinder change although that is not the intent; see also ISO9000
 * Capability Maturity Model Integration (CMMI) - introduced to replace CMM around 2003, developed by SEI to incorporate the lessons of several maturity models; underlying assumptions are alarmingly similar to Scientific Management (central control and i/o optimization rather than holistic view and distributed decision-making)
@@ -61,29 +60,18 @@ A fantastic book. On-point about the principles that enable success in software 
 * Customer Tests aka Acceptance Tests - as opposed to developer tests (unit, integration, smoke); whether the customer's needs are met
 * Cycle Time - from queuing theory, total service time from queue entry until service complete
 * Death March - as defined by Yourdon, a project whose project parameters exceed 150% of typical
-* Donald Norman - design researcher
-* Earl Wheeler - former head of IBM's software business; "the key thrust was delegating power down. It was like magic! Improved quality, productivity, and morale."
-* Enrico Zaninotto - economist
 * Extreme Programming (XP) - software development methodology meant to improve responsiveness to customer needs
 * Feature-Driven Development (FDD) - individual ownership of code modules; agile typically recommends common ownership
 * Five Whys - a method to drill down to the root causes behind a problem
 * Fixed-Price Contract - often goes to lowest bidder; can lead to a vendor hoping to profit from design changes; lowest bidder may not understand the true cost of the project and the customer ends up having to bail them out; encourages selfish customer behaviour
 * Flexible-Price Contract aka Time-and-Expenses Contract - designed to deal with uncertainty, but merely shifts the risk from the vendor to the customer; under these the vendor lacks an incentive to be efficient; DoD tried using extensive vendor controls, but the controls themselves are costly; incremental development helps, small batches of work protect the customer from risk; encourages selfish vendor behaviour
 * Gantt Chart - used in waterfall to identify the critical path; a better approach is to work in small batches
-* Harold Thimbleby - wrote 1988 paper in IEEE Software, "Delaying Commitment;" when faced with a new situation, experts delay firm decisions and investigate while amateurs over-commit to early decisions
-* Henry Petroski - engineering historian
 * Integrated Problem Solving - understanding the problem and solving the problem happen in parallel; information is transmitted in frequent, small batches and in every direction; the opposite is the "throw it over the wall" approach
 * Intuitive Decision Making - knowing from experience an effective course to take; it is more important to develop the expertise to make wise decisions than to develop processes that replace decision-making; how do you know whom to listen to? Dunning-Krueger is a potential problem
 * ISO9000 certification - good at documenting process but creates resistence to change; can capture a successful organization structure, but does not help create one; bias toward documentation and standardization of process, and bias away from change; they are best applied after processes are made lean, otherwise they slow the rate of change and lock-in existing bad practices
-* James Womack - "We suggest that 'faster is dearer' will now join 'quality costs more' on the junk heap of ideas left over from the age of mass production."
-* Jay Forrester - system dynamics guru
-* Jim McCarthy - of Microsoft, "I can't emphasize enough the importance of empowerment, of the team being accountable to itself for its success."
 * Job Dissatisfaction Factors - policy, supervision, administration
 * Job Satisfaction Factors - achievement, recognition, responsibility
-* John Kotter - people cannot be managed into battle, they must be led
 * Kanban - sign / placard; tracking system for restocking, it follows a pull system pattern for just-in-time delivery; requests emerge based on simple rules rather than being centrally controlled
-* Kenneth Thomas - people are hardwired to care about purposes
-* Kim Clark - of Harvard Business School, "integrity" is a differentiator between average and high-performing companies
 * Last Responsible Moment - when failing to make a decision would eliminate an important alternative; beyond this point decisions will be made by default; deferring decisions must not degenerate into avoiding commitment
 * Lean Construction Institute - advises that construction sites should use a weekly schedule instead of a master plan
 * Limits To Growth - policies that improve performance often have secondary effects that limit their effectiveness; amplifying those policies can disproportionately increase the secondary effect and cause setbacks
@@ -101,13 +89,11 @@ A fantastic book. On-point about the principles that enable success in software 
 * Project Parameters - project scope, time, quality, risks, costs, etc.
 * Pull Systems - team members pull down work requests, rather than waiting for management to decide on a schedule and push out work requests
 * Queueing Theory - study of how wait lines operate; considers cycle time as a measure of efficiency; can optimize rate of arrival (traffic shaping) or rate of service; some slack in the system often makes it more efficient, eg. avoid congestion
-* Raymonde Guidon - studied experienced software designers in 1990, found that they freely move between problem examination, clarifying requirements, high-level problem decomposition, and low-level implementation ideas when faced with a loosely designed problem
 * Scientific Management - managers optimize processes based on performance metrics; eg. engineers stand on a factory line and tell workers how to do their jobs; typically relies on pay to motivate workers; made obsolete by Lean Manufacturing
 * Set-Based Decision Making - gather options as a set, apply constraints to narrow the possibilites; as opposed to Point-Based Decision Making; consider multiple options in parallel and converge on a solution; ask each stakeholder what solutions could work, look for intersections
 * Seven Lean Principles - Eliminate Waste, Amplify Learning, Wait to Decide, Deliver Fast, Empower the Team, Build Integrity In, See the Whole
 * Seven Wastes of Manufacturing - Inventory, Extra Processing, Overproduction, Transportation, Waiting, Motion, Defects
 * Shifting The Burden - addressing symptoms rather than underlying causes
-* Shigeo Shingo - lean manufacturing expert, identifies seven types of waste: inventory, extra processing, overproduction, transportation, waiting, motion, defects
 * Six Sigma - management methodoloyg; has different flavours for production and development, make sure the right one is used
 * Slack Time - 3M practice of giving people 15% of their time at work for self-chosen projects
 * Software Engineering Institute (SEI)
@@ -120,8 +106,7 @@ A fantastic book. On-point about the principles that enable success in software 
 * Target-Cost Contracts - parties negotiate a split of who bears the cost of running over-budget, a split also applies if the project is under-budget, ie. the vendor gets a bonus; freedom is needed in order for customer requirements to take priority over being on-time and on-budget; encourages reducing scope as the most effective cost control measure; avoids over-specifying scope
 * Target-Schedule Contracts - for when schedule matters more than cost; requires delivering features in priority order, deploying early
 * Technical Qualifiers - captures basic functionality needed to deliver business value; what response time, availability, scalability, and security concerns are relevant to the product
-* Theory Of Constraints - rather than pushing growth, find and remove limits to growth; yesterday's remedial policies may become today's bottlenecks
-* Theory Of Constraints - recommends focusing on bottlenecks in the organization; optimizations to a non-bottlenecked stream are ineffective
+* Theory Of Constraints - find and remove limits to growth; optimizations away from the bottleneck are ineffective; yesterday's remedial policies may become today's bottlenecks
 * Thrashing - occurs when a project responds so rapidly to feedback that no momentum develops in any one direction; a tight feedback loop and flexible priorities help to avoid this
 * Toyota Production System - created by Taiichi Ohno
 * Trunk-Based Development - no release branches, ship latest from master, tight deployment loop
@@ -129,11 +114,28 @@ A fantastic book. On-point about the principles that enable success in software 
 * Use Case Model - captures tacit knowledge about system usability; user stories
 * Value Stream Mapping - graphical depiction of delays in production due to waiting on each step in a process; eg. an aluminum can may spend 300+ days in a production chain but only 3 hours of that time being processed; Kent Beck recommends spending about 30 minutes building a map, to keep it simple
 * Visual Controls - what Alistair Cockburn calls Information Radiators; progress reports including the kanban board, burndown chart, acceptance test chart; telegraph progress to enable self-directing work
-* William McKnight - implemented the 3M innovation formula; "Hire good people, and leave them alone." "If you put fences around people, you get sheep. Give people the room that they need."
-* Winston Royce - proposed in 1970 that testing should happen early in software dev to generate feedback while it is most valuable
 * Work-in-Queue - amount of work waiting for service, roughly proportional to cycle time
 * Work-Out program - used by General Electric; teams surface best practices to their managers, inverting the control chain; successful process improvement and knowledge sharing technique
 * Zero Defects Mentality - US Army - tolerate no mistakes, tends to kill motivation
+
+# Names Dropped
+
+* Barry Bohem - quote about fixing a software problem after delivery costing 100 times more than when the problem was first introduced; quote about the best way to develop low-cost, high-quality software is to write less code (with Philip Papaccio)
+* Donald Norman - design researcher
+* Earl Wheeler - former head of IBM's software business; "the key thrust was delegating power down. It was like magic! Improved quality, productivity, and morale."
+* Enrico Zaninotto - economist
+* Harold Thimbleby - wrote 1988 paper in IEEE Software, "Delaying Commitment;" when faced with a new situation, experts delay firm decisions and investigate while amateurs over-commit to early decisions
+* Henry Petroski - engineering historian
+* James Womack - "We suggest that 'faster is dearer' will now join 'quality costs more' on the junk heap of ideas left over from the age of mass production."
+* Jay Forrester - system dynamics guru
+* Jim McCarthy - of Microsoft, "I can't emphasize enough the importance of empowerment, of the team being accountable to itself for its success."
+* John Kotter - people cannot be managed into battle, they must be led
+* Kenneth Thomas - people are hardwired to care about purposes
+* Kim Clark - of Harvard Business School, "integrity" is a differentiator between average and high-performing companies
+* Raymonde Guidon - studied experienced software designers in 1990, found that they freely move between problem examination, clarifying requirements, high-level problem decomposition, and low-level implementation ideas when faced with a loosely designed problem
+* Shigeo Shingo - lean manufacturing expert, identifies seven types of waste: inventory, extra processing, overproduction, transportation, waiting, motion, defects
+* William McKnight - implemented the 3M innovation formula; "Hire good people, and leave them alone." "If you put fences around people, you get sheep. Give people the room that they need."
+* Winston Royce - proposed in 1970 that testing should happen early in software dev to generate feedback while it is most valuable
 
 # Challenges in Dysfunctional Management
 
