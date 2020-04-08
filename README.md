@@ -8,6 +8,12 @@ The goal of this is drifting over time, but loosely speaking I would like to acc
 * Highlight which books I find most worth-while and why
 * Direct my study efforts towards areas that make me a better software developer
 
+# Aggregation Pages
+
+Some of the best stuff gets aggregated into condensed articles.
+
+* [Lexicon](./lexicon.md)
+
 # Favourite Tech Books
 
 The following books are ones that I especially like, loosely ranked.
