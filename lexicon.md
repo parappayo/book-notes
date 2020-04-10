@@ -13,6 +13,7 @@ A collection of my favourite pithy definitions.
 * Cryptid - a creature claimed, but never proven, to exist
 * Design by Coding - invent the interface that you wish existed, mock out the interactions
 * Dr. Dobb’s Journal of Tiny BASIC Calisthenics and Orthodontia - founded by Bob Albrecht, Dennis Allison
+* Dunder - portmanteau of "double underscore"
 * Dust Archive - NASA data
 * Egg Model - hard outer shell, soft on the inside; causes big leaks
 * Egregore - autonomous psychic group mind
@@ -35,6 +36,7 @@ A collection of my favourite pithy definitions.
 * Obligation to Dissent - policy at McKinsey; unanimous consensus is a red flag
 * Orange Sticky Notes - cheaper, for some reason
 * Parasympathetic Nervous Response - rest and digest
+* Perl - Pathologically Eclectic Rubbish Lister
 * Peter Principle - people get promoted to their level of incompetence
 * Post hoc, ergo propter hoc - you touched it last
 * Recursive Parallel Process - everything happens all at once, all the time
