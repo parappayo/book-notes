@@ -12,7 +12,7 @@ The goal of this is drifting over time, but loosely speaking I would like to acc
 
 Some of the best stuff gets aggregated into condensed articles.
 
-* [Lexicon](./lexicon.md)
+* [Lexicon](./aggregate/lexicon.md)
 
 # Favourite Tech Books
 
@@ -219,6 +219,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Visualize This (Nathan Yau, 2011, Wiley)
 * Data Points (Nathan Yau, 2013, Wiley)
 * Tableau Your Data! (Daniel Murray, 2013, Wiley)
+* Practical Tableau (Ryan Sleeper, 2018, O'Reilly)
 
 ### SQL
 
@@ -233,11 +234,20 @@ Books within each topic are ordered by year of publication. The years listed by 
 * The Awk Programming Language (Aho, Weinberger, Kernighan, 1988, Addison-Wesley)
 * Effective awk Programming (Arnold Robins, 1996, O'Reilly)
 * [sed & awk](./sed-awk.md) (Arnold Robbins, Dale Dougherty, 1997, O'Reilly)
+* Data-Intensive Text Processing with MapReduce (Chris Dyer, Jimmy Lin, 2010, Morgan & Claypool)
 * Practical Vim (Drew Neil, 2015, Pragmatic Bookshelf)
 * Text Mining with R (Julia Silge, David Robinson, 2017, O'Reilly)
 * Applied Text Analysis with Python (Benjamin Bengfort, Rebecca Bilbro, Tony Ojeda, 2018, O'Reilly)
 
-### Artificial Intelligence and Machine Learning
+### Natural Language Processing
+
+* Natural Language Processing with Python (Edward Loper, Ewan Klein, Steven Bird, 2009, O'Reilly)
+* Natural Language Annotation for Machine Learning (Amber Stubbs, James Pustejovsky, 2012, O'Reilly)
+* Natural Language Processing for Social Media (Atefeh Farzindar, Diana Inkpen, 2014, Morgan & Claypool)
+* Natural Language Processing with PyTorch (Brian McMahan, Delip Rao, 2019, O'Reilly)
+* Neural Network Methods for Natural Language Processing (Yoav Goldberg, 2017, Morgan & Claypool)
+
+### Machine Learning
 
 * Deep Learning and the Game of Go (Kevin Ferguson, 2019, Manning)
 
