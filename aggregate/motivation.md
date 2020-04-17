@@ -35,3 +35,30 @@ Points to consider when setting goals.
   * Pay-off is significant
 * Timely
   * Focuses on the short-term
+
+## Intrinsic Motivators
+
+A set of values known as CHAMPFROGS, created by [Jurgen Appelo](https://jurgenappelo.com/).
+
+These may be used in an exercise called [Moving Motivators](https://management30.com/practice/moving-motivators/) where people stack rank the values and discuss their reasoning. Meant to be repeated periodically to track changes.
+
+* Curiosity
+  * Ponder, investigate
+* Honor
+  * Pride, personal values; BICEPS Equality
+* Acceptance
+  * Support, approval; BICEPS Belonging
+* Mastery
+  * Challenge, achievement
+* Power
+  * Influence, control; BICEPS Choice, Equality
+* Freedom
+  * Autonomy, slack time; BICEPS Choice
+* Relatedness
+  * Social connection; BICEPS Belonging
+* Order
+  * Stability, security; BICEPS Predictability
+* Goal
+  * Purpose, progress; BICEPS Improvement
+* Status
+  * Recognition, being valued; BICEPS Status
