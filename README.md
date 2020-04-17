@@ -13,6 +13,7 @@ The goal of this is drifting over time, but loosely speaking I would like to acc
 Some of the best stuff gets aggregated into condensed articles.
 
 * [Lexicon](./aggregate/lexicon.md)
+* [Motivation](./aggregate/motivation.md)
 
 # Favourite Tech Books
 
