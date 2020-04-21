@@ -245,11 +245,12 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Natural Language Processing with Python (Edward Loper, Ewan Klein, Steven Bird, 2009, O'Reilly)
 * Natural Language Annotation for Machine Learning (Amber Stubbs, James Pustejovsky, 2012, O'Reilly)
 * Natural Language Processing for Social Media (Atefeh Farzindar, Diana Inkpen, 2014, Morgan & Claypool)
-* Natural Language Processing with PyTorch (Brian McMahan, Delip Rao, 2019, O'Reilly)
+* [Natural Language Processing with PyTorch](./nlp-with-pytorch.md) (Brian McMahan, Delip Rao, 2019, O'Reilly)
 * Neural Network Methods for Natural Language Processing (Yoav Goldberg, 2017, Morgan & Claypool)
 
 ### Machine Learning
 
+* Feature Engineering for Machine Learning (Alice Zheng, Amanda Casari, 2018, O'Reilly)
 * Deep Learning and the Game of Go (Kevin Ferguson, 2019, Manning)
 
 ## Infrastructure
