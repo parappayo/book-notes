@@ -193,7 +193,9 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Site Reliability Engineering (Beyer, Jones, Petoff, Murphy, 2016, O'Reilly)
 * Effective DevOps (Jennifer Davis, 2016, O'Reilly)
 
-## Computing Science
+## Academic Fundamentals
+
+### Computing Science
 
 * Computers and Intractability (Michael Garey, David Johnson, 1979, Freeman)
 * Computability: An Introduction to Recursive Function Theory (Nigel Cutland, 1980, Cambridge University Press)
@@ -208,6 +210,23 @@ Books within each topic are ordered by year of publication. The years listed by 
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
 * [The Imposter's Handbook](./imposters-handbook.md) (Rob Conery, 2016, Big Machine)
 * Category Theory for Programmers (Bartosz Milewski, 2018, Blurb)
+
+### Mathematics
+
+* Div, Grad, Curl, and All That (Harry Moritz Schey, 1973, W. M. Norton)
+* Topology (James Munkres, 1974, Prentice Hall)
+* How To Read And Do Proofs (Daniel Solow, 1982, Wiley)
+* A Book of Abstract Algebra (Charles Pinter, 1982, McGraw-Hill)
+* Mathematics for the Nonmathematician (Morris Kline, 1985, Dover)
+* Abstract Algebra (David Dummit, Richard Foote, 1991, Wiley)
+* The Art of Problem Solving (Richard Rusczyk, Sandor Lehoczky, 1994, AoPS)
+* Number Theory (George Andrews, 1994, Dover)
+* Linear Algebra Done Right (Sheldon Axler, 1995, Springer)
+* What Is Mathematics? An Elementary Approach to Ideas and Methods (Richard Courant, Herbert Robbins, Ian Stewart, 1996, Oxford University Press)
+* Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
+* No Bullshit Guide to Math and Physics (Ivan Savov, 2010, Minireference)
+* Introduction to Probability, Statistics, and Random Processes (Hossein Pishro-Nik, 2014, Kappa Research)
+* Math Adventures with Python (Peter Farrell, 2019, No Starch)
 
 ## 📊 Data
 
@@ -233,6 +252,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Visualize This (Nathan Yau, 2011, Wiley)
 * Data Points (Nathan Yau, 2013, Wiley)
 * Tableau Your Data! (Daniel Murray, 2013, Wiley)
+* Graph Analysis and Visualization (Richard Brath, David Jonker, 2015, Wiley)
 * Practical Tableau (Ryan Sleeper, 2018, O'Reilly)
 
 ### SQL
@@ -448,10 +468,25 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Game Engine Architecture (Jason Gregory, 2009, CRC Press)
 * Game Programming Patterns (Robert Nystrom, 2011, Genever Benning)
 * Best of Game Programming Gems (Mark DeLoura, 2014, Nelson Education)
-* [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
 * Foundations of Game Engine Development (Eric Lengyel, 2016, Terathon Software)
 
-## Game Development / DOS Programming
+### Unity Game Development
+
+* [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
+* Learn Unity for Android Game Development (Adam Sinicki, 2017, Apress)
+* Physically Based Shader Development for Unity 2017 (Claudia Zignaigo, 2018, Apress)
+
+### Unreal Game Development
+
+* Learning Unreal Engine Game Development (Joanna Lee, 2016, Packt)
+* Unreal Engine 4.X By Example (Benjamin Carnall, 2016, Packt)
+
+### JavaScript Game Development
+
+* Introducing JavaScript Game Development (Graeme Stuart, 2017, Apress)
+* Let’s Build a Multiplayer Phaser Game (Oscar Lodriguez, 2019, Apress)
+
+### DOS Game Development
 
 * The Waite Group's MS-DOS Developer's Guide (John Angermeyer, Kevin Jaeger, 1986, Waite Group)
 * Flights of Fantasy (Christopher Lampton, 1993, Waite Group)
@@ -466,23 +501,6 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Getting Started with Raspberry Pi (Matt Richardson, Shawn Wallace, 2012, O'Reilly)
 * [Raspberry Pi Cookbook](./raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
 * The Hardware Hacker (Andrew Huang, 2017, No Starch)
-
-## Mathematics
-
-* Div, Grad, Curl, and All That (Harry Moritz Schey, 1973, W. M. Norton)
-* Topology (James Munkres, 1974, Prentice Hall)
-* How To Read And Do Proofs (Daniel Solow, 1982, Wiley)
-* A Book of Abstract Algebra (Charles Pinter, 1982, McGraw-Hill)
-* Mathematics for the Nonmathematician (Morris Kline, 1985, Dover)
-* Abstract Algebra (David Dummit, Richard Foote, 1991, Wiley)
-* The Art of Problem Solving (Richard Rusczyk, Sandor Lehoczky, 1994, AoPS)
-* Number Theory (George Andrews, 1994, Dover)
-* Linear Algebra Done Right (Sheldon Axler, 1995, Springer)
-* What Is Mathematics? An Elementary Approach to Ideas and Methods (Richard Courant, Herbert Robbins, Ian Stewart, 1996, Oxford University Press)
-* Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
-* No Bullshit Guide to Math and Physics (Ivan Savov, 2010, Minireference)
-* Introduction to Probability, Statistics, and Random Processes (Hossein Pishro-Nik, 2014, Kappa Research)
-* Math Adventures with Python (Peter Farrell, 2019, No Starch)
 
 # Other Books, by Subject
 
