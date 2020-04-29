@@ -82,6 +82,17 @@ For getting into hardware hacking and maker-space stuff. (Not much here yet, sor
 1. [Raspberry Pi Cookbook](./raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
 1. Hacking the Xbox (Andrew Huang, 2003, No Starch)
 
+## Data Unicorn
+
+These are tentative recommendations. Actually everything on this page is, but especially this section.
+
+1. Visualize This (Nathan Yau, 2011, Wiley)
+1. Head First SQL (Lynn Beighley, 2007, O'Reilly)
+1. [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
+1. [Natural Language Processing with PyTorch](./nlp-with-pytorch.md) (Brian McMahan, Delip Rao, 2019, O'Reilly)
+1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+1. Fluent Python (Luciano Ramalho, 2015, O'Reilly)
+
 ## DIY Computing Science Degree
 
 My attempt at a general computing science curriculum. Some introductory books followed by a progression of low level to high level programming (machine code -> C -> Lisp -> Java) with material about compilers, operating systems, networks, databases, and design patterns along the way.

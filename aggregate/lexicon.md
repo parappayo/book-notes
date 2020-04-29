@@ -46,6 +46,7 @@ A collection of my favourite pithy definitions.
 * Rustonomicon - book about unsafe Rust
 * Sargeable Query - Search ARGugment ABLE, query optimizer can take advantage of an index
 * Shatnering - introducing a small delay in each request
+* Sheet Cake & Shock Top - when quality matters less than cost per unit
 * Skunk Works - Lockheed Advanced Development Projects
 * Square Cube Law - spider body weight increases `O(n**3)` with volume whereas leg strength increases `O(n**2)` thus limiting max size
 * TLA - Three Letter Acronym

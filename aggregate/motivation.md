@@ -2,6 +2,14 @@
 
 Struggling with motivation? Some stuff to consider.
 
+## Agile Practices
+
+* Visualize Work in Process
+  * Kanban board
+  * Pre-attentive attributes
+* Stop Starting, Start Finishing
+  * Pull from the right
+
 ## BICEPS Model
 
 Describes the core needs for human motivation. Created by [Paloma Medina](https://www.palomamedina.com/), popularized by [Lara Hogan](https://larahogan.me/).
