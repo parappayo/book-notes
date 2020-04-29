@@ -15,7 +15,7 @@ Some of the best stuff gets aggregated into condensed articles.
 * [Lexicon](./aggregate/lexicon.md)
 * [Motivation](./aggregate/motivation.md)
 
-# Favourite Tech Books
+# ❤️ Favourite Tech Books
 
 The following books are ones that I especially like, loosely ranked.
 
@@ -28,7 +28,7 @@ The following books are ones that I especially like, loosely ranked.
 
 An evolving collection of book sequences.
 
-## Fun and Inspirational
+## 🎉🤔 Fun and Inspirational
 
 Goofy fun books. The real good stuff.
 
@@ -39,7 +39,7 @@ Goofy fun books. The real good stuff.
 1. Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
 1. To Mock a Mockingbird (Raymond Smullyan, 1985, Oxford)
 
-## Out-Growing the Individual Contributor Mindset
+## 🧠 Out-Growing the Individual Contributor Mindset
 
 For when you've become a competent programmer and the next rung in your journey involves organizational and people problems.
 
@@ -51,7 +51,7 @@ For when you've become a competent programmer and the next rung in your journey 
 1. [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 1. [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
 
-## Variety Langs
+## 💬 Variety Langs
 
 For the discerning polyglot.
 
@@ -63,7 +63,7 @@ For the discerning polyglot.
 1. The D Programming Language (Andrei Alexandrescu, 2010, Addison-Wesley)
 1. The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
 
-## Curly Langs
+## `{}` Curly Langs
 
 We should have stuck to Algol.
 
@@ -74,7 +74,7 @@ We should have stuck to Algol.
 1. C# in Depth (Jon Skeet, 2008, Manning)
 1. JavaScript: The Good Parts (Douglas Crockford, 2008, O'Reilly)
 
-## Hobby Hacker
+## 🛠️ Hobby Hacker
 
 For getting into hardware hacking and maker-space stuff. (Not much here yet, sorry.)
 
@@ -82,7 +82,7 @@ For getting into hardware hacking and maker-space stuff. (Not much here yet, sor
 1. [Raspberry Pi Cookbook](./raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
 1. Hacking the Xbox (Andrew Huang, 2003, No Starch)
 
-## Data Unicorn
+## 📊🦄 Data Unicorn
 
 These are tentative recommendations. Actually everything on this page is, but especially this section.
 
@@ -93,7 +93,7 @@ These are tentative recommendations. Actually everything on this page is, but es
 1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 1. Fluent Python (Luciano Ramalho, 2015, O'Reilly)
 
-## DIY Computing Science Degree
+## 🎓 DIY Computing Science Degree
 
 My attempt at a general computing science curriculum. Some introductory books followed by a progression of low level to high level programming (machine code -> C -> Lisp -> Java) with material about compilers, operating systems, networks, databases, and design patterns along the way.
 
@@ -129,7 +129,9 @@ Topics are roughly organized from more general / soft skills to more technical /
 
 Books within each topic are ordered by year of publication. The years listed by each book are typically for the first edition even if that is not the edition that I read.
 
-## Leadership & Communication
+## Teamwork
+
+### Leadership & Communication
 
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
@@ -141,7 +143,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * The Culture Code (Daniel Coyle, 2018, Random House)
 * Resilient Management (Lara Hogan, 2019, A Book Apart)
 
-## Software Project Design / Modeling
+### Software Project Design / Modeling
 
 * Design Patterns (Gamma, Vlissides, Helm, Johnson, 1994, Addison-Wesley)
 * Domain-Driven Design (Eric Evans, 2003, Addison-Wesley)
@@ -156,7 +158,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
-## Software Project Management
+### Software Project Management
 
 * [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 * Agile Retrospectives: Making Good Teams Great (Larsen, Derby, and Schwaber, 2006, Pragmatic Bookshelf)
@@ -166,7 +168,32 @@ Books within each topic are ordered by year of publication. The years listed by 
 * [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * A Scrum Book: The Spirit of the Game (Jeff Sutherland, Jim Coplien, 2019, Pragmatic Bookshelf)
 
-## Computing Science & General Computing
+### Programming Methodology
+
+* Refactoring (Kent Beck, Martin Fowler, 1999, Addison-Wesley)
+* The Pragmatic Programmer (Andy Hunt, Dave Thomas, 1999, Pragmatic Bookshelf)
+* Test Driven Development: By Example (Kent Beck, 2002, Addison-Wesley)
+* Working Effectively with Legacy Code (Michael Feathers, 2004, Prentice Hall)
+* Extreme Programming Explained (Kent Beck, Cynthia Andres, 2004, Addison-Wesley)
+* Clean Code (Robert Martin, 2009, Prentice Hall)
+* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
+* Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
+* Adaptive Code (Gary Hall, 2017, Microsoft Press)
+* [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
+* Monolith to Microservices (Sam Newman, 2019, O'Reilly)
+* Mastering Software Technique (Noah Gibbs, 2020, Gumroad)
+
+### Operations
+
+* [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
+* The Art of Capacity Planning (Arun Kejariwal, John Allspaw, 2008, O'Reilly)
+* Continuous Delivery (Jez Humble, David Farley, 2010, Addison-Wesley)
+* Web Operations (John Allspaw, Jesse Robbins, 2010, O'Reilly)
+* The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
+* Site Reliability Engineering (Beyer, Jones, Petoff, Murphy, 2016, O'Reilly)
+* Effective DevOps (Jennifer Davis, 2016, O'Reilly)
+
+## Computing Science
 
 * Computers and Intractability (Michael Garey, David Johnson, 1979, Freeman)
 * Computability: An Introduction to Recursive Function Theory (Nigel Cutland, 1980, Cambridge University Press)
@@ -182,32 +209,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * [The Imposter's Handbook](./imposters-handbook.md) (Rob Conery, 2016, Big Machine)
 * Category Theory for Programmers (Bartosz Milewski, 2018, Blurb)
 
-## Programming Methodology
-
-* Refactoring (Kent Beck, Martin Fowler, 1999, Addison-Wesley)
-* The Pragmatic Programmer (Andy Hunt, Dave Thomas, 1999, Pragmatic Bookshelf)
-* Test Driven Development: By Example (Kent Beck, 2002, Addison-Wesley)
-* Working Effectively with Legacy Code (Michael Feathers, 2004, Prentice Hall)
-* Extreme Programming Explained (Kent Beck, Cynthia Andres, 2004, Addison-Wesley)
-* Clean Code (Robert Martin, 2009, Prentice Hall)
-* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
-* Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
-* Adaptive Code (Gary Hall, 2017, Microsoft Press)
-* [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
-* Monolith to Microservices (Sam Newman, 2019, O'Reilly)
-* Mastering Software Technique (Noah Gibbs, 2020, Gumroad)
-
-## Operations
-
-* [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
-* The Art of Capacity Planning (Arun Kejariwal, John Allspaw, 2008, O'Reilly)
-* Continuous Delivery (Jez Humble, David Farley, 2010, Addison-Wesley)
-* Web Operations (John Allspaw, Jesse Robbins, 2010, O'Reilly)
-* The DevOps Handbook (Gene Kim, Jez Humble, and Patrick Debois, 2016, IT Revolution)
-* Site Reliability Engineering (Beyer, Jones, Petoff, Murphy, 2016, O'Reilly)
-* Effective DevOps (Jennifer Davis, 2016, O'Reilly)
-
-## Data
+## 📊 Data
 
 ### Data Engineering
 
@@ -264,7 +266,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Feature Engineering for Machine Learning (Alice Zheng, Amanda Casari, 2018, O'Reilly)
 * Deep Learning and the Game of Go (Kevin Ferguson, 2019, Manning)
 
-## Infrastructure
+## 🚧 Infrastructure
 
 ### Operating Systems / Unix
 
@@ -300,7 +302,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Designing Web APIs (Amir Shevat, Brenda Jin, and Saurabh Sahni, 2018, O'Reilly)
 * Node.js 8 The Right Way (Jim Wilson, 2018, Pragmatic Bookshelf)
 
-## Programming Languages
+## 🔢💬 Programming Languages
 
 ### Python
 
