@@ -288,7 +288,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ## 🚧 Infrastructure
 
-### Operating Systems / Unix
+### Operating Systems, Unix
 
 * The Design and Implementation of the 4.3BSD Operating System (Samuel Leffler, 1989, Addison-Wesley)
 * Unix and Linux Administration Handbook (Nemeth, Snyder, and Hein, 1989, Addison-Wesley)
@@ -296,7 +296,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Absolute OpenBSD (Michael Lucas, 2003, No Starch)
 * Absolute FreeBSD (Michael Lucas, 2007, No Starch)
 
-### Operating Systems / Windows
+### Operating Systems, Windows
 
 * Programming Windows (Charles Petzold, 1990, Microsoft)
 * The Definitive Guide to the Windows Installer (Phil Wilson, 2004, Apress)
@@ -346,7 +346,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Adaptive Code Via C# (Gary Hall, 2014, Microsoft Press)
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 
-### C & C++
+### C, C++
 
 * [The C Programming Language](./c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
 * Effective C++ (Scott Meyers, 1992, Addison-Wesley)
@@ -372,7 +372,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Programming WebAssembly with Rust (Kevin Hoffman, 2019, Pragmatic Bookshelf)
 * Rust in Action (Tim McNamara, 2020, Manning)
 
-### Lisp & Scheme
+### Lisp, Scheme, Racket
 
 * The Little Lisper (Daniel Friedman, 1974, MIT Press)
 * Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
@@ -407,9 +407,12 @@ Books within each topic are ordered by year of publication. The years listed by 
 ### JavaScript
 
 * JavaScript: The Good Parts (Douglas Crockford, 2008, O'Reilly)
+* High Performance JavaScript (Nicholas Zakas, 2010, O'Reilly)
+* JavaScript Patterns (Stoyan Stefanov, 2010, O'Reily)
 * Eloquent JavaScript (Marijn Haverbeke, 2011, No Starch)
 * Node.js in Action (Harter, Cantelon, Rajlich, and Holowaychuk, 2011, Manning)
 * If Hemingway Wrote JavaScript (Angus Croll, 2014, No Starch)
+* You Don't Know JavaScript (Kyle Simpson, 2014, O'Reilly)
 * [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
 * Vue.js Up & Running (Callum Macrae, 2018, O'Reilly)
 
