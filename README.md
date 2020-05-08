@@ -135,9 +135,11 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
+* Managing Humans (Michael Lopp, 2007, Apress)
 * Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
 * [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
-* Managing Humans 3rd Ed (Michael Lopp, 2016, Apress)
+* Turn This Ship Around! (L. David Marquet, 2012, Penguin)
+* Eleven Rings (Phil Jackson, 2013, Penguin)
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * The Culture Code (Daniel Coyle, 2018, Random House)
