@@ -131,6 +131,16 @@ A curated, but not canonized, list of books that would ease one into a job at Pa
 1. Microservices in .NET Core (Christian Gammelgaard, 2017, Manning)
 1. Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
 
+## The Unauthorized United Front Games Technical Manifesto
+
+A curated, but not canonized, list of books that would ease one into a job at United Front Games circa 2010 (if those books had been available.)
+
+1. Game Programming Patterns (Robert Nystrom, 2011, Genever Benning)
+1. Game Engine Architecture (Jason Gregory, 2009, CRC Press)
+1. How Not to Program in C++ (Steve Oualline, 2003, No Starch)
+1. Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
+1. Best of Game Programming Gems (Mark DeLoura, 2014, Nelson Education)
+
 # Software Development Books, by Subject
 
 A loosely curated selection of books intended to provide a broad perspective on each topic.
