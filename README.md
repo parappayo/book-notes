@@ -23,6 +23,7 @@ The following books are ones that I especially like, loosely ranked.
 1. [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 1. The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
 1. [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
+1. Absolute FreeBSD (Michael Lucas, 2007, No Starch)
 
 # Learning Paths
 
@@ -87,7 +88,7 @@ For getting into hardware hacking and maker-space stuff. (Not much here yet, sor
 These are tentative recommendations. Actually everything on this page is, but especially this section.
 
 1. Visualize This (Nathan Yau, 2011, Wiley)
-1. Head First SQL (Lynn Beighley, 2007, O'Reilly)
+1. Practical SQL (Anthony DeBarros, 2018, No Starch)
 1. [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
 1. [Natural Language Processing with PyTorch](./nlp-with-pytorch.md) (Brian McMahan, Delip Rao, 2019, O'Reilly)
 1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
@@ -108,18 +109,27 @@ There's a lot of room for improvement and refinement. I need to actually work th
 1. The Art of Assembly Language (Randall Hyde, 2003, No Starch)
 1. Learn C the Hard Way (Zed Shaw, 2015, Addison-Wesley)
 1. Compilers: Principles, Techniques, and Tools (Alfred Aho, Monica Lam, Ravi Sethi, Jeffrey Ullman, 1986, Pearson)
-1. lex & yacc (Brown, Levine, and Mason, 1990, O'Reilly)
-1. Absolute FreeBSD (Michael Lucas, 2007, No Starch)
 1. The Design and Implementation of the 4.3BSD Operating System (Samuel Leffler, 1989, Addison-Wesley)
-1. Land of Lisp (Conrad Barski, 2011, No Starch)
 1. Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
 1. Prolog Programming for Artificial Intelligence (Ivan Bratko, 1986, Addison-Wesley)
 1. Think Java (Allen B. Downey, 2004, O'Reilly)
 1. Java Network Programming (Elliotte Harold, 1997, O'Reilly)
-1. Head First SQL (Lynn Beighley, 2007, O'Reilly)
+1. Twisted: Network Programming Essentials (Jessica McKellar, Abe Fettig, 2013, O'Reilly)
+1. Practical SQL (Anthony DeBarros, 2018, No Starch)
 1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
-1. Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
 1. Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
+
+## The Unauthorized PayByPhone Technical Manifesto
+
+A curated, but not canonized, list of books that would ease one into a job at PayByPhone circa 2020.
+
+1. C# in Depth (Jon Skeet, 2008, Manning)
+1. [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
+1. [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
+1. [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
+1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+1. Microservices in .NET Core (Christian Gammelgaard, 2017, Manning)
+1. Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
 
 # Software Development Books, by Subject
 
@@ -201,17 +211,21 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 * Computers and Intractability (Michael Garey, David Johnson, 1979, Freeman)
 * Computability: An Introduction to Recursive Function Theory (Nigel Cutland, 1980, Cambridge University Press)
-* Programming Pearls (Jon Bentley, 1986, Addison-Wesley)
-* Numerical Recipes (William Press, 1986, Cambridge University Press)
-* Compilers: Principles, Techniques, and Tools (Alfred Aho, Monica Lam, Ravi Sethi, Jeffrey Ullman, 1986, Pearson)
 * The Turing Omnibus (Alexander Dewdney, 1989)
+* The Art of the Metaobject Protocol (Daniel Bobrow, Gregor Kiczales, 1991, MIT Press)
 * Applied Cryptography (Bruce Schneier, 1993, Wiley)
 * Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
-* Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
 * The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
 * [The Imposter's Handbook](./imposters-handbook.md) (Rob Conery, 2016, Big Machine)
 * Category Theory for Programmers (Bartosz Milewski, 2018, Blurb)
+
+### Algorithms
+
+* Numerical Recipes (William Press, 1986, Cambridge University Press)
+* Programming Pearls (Jon Bentley, 1986, Addison-Wesley)
+* Introduction to Algorithms (Thomas Cormen, Charles Leiserson, Ronald Rivest, 1989, MIT Press)
+* Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
 
 ### Mathematics
 
@@ -229,6 +243,12 @@ Books within each topic are ordered by year of publication. The years listed by 
 * No Bullshit Guide to Math and Physics (Ivan Savov, 2010, Minireference)
 * Introduction to Probability, Statistics, and Random Processes (Hossein Pishro-Nik, 2014, Kappa Research)
 * Math Adventures with Python (Peter Farrell, 2019, No Starch)
+
+### Parsers and Compilers
+
+* Compilers: Principles, Techniques, and Tools (Alfred Aho, Monica Lam, Ravi Sethi, Jeffrey Ullman, 1986, Pearson)
+* lex & yacc (Brown, Levine, and Mason, 1990, O'Reilly)
+* Design Concepts in Programming Languages (Franklyn Turbak, David Gifford, 2008, MIT Press)
 
 ## 📊 Data
 
@@ -458,7 +478,6 @@ Books within each topic are ordered by year of publication. The years listed by 
 ### Other
 
 * Thinking Forth (Leo Brodie, 1984, Fig Leaf)
-* lex & yacc (Brown, Levine, and Mason, 1990, O'Reilly)
 * Systems Programming in Modula-3 (Greg Nelson, 1991, Prentice Hall)
 * The D Programming Language (Andrei Alexandrescu, 2010, Addison-Wesley)
 * The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
