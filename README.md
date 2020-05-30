@@ -170,6 +170,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Design Patterns (Gamma, Vlissides, Helm, Johnson, 1994, Addison-Wesley)
 * Domain-Driven Design (Eric Evans, 2003, Addison-Wesley)
 * Enterprise Integration Patterns (Gregor Hohpe, Bobby Woolf, 2003, Addison-Wesley)
+* Holub on Patterns (Allen Holub, 2004, Apress)
 * Head First Design Patterns (Kathy Sierra, Elisabeth Freeman, 2004, O'Reilly)
 * Specification by Example (Gojko Adzic, 2011, Manning)
 * Practical Object-Oriented Design (Sandi Metz, 2012, Addison-Wesley)
@@ -378,11 +379,22 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Adaptive Code Via C# (Gary Hall, 2014, Microsoft Press)
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 
-### C, C++
+### C
 
-* [The C Programming Language](./c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
-* Effective C++ (Scott Meyers, 1992, Addison-Wesley)
+* [The C Programming Language](./c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1978, Prentice Hall)
+* Born to Code in C (Herbert Schildt, 1989, McGraw-Hill)
+* Compiler Design in C (Allen Holub, 1990, Prentice Hall)
 * Expert C Programming (Peter van der Linden, 1994, Prentice Hall)
+* 21st Century C (Ben Klemens, 2014, O'Reilly)
+* Learn C the Hard Way (Zed Shaw, 2015, Addison-Wesley)
+* Modern C (Jens Gustedt, 2019, Manning)
+* Effective C (Robert Seacord, 2020, No Starch)
+
+### C++
+
+* The Art of C++ (Herbert Schildt, 1991, McGraw-Hill)
+* Effective C++ (Scott Meyers, 1992, Addison-Wesley)
+* Enough Rope to Shoot Yourself in the Foot (Allen Holub, 1995, McGraw-Hill)
 * C++ Gems (Stanley Lippman, 1998, Cambridge University Press)
 * Exceptional C++ (Herb Sutter, 1999, Addison-Wesley)
 * Accelerated C++ (Andrew Koenig, Barbara Moo, 2000, Addison-Wesley)
@@ -391,11 +403,8 @@ Books within each topic are ordered by year of publication. The years listed by 
 * C++ Concurrency in Action (Anthony Williams, 2012, Manning)
 * A Tour of C++ (Bjarne Stroustrup, 2013, Addison-Wesley)
 * Modern C++ Programming with Test-Driven Development (Jeff Langr, 2013, Pragmatic Bookshelf)
-* 21st Century C (Ben Klemens, 2014, O'Reilly)
 * Effective Modern C++ (Scotty Meyers, 2015, O'Reilly)
-* Learn C the Hard Way (Zed Shaw, 2015, Addison-Wesley)
 * Functional Programming in C++ (Ivan Cukic, 2018, Manning)
-* Modern C (Jens Gustedt, 2019, Manning)
 
 ### Rust
 
@@ -448,6 +457,13 @@ Books within each topic are ordered by year of publication. The years listed by 
 * [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
 * Vue.js Up & Running (Callum Macrae, 2018, O'Reilly)
 
+### TypeScript
+
+* Programming TypeScript (Boris Cherny, 2019, O'Reilly)
+* Effective TypeScript (Dan Vanderkam, 2020, O'Reilly)
+* Essential TypeScript (Adam Freeman, 2019, Apress)
+* TypeScript Quickly (Anton Moiseev, Yakov Fain, 2020, Manning)
+
 ### F\#
 
 * The Book of F# (Dave Fancher, 2014, No Starch)
@@ -469,6 +485,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Java in a Nutshell (David Flanagan, 1996, O'Reilly)
 * Java Network Programming (Elliotte Harold, 1997, O'Reilly)
 * Effective Java (Joshua Bloch, 2001, Addison-Wesley)
+* The Art of Java (Herbert Schildt, 2003, McGraw-Hill)
 * Head First Java (Kathy Sierra, Bert Bates, 2003, O'Reilly)
 * Think Java (Allen B. Downey, 2004, O'Reilly)
 * Java Generics (Philip Wadler, Maurice Naftalin, 2009, O'Reilly)
@@ -488,6 +505,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 ### Other
 
 * Thinking Forth (Leo Brodie, 1984, Fig Leaf)
+* Advanced Modula-2 (Herbert Schildt, 1987, McGraw-Hill)
 * Systems Programming in Modula-3 (Greg Nelson, 1991, Prentice Hall)
 * The D Programming Language (Andrei Alexandrescu, 2010, Addison-Wesley)
 * The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
