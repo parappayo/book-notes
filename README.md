@@ -119,6 +119,18 @@ There's a lot of room for improvement and refinement. I need to actually work th
 1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 1. Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
 
+## The Unauthorized Tableau Technical Manifesto
+
+A work in progress reading list.
+
+1. Visualize This (Nathan Yau, 2011, Wiley)
+1. Practical Tableau (Ryan Sleeper, 2018, O'Reilly)
+1. Effective TypeScript (Dan Vanderkam, 2019, O'Reilly)
+1. [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
+1. Redux in Action (Marc Garreau, Will Faurot, 2018, Manning)
+1. Functional Programming in C++ (Ivan Cukic, 2018, Manning)
+1. C++ GUI Programming with Qt 4 (Jasmin Blanchette, Mark Summerfield, 2005, Prentice-Hall)
+
 ## The Unauthorized PayByPhone Technical Manifesto
 
 A curated, but not canonized, list of books that would ease one into a job at PayByPhone circa 2020.
@@ -460,7 +472,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 ### TypeScript
 
 * Programming TypeScript (Boris Cherny, 2019, O'Reilly)
-* Effective TypeScript (Dan Vanderkam, 2020, O'Reilly)
+* Effective TypeScript (Dan Vanderkam, 2019, O'Reilly)
 * Essential TypeScript (Adam Freeman, 2019, Apress)
 * TypeScript Quickly (Anton Moiseev, Yakov Fain, 2020, Manning)
 
