@@ -125,6 +125,7 @@ A work in progress reading list.
 
 1. Visualize This (Nathan Yau, 2011, Wiley)
 1. Practical Tableau (Ryan Sleeper, 2018, O'Reilly)
+1. Tableau Your Data! (Daniel Murray, 2013, Wiley)
 1. Effective TypeScript (Dan Vanderkam, 2019, O'Reilly)
 1. [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
 1. Redux in Action (Marc Garreau, Will Faurot, 2018, Manning)
@@ -467,6 +468,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * If Hemingway Wrote JavaScript (Angus Croll, 2014, No Starch)
 * You Don't Know JavaScript (Kyle Simpson, 2014, O'Reilly)
 * [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
+* React in Action (Mark Thomas, 2018, Manning)
 * Vue.js Up & Running (Callum Macrae, 2018, O'Reilly)
 
 ### TypeScript
