@@ -176,7 +176,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * The Manager's Path (Camille Fournier, 2017, O'Reilly)
 * [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * The Culture Code (Daniel Coyle, 2018, Random House)
-* Resilient Management (Lara Hogan, 2019, A Book Apart)
+* [Resilient Management](./resilient-management.md) (Lara Hogan, 2019, A Book Apart)
 
 ### Software Project Design / Modeling
 
