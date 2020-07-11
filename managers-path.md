@@ -1,7 +1,7 @@
 
 # About
 
-* The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change](https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
 * by Camille Fournier
 * published by O'Reilly, 2017
 

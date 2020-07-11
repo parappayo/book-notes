@@ -61,6 +61,6 @@
 
 # Publications
 
+* [Questions for Our First 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - Lara Hogan blog post
 * [The Different Words We Use to Describe Male and Female Leaders](https://hbr.org/2018/05/the-different-words-we-use-to-describe-male-and-female-leaders) - Harvard Business Review article
-* Questions for our first 1:1 - Lara Hogan blog post
 * The Manager's Path - book by Camille Fournier
