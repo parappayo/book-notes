@@ -47,7 +47,7 @@ For when you've become a competent programmer and the next rung in your journey 
 1. Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
 1. [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
 1. [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
-1. The Manager's Path (Camille Fournier, 2017, O'Reilly)
+1. [The Manager's Path](./managers-path.md) (Camille Fournier, 2017, O'Reilly)
 1. [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 1. [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 1. [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
@@ -119,6 +119,19 @@ There's a lot of room for improvement and refinement. I need to actually work th
 1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 1. Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
 
+## The Unauthorized Tableau Technical Manifesto
+
+A work in progress reading list.
+
+1. Visualize This (Nathan Yau, 2011, Wiley)
+1. Practical Tableau (Ryan Sleeper, 2018, O'Reilly)
+1. Tableau Your Data! (Daniel Murray, 2013, Wiley)
+1. Effective TypeScript (Dan Vanderkam, 2019, O'Reilly)
+1. [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
+1. Redux in Action (Marc Garreau, Will Faurot, 2018, Manning)
+1. Functional Programming in C++ (Ivan Cukic, 2018, Manning)
+1. C++ GUI Programming with Qt 4 (Jasmin Blanchette, Mark Summerfield, 2005, Prentice-Hall)
+
 ## The Unauthorized PayByPhone Technical Manifesto
 
 A curated, but not canonized, list of books that would ease one into a job at PayByPhone circa 2020.
@@ -155,21 +168,23 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
-* Managing Humans (Michael Lopp, 2007, Apress)
+* [Managing Humans](./managing-humans.md) (Michael Lopp, 2007, Apress)
 * Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
 * [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
 * Turn This Ship Around! (L. David Marquet, 2012, Penguin)
 * Eleven Rings (Phil Jackson, 2013, Penguin)
-* The Manager's Path (Camille Fournier, 2017, O'Reilly)
+* [The Manager's Path](./managers-path.md) (Camille Fournier, 2017, O'Reilly)
 * [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
+* [Elastic Leadership](./elastic-leadership) (Roy Osherove, 2017, Manning)
 * The Culture Code (Daniel Coyle, 2018, Random House)
-* Resilient Management (Lara Hogan, 2019, A Book Apart)
+* [Resilient Management](./resilient-management.md) (Lara Hogan, 2019, A Book Apart)
 
 ### Software Project Design / Modeling
 
 * Design Patterns (Gamma, Vlissides, Helm, Johnson, 1994, Addison-Wesley)
 * Domain-Driven Design (Eric Evans, 2003, Addison-Wesley)
 * Enterprise Integration Patterns (Gregor Hohpe, Bobby Woolf, 2003, Addison-Wesley)
+* Holub on Patterns (Allen Holub, 2004, Apress)
 * Head First Design Patterns (Kathy Sierra, Elisabeth Freeman, 2004, O'Reilly)
 * Specification by Example (Gojko Adzic, 2011, Manning)
 * Practical Object-Oriented Design (Sandi Metz, 2012, Addison-Wesley)
@@ -378,11 +393,22 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Adaptive Code Via C# (Gary Hall, 2014, Microsoft Press)
 * [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 
-### C, C++
+### C
 
-* [The C Programming Language](./c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
-* Effective C++ (Scott Meyers, 1992, Addison-Wesley)
+* [The C Programming Language](./c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1978, Prentice Hall)
+* Born to Code in C (Herbert Schildt, 1989, McGraw-Hill)
+* Compiler Design in C (Allen Holub, 1990, Prentice Hall)
 * Expert C Programming (Peter van der Linden, 1994, Prentice Hall)
+* 21st Century C (Ben Klemens, 2014, O'Reilly)
+* Learn C the Hard Way (Zed Shaw, 2015, Addison-Wesley)
+* Modern C (Jens Gustedt, 2019, Manning)
+* Effective C (Robert Seacord, 2020, No Starch)
+
+### C++
+
+* The Art of C++ (Herbert Schildt, 1991, McGraw-Hill)
+* Effective C++ (Scott Meyers, 1992, Addison-Wesley)
+* Enough Rope to Shoot Yourself in the Foot (Allen Holub, 1995, McGraw-Hill)
 * C++ Gems (Stanley Lippman, 1998, Cambridge University Press)
 * Exceptional C++ (Herb Sutter, 1999, Addison-Wesley)
 * Accelerated C++ (Andrew Koenig, Barbara Moo, 2000, Addison-Wesley)
@@ -391,11 +417,8 @@ Books within each topic are ordered by year of publication. The years listed by 
 * C++ Concurrency in Action (Anthony Williams, 2012, Manning)
 * A Tour of C++ (Bjarne Stroustrup, 2013, Addison-Wesley)
 * Modern C++ Programming with Test-Driven Development (Jeff Langr, 2013, Pragmatic Bookshelf)
-* 21st Century C (Ben Klemens, 2014, O'Reilly)
 * Effective Modern C++ (Scotty Meyers, 2015, O'Reilly)
-* Learn C the Hard Way (Zed Shaw, 2015, Addison-Wesley)
 * Functional Programming in C++ (Ivan Cukic, 2018, Manning)
-* Modern C (Jens Gustedt, 2019, Manning)
 
 ### Rust
 
@@ -446,7 +469,15 @@ Books within each topic are ordered by year of publication. The years listed by 
 * If Hemingway Wrote JavaScript (Angus Croll, 2014, No Starch)
 * You Don't Know JavaScript (Kyle Simpson, 2014, O'Reilly)
 * [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
+* React in Action (Mark Thomas, 2018, Manning)
 * Vue.js Up & Running (Callum Macrae, 2018, O'Reilly)
+
+### TypeScript
+
+* Programming TypeScript (Boris Cherny, 2019, O'Reilly)
+* Effective TypeScript (Dan Vanderkam, 2019, O'Reilly)
+* Essential TypeScript (Adam Freeman, 2019, Apress)
+* TypeScript Quickly (Anton Moiseev, Yakov Fain, 2020, Manning)
 
 ### F\#
 
@@ -469,6 +500,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Java in a Nutshell (David Flanagan, 1996, O'Reilly)
 * Java Network Programming (Elliotte Harold, 1997, O'Reilly)
 * Effective Java (Joshua Bloch, 2001, Addison-Wesley)
+* The Art of Java (Herbert Schildt, 2003, McGraw-Hill)
 * Head First Java (Kathy Sierra, Bert Bates, 2003, O'Reilly)
 * Think Java (Allen B. Downey, 2004, O'Reilly)
 * Java Generics (Philip Wadler, Maurice Naftalin, 2009, O'Reilly)
@@ -488,6 +520,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 ### Other
 
 * Thinking Forth (Leo Brodie, 1984, Fig Leaf)
+* Advanced Modula-2 (Herbert Schildt, 1987, McGraw-Hill)
 * Systems Programming in Modula-3 (Greg Nelson, 1991, Prentice Hall)
 * The D Programming Language (Andrei Alexandrescu, 2010, Addison-Wesley)
 * The Joy of Clojure (Michael Fogus, Chris Houser, 2011, Manning)
