@@ -234,6 +234,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ### Computing Science
 
+* Algorithms + Data Structures = Programs (Niklaus Wirth, 1976, Prentice-Hall)
 * Computers and Intractability (Michael Garey, David Johnson, 1979, Freeman)
 * Computability: An Introduction to Recursive Function Theory (Nigel Cutland, 1980, Cambridge University Press)
 * The Turing Omnibus (Alexander Dewdney, 1989)
