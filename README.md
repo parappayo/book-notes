@@ -475,7 +475,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ### TypeScript
 
-* Programming TypeScript (Boris Cherny, 2019, O'Reilly)
+* [Programming TypeScript](./programming-typescript.md) (Boris Cherny, 2019, O'Reilly)
 * Effective TypeScript (Dan Vanderkam, 2019, O'Reilly)
 * Essential TypeScript (Adam Freeman, 2019, Apress)
 * TypeScript Quickly (Anton Moiseev, Yakov Fain, 2020, Manning)
