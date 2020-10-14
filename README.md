@@ -148,7 +148,7 @@ A curated, but not canonized, list of books that would ease one into a job at Pa
 
 A curated, but not canonized, list of books that would ease one into a job at United Front Games circa 2010 (if those books had been available.)
 
-1. Game Programming Patterns (Robert Nystrom, 2011, Genever Benning)
+1. [Game Programming Patterns](./game-programming-patterns.md) (Robert Nystrom, 2011, Genever Benning)
 1. Game Engine Architecture (Jason Gregory, 2009, CRC Press)
 1. How Not to Program in C++ (Steve Oualline, 2003, No Starch)
 1. Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
@@ -534,7 +534,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Graphics Programming Black Book (Michael Abrash, 1997, Coriolis)
 * Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
 * Game Engine Architecture (Jason Gregory, 2009, CRC Press)
-* Game Programming Patterns (Robert Nystrom, 2011, Genever Benning)
+* [Game Programming Patterns](./game-programming-patterns.md) (Robert Nystrom, 2011, Genever Benning)
 * Best of Game Programming Gems (Mark DeLoura, 2014, Nelson Education)
 * Foundations of Game Engine Development (Eric Lengyel, 2016, Terathon Software)
 
