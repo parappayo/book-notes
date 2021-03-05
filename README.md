@@ -39,16 +39,16 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
-* [Managing Humans](./managing-humans.md) (Michael Lopp, 2007, Apress)
+* [Managing Humans](./teamwork/managing-humans.md) (Michael Lopp, 2007, Apress)
 * Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
-* [Conversation Transformation](./conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
+* [Conversation Transformation](./teamwork/conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
 * Turn This Ship Around! (L. David Marquet, 2012, Penguin)
 * Eleven Rings (Phil Jackson, 2013, Penguin)
-* [The Manager's Path](./managers-path.md) (Camille Fournier, 2017, O'Reilly)
-* [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
-* [Elastic Leadership](./elastic-leadership) (Roy Osherove, 2017, Manning)
+* [The Manager's Path](./teamwork/managers-path.md) (Camille Fournier, 2017, O'Reilly)
+* [Radical Candor](./teamwork/radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
+* [Elastic Leadership](./teamwork/elastic-leadership) (Roy Osherove, 2017, Manning)
 * The Culture Code (Daniel Coyle, 2018, Random House)
-* [Resilient Management](./resilient-management.md) (Lara Hogan, 2019, A Book Apart)
+* [Resilient Management](./teamwork/resilient-management.md) (Lara Hogan, 2019, A Book Apart)
 
 ### Software Project Design / Modeling
 
@@ -60,20 +60,20 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Specification by Example (Gojko Adzic, 2011, Manning)
 * Practical Object-Oriented Design (Sandi Metz, 2012, Addison-Wesley)
 * Implementing Domain-Driven Design (Vaughn Vernon, 2013, Addison-Wesley)
-* [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
+* [Domain-Driven Design Distilled](./teamwork/ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
 * Clean Architecture (Robert Martin, 2017, Prentice Hall)
 * Design It! (Michael Keeling, 2017, Pragmatic Bookshelf)
-* [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+* [Domain Modeling Made Functional](./teamwork/domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 * Introducing EventStorming (Alberto Brandolini, 2019, Leanpub)
 
 ### Software Project Management
 
-* [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+* [Lean Software Development](./teamwork/lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 * Agile Retrospectives: Making Good Teams Great (Larsen, Derby, and Schwaber, 2006, Pragmatic Bookshelf)
 * Manage It! Your Guide to Modern, Pragmatic Project Management (Johanna Rothman, 2007, Pragmatic Bookshelf)
-* [Kanban in Action](./kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
+* [Kanban in Action](./teamwork/kanban-in-action.md) (Joakim Sundén, Marcus Hammarberg, 2014, Manning)
 * Head First Agile (Andrew Stellman, Jill Alison Hart, 2017, O'Reilly)
-* [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
+* [Accelerate](./teamwork/accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 * A Scrum Book: The Spirit of the Game (Jeff Sutherland, Jim Coplien, 2019, Pragmatic Bookshelf)
 
 ### Programming Methodology
@@ -84,16 +84,16 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Working Effectively with Legacy Code (Michael Feathers, 2004, Prentice Hall)
 * Extreme Programming Explained (Kent Beck, Cynthia Andres, 2004, Addison-Wesley)
 * Clean Code (Robert Martin, 2009, Prentice Hall)
-* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
+* [Building Microservices](./teamwork/building-microservices.md) (Sam Newman, 2015, O'Reilly)
 * Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
 * Adaptive Code (Gary Hall, 2017, Microsoft Press)
-* [99 Bottles of OOP](./99-bottles-of-oop.md) (Sandi Metz, 2018)
+* [99 Bottles of OOP](./teamwork/99-bottles-of-oop.md) (Sandi Metz, 2018)
 * Monolith to Microservices (Sam Newman, 2019, O'Reilly)
 * Mastering Software Technique (Noah Gibbs, 2020, Gumroad)
 
 ### Operations
 
-* [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
+* [Release It!](./teamwork/release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
 * The Art of Capacity Planning (Arun Kejariwal, John Allspaw, 2008, O'Reilly)
 * Continuous Delivery (Jez Humble, David Farley, 2010, Addison-Wesley)
 * Web Operations (John Allspaw, Jesse Robbins, 2010, O'Reilly)
@@ -113,8 +113,8 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Applied Cryptography (Bruce Schneier, 1993, Wiley)
 * Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
 * The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
-* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
-* [The Imposter's Handbook](./imposters-handbook.md) (Rob Conery, 2016, Big Machine)
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./compsci/10-print.md) (2012, MIT Press)
+* [The Imposter's Handbook](./compsci/imposters-handbook.md) (Rob Conery, 2016, Big Machine)
 * Category Theory for Programmers (Bartosz Milewski, 2018, Blurb)
 
 ### Algorithms
@@ -152,7 +152,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 ### Data Engineering
 
 * Information Architecture (Rosenfeld, Morville, Arango, 1998, O'Reilly)
-* [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+* [Designing Data-Intensive Applications](./data/designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 * Database Reliability Engineering (Charity Majors, Laine Campbell, 2017, O'Reilly)
 * Architecting Modern Data Platforms (George, Kunigk, Buss, Wilkinson, 2018, O'Reilly)
 * Streaming Systems (Akidau, Chernyak, Lax, 2018, O'Reilly)
@@ -162,8 +162,8 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Python for Data Analysis (Wes McKinney, 2011, O'Reilly)
 * Advanced Analytics with Spark (Ryza, Owen, Laserson, Wills, 2009, O'Reilly)
 * Doing Data Science (Cathy O'Neil and Rachel Schutt, 2013, O'Reilly)
-* [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
-* [A Curious Moon](./curious-moon.md) (Rob Conery, 2017, Big Machine)
+* [Think Stats](./data/think-stats.md) (Allen Downey, 2014, O'Reilly)
+* [A Curious Moon](./data/curious-moon.md) (Rob Conery, 2017, Big Machine)
 * Practical Statistics for Data Scientists (Peter Bruce and Andrew Bruce, 2017, O'Reilly)
 
 ### Data Visualization
@@ -186,7 +186,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 * The Awk Programming Language (Aho, Weinberger, Kernighan, 1988, Addison-Wesley)
 * Effective awk Programming (Arnold Robins, 1996, O'Reilly)
-* [sed & awk](./sed-awk.md) (Arnold Robbins, Dale Dougherty, 1997, O'Reilly)
+* [sed & awk](./data/sed-awk.md) (Arnold Robbins, Dale Dougherty, 1997, O'Reilly)
 * Data-Intensive Text Processing with MapReduce (Chris Dyer, Jimmy Lin, 2010, Morgan & Claypool)
 * Practical Vim (Drew Neil, 2015, Pragmatic Bookshelf)
 * Text Mining with R (Julia Silge, David Robinson, 2017, O'Reilly)
@@ -197,7 +197,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Natural Language Processing with Python (Edward Loper, Ewan Klein, Steven Bird, 2009, O'Reilly)
 * Natural Language Annotation for Machine Learning (Amber Stubbs, James Pustejovsky, 2012, O'Reilly)
 * Natural Language Processing for Social Media (Atefeh Farzindar, Diana Inkpen, 2014, Morgan & Claypool)
-* [Natural Language Processing with PyTorch](./nlp-with-pytorch.md) (Brian McMahan, Delip Rao, 2019, O'Reilly)
+* [Natural Language Processing with PyTorch](./data/nlp-with-pytorch.md) (Brian McMahan, Delip Rao, 2019, O'Reilly)
 * Neural Network Methods for Natural Language Processing (Yoav Goldberg, 2017, Morgan & Claypool)
 
 ### Machine Learning
@@ -228,8 +228,8 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ### Cloud Architecture
 
-* [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
-* [Terraform Up & Running](./terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
+* [Building Microservices](./teamwork/building-microservices.md) (Sam Newman, 2015, O'Reilly)
+* [Terraform Up & Running](./infra/terraform-up-and-running.md) (Yevgeniy Brikman, 2017, O'Reilly)
 * Cloud Native Infrastructure (Justin Garrison, Kris Nova, 2017, O'Reilly)
 
 ### Web Services
@@ -251,10 +251,10 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Think Python (Allen Downey, 2012, O'Reilly)
 * Fluent Python (Luciano Ramalho, 2015, O'Reilly)
 * Black Hat Python (Justin Seitz, 2015, No Starch)
-* [The Hitchhiker's Guide to Python](./hitchhiker-python.md) (Kenneth Reitz and Tanya Schlusser, 2016, O'Reilly)
+* [The Hitchhiker's Guide to Python](./lang/hitchhiker-python.md) (Kenneth Reitz and Tanya Schlusser, 2016, O'Reilly)
 * Test-Driven Development with Python (Harry Percival, 2017, O'Reilly)
 * Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
-* [Serious Python](./serious-python.md) (Julien Danjou, 2019, No Starch)
+* [Serious Python](./lang/serious-python.md) (Julien Danjou, 2019, No Starch)
 * Math Adventures with Python (Peter Farrell, 2019, No Starch)
 
 ### C\#
@@ -263,11 +263,11 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Head First C# (Andrew Stellman, 2007, O'Reilly)
 * C# in Depth (Jon Skeet, 2008, Manning)
 * Adaptive Code Via C# (Gary Hall, 2014, Microsoft Press)
-* [.NET Core in Action](./net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
+* [.NET Core in Action](./lang/net-core-in-action.md) (Dustin Metzgar, 2018, Manning Press)
 
 ### C
 
-* [The C Programming Language](./c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1978, Prentice Hall)
+* [The C Programming Language](./lang/c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1978, Prentice Hall)
 * Born to Code in C (Herbert Schildt, 1989, McGraw-Hill)
 * Compiler Design in C (Allen Holub, 1990, Prentice Hall)
 * Expert C Programming (Peter van der Linden, 1994, Prentice Hall)
@@ -304,13 +304,13 @@ Books within each topic are ordered by year of publication. The years listed by 
 * The Little Lisper (Daniel Friedman, 1974, MIT Press)
 * Structure and Interpretation of Computer Programs (Gerald Sussman, Hal Abelson, 1979, MIT Press)
 * Common Lisp the Language (Guy Steele, 1984, Digital Press)
-* [The Scheme Programming Language](./scheme-programming-lang.md) (R. Kent Dybvig, 1987, MIT Press)
+* [The Scheme Programming Language](./lang/scheme-programming-lang.md) (R. Kent Dybvig, 1987, MIT Press)
 * ANSI Common Lisp (Paul Graham, 1995, Prentice Hall)
 * The Seasoned Schemer (Daniel Friedman, Matthias Felleisen, 1995)
 * Practical Common Lisp (Peter Seibel, 2005, Apress)
 * The Reasoned Schemer (Friedman, Byrd, Kiselyov, 2005, MIT Press)
 * Land of Lisp (Conrad Barski, 2011, No Starch)
-* [Realm of Racket](./realm-of-racket.md) (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
+* [Realm of Racket](./lang/realm-of-racket.md) (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
 * The Little Prover (Daniel Friedman 2015, Carl Eastlund, 2015, MIT Press)
 * The Little Typer (Daniel Friedman, David Christiansen, 2018, MIT Press)
 
@@ -340,13 +340,13 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Node.js in Action (Harter, Cantelon, Rajlich, and Holowaychuk, 2011, Manning)
 * If Hemingway Wrote JavaScript (Angus Croll, 2014, No Starch)
 * You Don't Know JavaScript (Kyle Simpson, 2014, O'Reilly)
-* [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
+* [Learning React](./lang/learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
 * React in Action (Mark Thomas, 2018, Manning)
 * Vue.js Up & Running (Callum Macrae, 2018, O'Reilly)
 
 ### TypeScript
 
-* [Programming TypeScript](./programming-typescript.md) (Boris Cherny, 2019, O'Reilly)
+* [Programming TypeScript](./lang/programming-typescript.md) (Boris Cherny, 2019, O'Reilly)
 * Effective TypeScript (Dan Vanderkam, 2019, O'Reilly)
 * Essential TypeScript (Adam Freeman, 2019, Apress)
 * TypeScript Quickly (Anton Moiseev, Yakov Fain, 2020, Manning)
@@ -354,7 +354,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 ### F\#
 
 * The Book of F# (Dave Fancher, 2014, No Starch)
-* [Domain Modeling Made Functional](./domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
+* [Domain Modeling Made Functional](./teamwork/domain-modeling-made-functional.md) (Scott Wlaschin, 2018, Pragmatic Bookshelf)
 
 ### Ruby
 
@@ -405,13 +405,13 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Graphics Programming Black Book (Michael Abrash, 1997, Coriolis)
 * Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
 * Game Engine Architecture (Jason Gregory, 2009, CRC Press)
-* [Game Programming Patterns](./game-programming-patterns.md) (Robert Nystrom, 2011, Genever Benning)
+* [Game Programming Patterns](./gamedev/game-programming-patterns.md) (Robert Nystrom, 2011, Genever Benning)
 * Best of Game Programming Gems (Mark DeLoura, 2014, Nelson Education)
 * Foundations of Game Engine Development (Eric Lengyel, 2016, Terathon Software)
 
 ### Unity Game Development
 
-* [Unity 5.x Cookbook](./unity-5x-cookbook.md) (2015, Packt)
+* [Unity 5.x Cookbook](./gamedev/unity-5x-cookbook.md) (2015, Packt)
 * Learn Unity for Android Game Development (Adam Sinicki, 2017, Apress)
 * Physically Based Shader Development for Unity 2017 (Claudia Zignaigo, 2018, Apress)
 
@@ -438,7 +438,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 * Hacking the Xbox (Andrew Huang, 2003, No Starch)
 * Getting Started with Raspberry Pi (Matt Richardson, Shawn Wallace, 2012, O'Reilly)
-* [Raspberry Pi Cookbook](./raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
+* [Raspberry Pi Cookbook](./hardware/raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
 * The Hardware Hacker (Andrew Huang, 2017, No Starch)
 
 # Other Books, by Subject
@@ -477,8 +477,8 @@ An evolving collection of book sequences.
 Goofy fun books. The real good stuff.
 
 1. Land of Lisp (Conrad Barski, 2011, No Starch)
-1. [Realm of Racket](./realm-of-racket.md) (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
-1. [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./10-print.md) (2012, MIT Press)
+1. [Realm of Racket](./lang/realm-of-racket.md) (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
+1. [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](./compsci/10-print.md) (2012, MIT Press)
 1. Making Games for the Atari 2600 (Steven Hugg, 2016, Puzzling Plans)
 1. Hacker's Delight (Henry S. Warren Jr., 2002, Addison-Wesley)
 1. To Mock a Mockingbird (Raymond Smullyan, 1985, Oxford)
@@ -488,12 +488,12 @@ Goofy fun books. The real good stuff.
 For when you've become a competent programmer and the next rung in your journey involves organizational and people problems.
 
 1. Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
-1. [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
-1. [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
-1. [The Manager's Path](./managers-path.md) (Camille Fournier, 2017, O'Reilly)
-1. [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
-1. [Radical Candor](./radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
-1. [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
+1. [Release It!](./teamwork/release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
+1. [Lean Software Development](./teamwork/lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+1. [The Manager's Path](./teamwork/managers-path.md) (Camille Fournier, 2017, O'Reilly)
+1. [Accelerate](./teamwork/accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
+1. [Radical Candor](./teamwork/radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
+1. [Domain-Driven Design Distilled](./teamwork/ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
 
 ## Variety Langs
 
@@ -511,7 +511,7 @@ For the discerning polyglot.
 
 We should have stuck to Algol.
 
-1. [The C Programming Language](./c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
+1. [The C Programming Language](./lang/c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1988, Prentice Hall)
 1. Effective C++ (Scott Meyers, 1992, Addison-Wesley)
 1. Expert C Programming (Peter van der Linden, 1994, Prentice Hall)
 1. Think Java (Allen B. Downey, 2004, O'Reilly)
@@ -523,7 +523,7 @@ We should have stuck to Algol.
 For getting into hardware hacking and maker-space stuff. (Not much here yet, sorry.)
 
 1. The Quick Python Book (Daryl Harms, Kenneth McDonald, 2000, Manning)
-1. [Raspberry Pi Cookbook](./raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
+1. [Raspberry Pi Cookbook](./hardware/raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
 1. Hacking the Xbox (Andrew Huang, 2003, No Starch)
 
 ## Data Unicorn
@@ -532,9 +532,9 @@ These are tentative recommendations. Actually everything on this page is, but es
 
 1. Visualize This (Nathan Yau, 2011, Wiley)
 1. Practical SQL (Anthony DeBarros, 2018, No Starch)
-1. [Think Stats](./think-stats.md) (Allen Downey, 2014, O'Reilly)
-1. [Natural Language Processing with PyTorch](./nlp-with-pytorch.md) (Brian McMahan, Delip Rao, 2019, O'Reilly)
-1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+1. [Think Stats](./data/think-stats.md) (Allen Downey, 2014, O'Reilly)
+1. [Natural Language Processing with PyTorch](./data/nlp-with-pytorch.md) (Brian McMahan, Delip Rao, 2019, O'Reilly)
+1. [Designing Data-Intensive Applications](./data/designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 1. Fluent Python (Luciano Ramalho, 2015, O'Reilly)
 
 ## DIY Computing Science Degree
@@ -545,7 +545,7 @@ A real Comp Sci curriculum would be a lot more math-y, with calculus, linear alg
 
 There's a lot of room for improvement and refinement. I need to actually work through this list in order to vet it. I'd probably substitute some things.
 
-1. [The Imposter's Handbook](./imposters-handbook.md) (Rob Conery, 2016, Big Machine)
+1. [The Imposter's Handbook](./compsci/imposters-handbook.md) (Rob Conery, 2016, Big Machine)
 1. The Turing Omnibus (Alexander Dewdney, 1989)
 1. Classic Computer Science Problems in Python (David Kopec, 2019, Manning)
 1. The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
@@ -559,7 +559,7 @@ There's a lot of room for improvement and refinement. I need to actually work th
 1. Java Network Programming (Elliotte Harold, 1997, O'Reilly)
 1. Twisted: Network Programming Essentials (Jessica McKellar, Abe Fettig, 2013, O'Reilly)
 1. Practical SQL (Anthony DeBarros, 2018, No Starch)
-1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+1. [Designing Data-Intensive Applications](./data/designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 1. Introduction to the Theory of Computation (Michael Sipser, 1997, PWS)
 
 ## The Unauthorized Tableau Technical Manifesto
@@ -570,7 +570,7 @@ A work in progress reading list.
 1. Practical Tableau (Ryan Sleeper, 2018, O'Reilly)
 1. Tableau Your Data! (Daniel Murray, 2013, Wiley)
 1. Effective TypeScript (Dan Vanderkam, 2019, O'Reilly)
-1. [Learning React](./learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
+1. [Learning React](./lang/learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
 1. Redux in Action (Marc Garreau, Will Faurot, 2018, Manning)
 1. Functional Programming in C++ (Ivan Cukic, 2018, Manning)
 1. C++ GUI Programming with Qt 4 (Jasmin Blanchette, Mark Summerfield, 2005, Prentice-Hall)
@@ -580,10 +580,10 @@ A work in progress reading list.
 A curated, but not canonized, list of books that would ease one into a job at PayByPhone circa 2020.
 
 1. C# in Depth (Jon Skeet, 2008, Manning)
-1. [Building Microservices](./building-microservices.md) (Sam Newman, 2015, O'Reilly)
-1. [Domain-Driven Design Distilled](./ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
-1. [Release It!](./release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
-1. [Designing Data-Intensive Applications](./designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
+1. [Building Microservices](./teamwork/building-microservices.md) (Sam Newman, 2015, O'Reilly)
+1. [Domain-Driven Design Distilled](./teamwork/ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)
+1. [Release It!](./teamwork/release-it.md) (Michael Nygard, 2007, Pragmatic Bookshelf)
+1. [Designing Data-Intensive Applications](./data/designing-data-intensive-apps.md) (Martin Kleppmann, 2017, O'Reilly)
 1. Microservices in .NET Core (Christian Gammelgaard, 2017, Manning)
 1. Agile Principles, Patterns, and Practices in C# (Robert Martin, Micah Martin, 2002, Pearson Prentice Hall)
 
@@ -591,7 +591,7 @@ A curated, but not canonized, list of books that would ease one into a job at Pa
 
 A curated, but not canonized, list of books that would ease one into a job at United Front Games circa 2010 (if those books had been available.)
 
-1. [Game Programming Patterns](./game-programming-patterns.md) (Robert Nystrom, 2011, Genever Benning)
+1. [Game Programming Patterns](./gamedev/game-programming-patterns.md) (Robert Nystrom, 2011, Genever Benning)
 1. Game Engine Architecture (Jason Gregory, 2009, CRC Press)
 1. How Not to Program in C++ (Steve Oualline, 2003, No Starch)
 1. Essential Mathematics for Games and Interactive Applications (James M. Van Verth, Lars M. Bishop, 2004, AK Peters)
