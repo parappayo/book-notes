@@ -37,6 +37,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ### Leadership & Communication
 
+* [The Psychology of Computer Programming](./teamwork/psych-of-prog.md) (Gerald Weinberg, 1971, Van Nostrand Reinhold)
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
 * [Managing Humans](./teamwork/managing-humans.md) (Michael Lopp, 2007, Apress)
