@@ -19,6 +19,7 @@ The best stuff gets aggregated into condensed articles:
 
 The following books are ones that I especially like, loosely ranked.
 
+1. [The Psychology of Computer Programming](./teamwork/psych-of-prog.md) (Gerald Weinberg, 1971, Van Nostrand Reinhold)
 1. Land of Lisp (Conrad Barski, 2011, No Starch)
 1. [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 1. The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
@@ -38,13 +39,12 @@ Books within each topic are ordered by year of publication. The years listed by 
 ### Leadership & Communication
 
 * [The Psychology of Computer Programming](./teamwork/psych-of-prog.md) (Gerald Weinberg, 1971, Van Nostrand Reinhold)
+* [Getting Things Done When You Are Not in Charge](./teamwork/getting-things-done.md) (Geoffrey Bellman, 1992, Berrett-Koehler)
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
 * [Managing Humans](./teamwork/managing-humans.md) (Michael Lopp, 2007, Apress)
 * Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
 * [Conversation Transformation](./teamwork/conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
-* Turn This Ship Around! (L. David Marquet, 2012, Penguin)
-* Eleven Rings (Phil Jackson, 2013, Penguin)
 * [The Manager's Path](./teamwork/managers-path.md) (Camille Fournier, 2017, O'Reilly)
 * [Radical Candor](./teamwork/radical-candor.md) (Kim Scott, 2017, Pan Macmillen)
 * [Elastic Leadership](./teamwork/elastic-leadership) (Roy Osherove, 2017, Manning)
