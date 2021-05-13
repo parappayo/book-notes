@@ -40,9 +40,11 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 * [The Psychology of Computer Programming](./teamwork/psych-of-prog.md) (Gerald Weinberg, 1971, Van Nostrand Reinhold)
 * [Getting Things Done When You Are Not in Charge](./teamwork/getting-things-done.md) (Geoffrey Bellman, 1992, Berrett-Koehler)
+* Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency (Tom DeMarco, 2001, Broadway Books)
 * Leading Teams (J. Richard Hackman, 2002, Harvard Business Review)
 * ADKAR: A Model for Change in Business, Government, and Our Community (Jeffrey Hiatt, 2006, Prosci)
 * [Managing Humans](./teamwork/managing-humans.md) (Michael Lopp, 2007, Apress)
+* Drive: The Surprising Truth About What Motivates Us (Daniel Pink, 2009, Riverhead Books)
 * Switch: How To Change Things When Change Is Hard (Heath, 2011, Random House)
 * [Conversation Transformation](./teamwork/conversation-transformation.md) (Simon, Benjamin, and Yeager, 2012, McGraw-Hill)
 * [The Manager's Path](./teamwork/managers-path.md) (Camille Fournier, 2017, O'Reilly)
