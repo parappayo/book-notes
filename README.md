@@ -346,6 +346,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * [Learning React](./lang/learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
 * React in Action (Mark Thomas, 2018, Manning)
 * Vue.js Up & Running (Callum Macrae, 2018, O'Reilly)
+* [Just JavaScript](./lang/just-javascript.md) (Dan Abramov, Maggie Appleton, 2021, self-published)
 
 ### TypeScript
 

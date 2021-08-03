@@ -122,7 +122,6 @@ A whirlwind tour of intermediate level Python development. Lots of practical adv
 * XPath - W3C standard to specify a path through an html document
 * YAGNI - Never is often better than right now
 
-
 # Techs
 
 * 2PY - Fortran to Python interface generator
