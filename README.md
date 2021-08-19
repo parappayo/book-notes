@@ -322,6 +322,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Real-World Haskell (O'Sullivan, Stewart, and Goerzen, 2008, O'Reilly)
 * Learn You a Haskell for Great Good! (Miran Lipovača, 2011, No Starch)
 * Get Programming with Haskell (Will Kurt 2018, Manning)
+* Thinking With Types (Sandy Maguire, 2019, Leanpub)
 * Haskell in Depth (Vitaly Bragilevsky, 2020, Manning)
 
 ### Prolog
@@ -403,6 +404,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Learn You Some Erlang for Great Good! (Fred Hebert, 2013, No Starch)
 * Functional Programming in Scala (Paul Chiusano, Runar Bjarnason, 2014, Manning)
 * Programming Sound with Pure Data (Tony Hillerson, 2014, Pragmatic Bookshelf)
+* The Type Astronaut's Guide to Shapeless (Dave Gurnell, 2016, Underscore)
 
 ## Game Development
 
