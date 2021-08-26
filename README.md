@@ -21,9 +21,9 @@ The following books are ones that I especially like, loosely ranked.
 
 1. [The Psychology of Computer Programming](./teamwork/psych-of-prog.md) (Gerald Weinberg, 1971, Van Nostrand Reinhold)
 1. Land of Lisp (Conrad Barski, 2011, No Starch)
-1. [Lean Software Development](./lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
+1. [Lean Software Development](./teamwork/lean-software-development.md) (Poppendieck, 2003, Addison-Wesley)
 1. The Elements of Computing Systems (Noam Nisan, Shimon Schocken, 2005, MIT Press)
-1. [Accelerate](./accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
+1. [Accelerate](./teamwork/accelerate.md) (Forsgren, Humble, and Kim, 2018, IT Revolution)
 1. Absolute FreeBSD (Michael Lucas, 2007, No Starch)
 
 # By Subject
