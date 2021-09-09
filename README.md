@@ -187,9 +187,15 @@ A loosely curated selection of books. For the full list, see the [by subject pag
 
 Stop starting, start finishing.
 
+* Algebra-Driven Design (Sandy Meguire, 2020, Leanpub)
+* [The Psychology of Computer Programming](./teamwork/psych-of-prog.md) (Gerald Weinberg, 1971, Van Nostrand Reinhold)
+* Advanced C++ Programming Styles and Idioms (James Coplien, 1992, AT&T Bell Labs)
 * [Programming TypeScript](./lang/programming-typescript.md) (Boris Cherny, 2019, O'Reilly)
 * [Learning React](./lang/learning-react.md) (Alex Banks, Eve Porcello, 2017, O'Reilly)
+* API Security in Action (Neil Madden, 2020, Manning)
 * [Resilient Management](./teamwork/resilient-management.md) (Lara Hogan, 2019, A Book Apart)
+* Technical Agile Coaching with the Samman Method (Emily Bache, 2020, Leanpub)
+* [Realm of Racket](./lang/realm-of-racket.md) (Matthias Felleisen, Conrad Barski, David Van Horn, 2013, No Starch)
 * [Game Programming Patterns](./gamedev/game-programming-patterns.md) (Robert Nystrom, 2011, Genever Benning)
 * [The C Programming Language](./lang/c-programming-lang.md) (Brian W. Kernighan, Dennis Ritchie, 1978, Prentice Hall)
 * [Domain-Driven Design Distilled](./teamwork/ddd-distilled.md) (Vaughn Vernon, 2016, Addison-Wesley)

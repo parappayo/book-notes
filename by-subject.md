@@ -22,6 +22,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * [Elastic Leadership](./teamwork/elastic-leadership) (Roy Osherove, 2017, Manning)
 * The Culture Code (Daniel Coyle, 2018, Random House)
 * [Resilient Management](./teamwork/resilient-management.md) (Lara Hogan, 2019, A Book Apart)
+* Technical Agile Coaching with the Samman Method (Emily Bache, 2020, Leanpub)
 
 ### Software Project Design / Modeling
 
@@ -213,6 +214,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Microservices in .NET Core (Christian Gammelgaard, 2017, Manning)
 * Designing Web APIs (Amir Shevat, Brenda Jin, and Saurabh Sahni, 2018, O'Reilly)
 * Node.js 8 The Right Way (Jim Wilson, 2018, Pragmatic Bookshelf)
+* API Security in Action (Neil Madden, 2020, Manning)
 
 ## Programming Languages
 
@@ -294,6 +296,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Get Programming with Haskell (Will Kurt 2018, Manning)
 * Thinking With Types (Sandy Maguire, 2019, Leanpub)
 * Haskell in Depth (Vitaly Bragilevsky, 2020, Manning)
+* Algebra-Driven Design (Sandy Meguire, 2020, Leanpub)
 
 ### Prolog
 
