@@ -26,10 +26,14 @@ Note that not all bibliography books are included here. There are lots of citati
 * "more than twenty-five years ago I conducted a survey of the women programmers in my advanced software development class. When I asked these students about their experiences working on teams with other women, none of them could answer—because none had ever worked on a team with another woman programmer. Forty years ago, our typical PSL class might have as many as four women out of twenty-four participants; more likely to be eight-to-twelve out of twenty-four."
 * "the professional is very tired and a bit irritated by the unending stream of amateurs waving their printouts in her face and condemning the machine, the operator, the system, the keypuncher, the language, or the government. The amateur, on the other hand, can see that the professional does not even care that his means and standard deviations are not going to be ready in time for inclusion in the proceedings of the conference"
 * adjust your level of rigor to the task at hand; neither under nor over engineer
+* the first and last letters of a word tend to have strong influence over it being recognized than the other letters
 
 ## On Programmers
 
+* good programmers are made, not born
+* shy amateurs and arrogant experts often have in common that they are overly reluctant to seek help
 * "A programmer who truly sees his program as an extension of his own ego is not going to be trying to find all the errors in that program."
+* "since the machine is so inflexible, the programmer must be flexible enough to supply the elasticity needed in matching any system’s abilities to real world needs"
 * a large portion of the variance in software quality delivery can be attributed to differences between programmers in understanding what work is being asked for
 * software design, implementation, testing, documentation, and management all require different talents, yet there is a tendency to see "coding skill" as a singular, all-important talent; sometimes these stages are planned to happen in order even though in practice they do not
 * developer mindset and environment varies day-to-day; having a variety of types of work (coding, documentation, testing) allows devs to stay productive; forcing types of work into phases interferes
@@ -37,6 +41,10 @@ Note that not all bibliography books are included here. There are lots of citati
 * "If a programmer is indispensable, get rid of him as quickly as possible."
 * "The same talents or personality that make a person an excellent amateur programmer may make him singularly unsuited for being a professional one; but the lack of ability to adjust his working behavior to the problem at hand will always make him unsuited."
 * when devs encounter a problem with an approach, efficiency-focused devs tend to stick with the current approach and fix the problem, whereas devs focused on fast delivery tend to substitute another approach thus sacrificing program efficiency; the efficiency-focused team may stick with a doomed approach much longer than "get it working now" teams
+* dev roles put pressure on personality traits, changes in role offer relief; assigning roles based on perceived personality traits is dangerous; inner personality often differs from what manifests on the surface
+* "Although the average programming manager would say that intelligence is more important than personality in programming success, very few could cite cases of people who turned out not to be intelligent enough to program, but everyone knows of cases of people who were not temperamentally suited to the programmer’s job."
+* people who spend a lot of time solving other people's problems quickly learn not to listen to the explanation of the person who already failed to solve it since that just leads one down the same dead-end path
+* forcing a person to think in another person's style reduces their problem solving ability
 
 ## On Managers
 
@@ -77,6 +85,7 @@ Note that not all bibliography books are included here. There are lots of citati
 * "psychology is the psychology of 18-year-old college freshmen" - common population bias in studies
 * studies of dev performance often focus on one type of work, eg. analytical work (tracing bugs) or synthetic work (coding), such that there isn't a good overall view of a given dev's ability to contribute to a realistic project; at best you're studying how helpful a dev is at one phase of a project
 * social psychologists have often studied group dynamics under situations that only last for days or weeks, whereas programming team situations may last months or years
+* many studies of programmer problem solving do not consider the quality of the solutions produced by subjects; either a problem is solved or not
 
 ## On Optimizations
 
@@ -89,13 +98,16 @@ Note that not all bibliography books are included here. There are lots of citati
 
 # Concepts
 
+* "Mind your p's and q's" - a common manual typesetting error is to transpose letters
 * Accidental Complexity - not inherent to the problem being solved; can be mitigated with psychological change
-* Agile programming - can be thought of as "egoless teams"
+* Activity Vector Analysis - programmer personality test
+* Agile Programming - can be thought of as "egoless teams"
 * Amateur Programming (Hobbyists) - unlike professionals, amateurs typically control their own spec, write programs that only they themselves use, and have more control over their dev environment (tools, conventions)
 * Austrian Army - in the 19th century, saw success through hierarchical organization, soldiers are seen as interchangeable; this model is still imitated today but often a project team is more like an engine with parts that cooperate than a pyramid structure for ambitious individuals to climb
 * Authoritarian Team - work is organized and guarded by the appointed leader; seems warm and friendly, is fragile, team members don't need to get along with each other, just get along with the leader; groups in crisis tend to be more accepting of strong leadership but more impatient with perceived incompetent leadership
 * Bit-Picking - when management gets involved in technical implementation details; may come from a desire to be precise and mistaking precision for clarity
 * Blame-Analysis - find the person at fault for the problem; motivates people to hide the true cause
+* Bomb-Out - archaic operator term for a system panic
 * Card File - for securing punch cards, apparently
 * Chief Programmers - HD Mills suggested a programming team structured like a surgical team, with a surgeon and specialized assistants; Weinberg warns about this being a potentially dysfunctional model
 * Clarity / Readability - not just maintainability, also how well ideas are transmitted; limitations affecting clarity include hardware limits (memory, performance), language / tooling (work-arounds, boilerplate), programmer limits (mastery of the dev environment, misunderstandings), historical accidents, essential complexity; often these are past limitations, the code would have been written differently today and that may drive jr devs to resent sr staff
@@ -109,6 +121,7 @@ Note that not all bibliography books are included here. There are lots of citati
 * Democratic Team - organized by group consensus, sets its own goals, shares responsibilities, leadership is fluid, may seem surprisingly cold to outsiders, adaptable; tech teams often like shifts in leadership to allow the expert in the current crisis situation to lead
 * Detached - personality trait opposed to compliant or aggressive; often seen as desirable in programmers because it is assumed to be a solitary and creative profession
 * Devil's Advocate (Obligation to Dissent) - people are more likely to speak out about a problem if there is an ally in the room; unanimous agreement is often a sign of dishonesty
+* Documentation - good docs are rare, cannot save a poorly written program, takes patience
 * Egoless Programming - compliant-detached dev culture; ego is a problem for a programmer, leads to fear, increases variance in delivery time; shops that have this culture tend to regard it as a proprietary secret, devs who are job hopping tend not to be coming from this culture; aggressive management culture tends not to appreciate the value of it; this is the most cited, most understood, and most denied idea in the book
 * Essential Complexity - inescapable complexity of the problem domain
 * Estimates - when devs are set an explicit project goal (eg. delivery speed, program efficiency) they tend to be more accurate in their estimates of meeting that goal, but they also tend to work toward that goal at the expense of other goals
@@ -118,35 +131,53 @@ Note that not all bibliography books are included here. There are lots of citati
 * Fisher's Fundamental Theorem - the better adapted a system is to a given environment, the less adaptable it is to new environments; optimizations often make code less portable, less future proof
 * Forced Labor - "forced labor—to the small extent that it does work—can only be made to work with relatively immature programmers who are not aware of other possibilities, or with relatively unskilled programmers who are quite aware that other possibilities are not open to them"
 * Formal Organization - the org chart; some put too much stock in it; mistake to think that this is the only important org structure
+* Gestalt - perception of the whole, general feeling
+* Greek Drama - success leads to hubris which leads to self-destruction
 * Half-Partition - blocks valuable communication but allows distracting noise
 * Hawthorne Effect - consider that study subjects change their behaviour merely as a result of being studied; studies at the Hawthorne Works of the Western Electric Company failed to consider that workers under observation increased their productivity out of pride; anthropologists struggle to become invisible to the cultures they visit so that life will continue as normal
 * Historical Accidents - hacks to solve problems that have been obscured by time
 * Informal Organization - unofficial communication channels; smart management adopts innovations from it, eg. using informal channels can help reduce ticket load
+* Intelligence - less responsive to environment than personality; the industry has pre-selected for applicants who are "intelligent" so we don't really know if less intelligent people could be great devs
+* Kuder Preference Test - programmer personality test
 * Leadership - as defined by social scientists, the ability to influence others
 * Lifecycle of a Team - recruitment, goal setting, delivery, dissolution or new goals; typically there is a crisis at every step
 * Maintenance-Oriented Activity - from social psychology, work done by the team to self-sustain, such as resolving conflicts; task and maintenance activities often have different leaders within the group, stereotypically the maintenance leader is the mother figure, often charismatic (see Task-Oriented Activity)
+* Mad Bomber - arrogant dev who needed code to repeatedly fail before seeing a problem with it, see "Bomb-Out"; reckless devs often become known to system operators
+* Meyers-Briggs Type Indicator - personality test created in 1980
+* Minnesota Multiphasic Personality Inventory (MMPI) - personality test, aims to identify mental illness
 * Monitor System - automated system operator, runs multiple jobs; before this, group congregation around the machine was more common
 * Myer-Briggs Personality Inventory (MBPI)
 * N-th Level Manager - a manager of managers, most contact with the work is through other managers; very different role from a manager of programmers
 * Parkinson's Law / Parkinsonianism - work expands to fill the time allotted
 * Personal Computer - "terminal" terminology became "PC" and then "terminal" again
+* Personality - is not fixed, adapts to environment; difficult to identify the source of a personality change except maybe in retrospect; no formal studies of personality traits needed for programmer success, but anecdotally, resilience to prolonged stress, adaptability to rapid change, neatness, humility, assertiveness, humor
 * PERT Chart - Program Evaluation and Review; developed by the US Navy in 1958, part of Critical Path Method (CPM)
 * Plus ça Change - "In 1993, I was asked if I was really writing about conversion of an application from Microsoft PC-DOS to Microsoft Windows™. My interrogator was convinced he had been on the project I described, and that I had substituted the names of old machines to protect the guilty party."
 * Predictable Delivery - unpredictable delivery is psychologically upsetting; "it is not the mean length of estimated time that annoys people but, rather, the standard deviation in the actual time taken"; managing for quality involves delivering predictably
+* Problem Avoiding - preventing a problem is the mark of competence, but it is difficult for management to appreciate how much trouble the org is NOT having
+* Problem Solving - requires flexibility to quickly change assumptions; many solutions are easy to derive after an overlooked factor is identified; orgs that praise the "hardest working" devs may be celebrating their worst programmers, who work hard because they make it difficult; a programmer who avoids / prevents a problem is doing a better job than a programmer who causes a problem and then fixes it; there are many ways to arrive at the right answer for the wrong reasons, makes it difficult to judge performance
 * Process Reporting - measuring the time a software project takes in each stage of design, analysis, implementation, debugging; when the work is categorized rigidly, it hides the reality that stages often happen out of order, work bleeds from one stage into the next; manager may believe that things happen in sequence because the reporting structure forces that view on the project
+* Programmer Aptitude - attempts to test for this have confounded researchers; exists across many dimensions, cannot be reduced to a simple score; tests create artificial time pressure and favour short-term memory, rarely test for the ability to reason about the unexpected; may predict who will excel in training but not necessarily on the job; auditions may be a better evaluation method
+* Programmer's Aptitude Test (PAT) - originally created around 1956 at IBM's New York Scientific Computing Center to be administered to job applicants; includes sections on relationship rules for geometric figures, arithmetic reasoning, and number series
+* Programmer's National Anthem - "aaaaahhhhh"
 * Property-Oriented Programming - tempting to think that a programmer owns his code in the same sense that a painter owns his art, but consider that paintings are typically made to be admired by others whereas most programmers don't intend for others to read their code; appreciation of art is in the beholder, but programs are interpreted by a computer objectively
+* Psychological Set - the eye tends to see what it expects, proofreading is hard
 * Psychology - the psychology of programmers can be studied in terms of social structure (how individuals relate), material culture (tools), recruitment (how people become programmers), and myths (common beliefs)
 * Quality - how to measure? elegance and adaptability cannot be quantified, metrics such as line count, cyclomatic complexity are gameable, performance and adherence to spec cannot be determined merely by reading the code; we try to discuss relative code quality by comparing code listings that solve the same problem
 * Reporting vs Measuring - reports are often softened by managers, after several layers of reporting the figures may be so muted that they are no longer representative of anything
 * Root-Cause Analysis - introspect on the processes that lead to the problem
+* Rorschach Ink Blot Test - personality test
 * Self Esteem - "I now recognize that the root of many of these problems is low self-esteem. The cure lies in an environment that boosts self-esteem, not one that destroys it."
 * Slack - excess capacity to buffer against contingencies
 * Social Fixation - fixation of social structures; once tooling and practices are established, momentum tends to keep them in place; egoless programming is difficult to introduce, relatively easy to maintain
 * Specs - "When there are multiple users, there are multiple specifications."
 * Standards Group - committee to evaluate work progress; there needs to be a separation between the people involved in doing the work and the people involved in evaluating it; the lines of control should not simply be the lines of reporting in reverse
 * Status Symbols - matter a lot, even though we might wish otherwise; in tech these include privileged access, newer equipment
+* Strong Vocational Interest Blank - personality test, aims to suggest a career; "Strong" is the name of the creator, "Blank" refers to a form to be filled out
 * Task-Oriented Activity - from social psychology, work done by the team to meet its goals; stereotypically the task leader is the father figure, external facing leader with technical skill (see Maintenance-Oriented Activity)
 * Team Mother - sexist term for the maintenance leader see Maintenance-Oriented Activity
+* Thematic Apperception Test (TAT) - personality test
+* Thurstone Temperament Schedule - programmer personality test
 * Virtual Memory - swap on disk
 
 # Techs
@@ -175,20 +206,25 @@ Note that not all bibliography books are included here. There are lots of citati
 * Brian Pioreck - "I don’t know how Peopleware became a best seller. I never run into any managers who have read it. Beyond that, I hardly run into any managers who read about their industry, management theory, or psychology, period. I used to believe that they were overloaded with information regarding the specifics of their job, but frankly, managers still aren’t trained, or do not educate themselves, to do their jobs."
 * Brian Pioreck - member of the 1998 Software Engineering Management Development Group
 * CAR Hoare - dismissive of the challenge of management, directly contradicts Joel Aron's findings; "Basically all problems are technical. If you know what you want to do and you have the necessary technical background, there is no point in making a great management problem out of it."
+* David B. Mayer - studied programmer vocational personality in 1968, concluded that programmers are more conservative on average
 * Deacon's Masterpiece - poem by Oliver Wendell Holmes Sr. about the "wonderful one-hoss shay, that was built in such a logical way, it ran a hundred years to a day"
 * Festinger - studied cognitive dissonance
 * IBM Systems Research Institute - this book includes research from here
+* Isabel Briggs Meyers - creator of the MBTI personality test
 * James Clerk Maxwell - "To measure is to know."
 * Joel Aron - holds that most software projects fail, and typically due to challenges of management rather than lacking technical capabilities
 * John von Neumann - early example of an egoless programmer; tended to be self-deprecating
 * Jonas Salk - virologist
 * Lord Kelvin - "I can state flatly that heavier than air flying machines are impossible."
 * Louis Pasteur - chemist
+* Okimoto - 1970 study looked at how erroneous comments make it harder to spot bugs in code
 * Peter Kropotkin - acting on the principle of command and discipline versus acting on the principle of common understanding
 * Programmer Group vs Team - the group share common resources (office, systems) but are not learning together, whereas the team is motivated to support each others activities towards the common goal
 * Sigmund Freud - notes the importance of introspection, self-analysis
+* Sophocles - Greek writer
 * State University of New York - this book includes research from here
 * Virginia Satir - family therapist; preventing a crisis is typically easier than handling one
+* Virginia Satir - studied incongruent personality stances, behaviour under stress
 * William James - founder of American psychology
 
 # Publications
@@ -198,7 +234,9 @@ Note that not all bibliography books are included here. There are lots of citati
 * A Theory of Cognitive Dissonance - Festinger book
 * An Organic Architecture - Frank Lloyd Wright book
 * Becoming a Technical Leader - Weinberg book
+* Elements of Psychology - Krech, Crutchfeld, Livson book
 * Fourth Generation Computers: User Requirements and Transition - Fred Gruenberger book
+* How to Solve It - George Polya book, 1946
 * Parkison's Law - Northcote Parkinson book
 * Peopleware - DeMarco and Lister book
 * PL/I Language Log - IBM internal doc, spec for the PL/I lang
@@ -212,3 +250,4 @@ Note that not all bibliography books are included here. There are lots of citati
 * The Presentation of Self in Everyday Life - Erving Goffman book
 * The Silent Language - Edward Hall book
 * The Social Psychology of Industry - J.A.C. Brown, about Industrial Psychology
+* Use of Psychological Tests in the Selection of Computer Personnel - Mayer and Stalnaker book, 1968
