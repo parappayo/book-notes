@@ -273,6 +273,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * The Rust Programming Language (Steve Klabnik, Carol Nichols, 2018, No Starch)
 * Programming WebAssembly with Rust (Kevin Hoffman, 2019, Pragmatic Bookshelf)
 * Rust in Action (Tim McNamara, 2020, Manning)
+* [Hands-On Rust](./lang/hands-on-rust.md) (Herbert Wolverson, 2021, Pragmatic Bookshelf)
 
 ### Lisp, Scheme, Racket
 
@@ -415,6 +416,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ## Electronics, Hardware Hacking
 
+* Build Your Own Z80 Computer (Steve Ciarcia, 1981, McGraw-Hill)
 * Hacking the Xbox (Andrew Huang, 2003, No Starch)
 * Getting Started with Raspberry Pi (Matt Richardson, Shawn Wallace, 2012, O'Reilly)
 * [Raspberry Pi Cookbook](./hardware/raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
