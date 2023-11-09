@@ -429,30 +429,3 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Getting Started with Raspberry Pi (Matt Richardson, Shawn Wallace, 2012, O'Reilly)
 * [Raspberry Pi Cookbook](./hardware/raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
 * The Hardware Hacker (Andrew Huang, 2017, No Starch)
-
-# Other Books, by Subject
-
-## RPG
-
-* Shadowrun (1989, FASA)
-* D&D Rules Cyclopedia (Aaron Allston, Jon Pickens, Steven Schend, 1991, TSR)
-* Eberron Campaign Setting (Keith Baker, Bill Slavicsek, and James Wyatt, 2004, Wizards of the Coast)
-* D&D 4th Edition Player's Handbook (Heinsoo, Collins, Wyatt, Crawford, and Mearls, 2009, Wizards of the Coast)
-* Pathfinder Core Rulebook (Jason Bulmahn, 2009, Paizo)
-* Rules Compendium 4e (2010, Wizards of the Coast)
-
-## Hockey
-
-* The Game (Ken Dryden, 1983)
-* The Rebel League (Ed Wiles, 2005)
-* Journeyman (Sean Pronger, 2012)
-* All the Way (Jordin Tootoo, 2015)
-* The Riverton Rifle (Reggie Leach, 2015)
-* Take Your Eye Off the Puck (Greg Wyshynski, 2015)
-* The Battle of Alberta (Mark Spector, 2015)
-* The Down Goes Brown History of the NHL (Sean McIndoe, 2018)
-
-## Miscellaneous
-
-* Significant Zero
-* Bad Blood
