@@ -57,6 +57,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Test Driven Development: By Example (Kent Beck, 2002, Addison-Wesley)
 * Working Effectively with Legacy Code (Michael Feathers, 2004, Prentice Hall)
 * Extreme Programming Explained (Kent Beck, Cynthia Andres, 2004, Addison-Wesley)
+* xUnit Test Patterns (Gerard Meszaros, 2007, Pearson)
 * Clean Code (Robert Martin, 2009, Prentice Hall)
 * [Building Microservices](./teamwork/building-microservices.md) (Sam Newman, 2015, O'Reilly)
 * Programming Beyond Practices (Gregory Brown, 2016, O'Reilly)
@@ -220,7 +221,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * Microservices in .NET Core (Christian Gammelgaard, 2017, Manning)
 * Designing Web APIs (Amir Shevat, Brenda Jin, and Saurabh Sahni, 2018, O'Reilly)
 * Node.js 8 The Right Way (Jim Wilson, 2018, Pragmatic Bookshelf)
-* API Security in Action (Neil Madden, 2020, Manning)
+* [API Security in Action](./infra/api-security-in-action.md) (Neil Madden, 2020, Manning)
 
 ## Programming Languages
 
@@ -261,6 +262,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 * The Art of C++ (Herbert Schildt, 1991, McGraw-Hill)
 * Effective C++ (Scott Meyers, 1992, Addison-Wesley)
+* [Advanced C++ Programming Styles and Idioms](./lang/advanced-cpp-styles-idioms.md) (James Coplien, 1992, AT&T Bell Labs)
 * Enough Rope to Shoot Yourself in the Foot (Allen Holub, 1995, McGraw-Hill)
 * C++ Gems (Stanley Lippman, 1998, Cambridge University Press)
 * Exceptional C++ (Herb Sutter, 1999, Addison-Wesley)
@@ -279,6 +281,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 * The Rust Programming Language (Steve Klabnik, Carol Nichols, 2018, No Starch)
 * Programming WebAssembly with Rust (Kevin Hoffman, 2019, Pragmatic Bookshelf)
 * Rust in Action (Tim McNamara, 2020, Manning)
+* [Hands-On Rust](./lang/hands-on-rust.md) (Herbert Wolverson, 2021, Pragmatic Bookshelf)
 
 ### Lisp, Scheme, Racket
 
@@ -421,6 +424,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ## Electronics, Hardware Hacking
 
+* Build Your Own Z80 Computer (Steve Ciarcia, 1981, McGraw-Hill)
 * Hacking the Xbox (Andrew Huang, 2003, No Starch)
 * Getting Started with Raspberry Pi (Matt Richardson, Shawn Wallace, 2012, O'Reilly)
 * [Raspberry Pi Cookbook](./hardware/raspberry-pi-cookbook.md) (Simon Monk, 2013, O'Reilly)
