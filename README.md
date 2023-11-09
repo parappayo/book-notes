@@ -64,6 +64,7 @@ A loosely curated selection of books. For the full list, see the [by subject pag
 
 ### Computing Science
 
+* Computer Lib/Dream Machines (Ted Nelson, 1974, self-published)
 * Algorithms + Data Structures = Programs (Niklaus Wirth, 1976, Prentice-Hall)
 * The Turing Omnibus (Alexander Dewdney, 1989)
 * The Art of the Metaobject Protocol (Daniel Bobrow, Gregor Kiczales, 1991, MIT Press)

@@ -79,6 +79,7 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ### Computing Science
 
+* Computer Lib/Dream Machines (Ted Nelson, 1974, self-published)
 * Algorithms + Data Structures = Programs (Niklaus Wirth, 1976, Prentice-Hall)
 * Computers and Intractability (Michael Garey, David Johnson, 1979, Freeman)
 * Computability: An Introduction to Recursive Function Theory (Nigel Cutland, 1980, Cambridge University Press)
@@ -181,12 +182,17 @@ Books within each topic are ordered by year of publication. The years listed by 
 
 ## Infrastructure
 
+### Operating Systems
+
+* The Multics System: An Examination of Its Structure (Elliot Organick, 1972, MIT Press)
+
 ### Operating Systems, Unix
 
 * The Design and Implementation of the 4.3BSD Operating System (Samuel Leffler, 1989, Addison-Wesley)
 * Unix and Linux Administration Handbook (Nemeth, Snyder, and Hein, 1989, Addison-Wesley)
 * Advanced Programming in the UNIX Environment (W. Richard Stevens, 1992, Addison-Wesley)
 * Absolute OpenBSD (Michael Lucas, 2003, No Starch)
+* The Design and Implementation of the FreeBSD Operating System (Marshall McKusick, George Neville-Neil, 2005, Addison-Wesley)
 * Absolute FreeBSD (Michael Lucas, 2007, No Starch)
 
 ### Operating Systems, Windows
