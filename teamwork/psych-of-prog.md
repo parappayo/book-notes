@@ -14,7 +14,7 @@ Note that not all bibliography books are included here. There are lots of citati
 # Take-Aways
 
 * All laws have limits; the limits are typically more important to know than the laws themselves
-* Discussions may failure to distinguish between professional and hobby programming
+* Discourse re: programming practices have often failed distinguish between professional and hobby programming, leading to confusion
 * Once people have a new perspective, they will implement improvements on their own
 * "Many college-trained developers approach a project like a one-semester class assignment. They think about it or ignore it for a while, then suddenly start jamming on the keyboard to produce something that will earn a passing grade. Software projects done at universities generally don’t have to be maintainable, usable, or testable by another person."
 * These days the goal tends to be value delivered to a customer rather than program efficiency; runtime is typically cheap
@@ -35,7 +35,6 @@ Note that not all bibliography books are included here. There are lots of citati
 * there is a psychological bias toward early results; programmers testing their own software tend to give up early; people tend to fixate on code where they've found an error before, it's important to coax devs into looking at rarely inspected code as well
 * the low status perception of software testers remain social issues
 * it's not until you turn your head that you realize how sharp the razor was
-
 
 ## On Programmers
 
