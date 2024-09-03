@@ -14,30 +14,28 @@ Note that not all bibliography books are included here. There are lots of citati
 # Take-Aways
 
 * All laws have limits; the limits are typically more important to know than the laws themselves
-* Discourse re: programming practices have often failed distinguish between professional and hobby programming, leading to confusion
-* Once people have a new perspective, they will implement improvements on their own
-* "Many college-trained developers approach a project like a one-semester class assignment. They think about it or ignore it for a while, then suddenly start jamming on the keyboard to produce something that will earn a passing grade. Software projects done at universities generally don’t have to be maintainable, usable, or testable by another person."
-* These days the goal tends to be value delivered to a customer rather than program efficiency; runtime is typically cheap
-* "There probably is, in almost every program, some code which actually does the work that was specified" / "even if we succeed in extracting this kernel of the program, we must not be misled into the illusion that we could have started with this kernel as a specification" / "in most cases, we do not know what we want to do until we have taken a flying leap at programming it" / "writing a program is a process of learning"
-* The code that is most frequently read is typically problematic code (a bug may have lead the reader there); if a coder doesn't know what good code looks like, they may fail to lean good practices from reading code; the good get better, the bad get worse
-* "When a patient recovers, it is the work of the doctor; when a patient dies, it is an act of God. But when a computer program doesn’t work, everyone knows—and everyone knows who is to blame."
-* "more than twenty-five years ago I conducted a survey of the women programmers in my advanced software development class. When I asked these students about their experiences working on teams with other women, none of them could answer—because none had ever worked on a team with another woman programmer. Forty years ago, our typical PSL class might have as many as four women out of twenty-four participants; more likely to be eight-to-twelve out of twenty-four."
-* "the professional is very tired and a bit irritated by the unending stream of amateurs waving their printouts in her face and condemning the machine, the operator, the system, the keypuncher, the language, or the government. The amateur, on the other hand, can see that the professional does not even care that his means and standard deviations are not going to be ready in time for inclusion in the proceedings of the conference"
-* adjust your level of rigor to the task at hand; neither under nor over engineer
-* the first and last letters of a word tend to have strong influence over it being recognized than the other letters
-* learners often mistake a problem for being easier or harder than it is; bad teachers frequently either make a problem domain out to be either much easier or much harder than it is; by making too many simplifying assumptions, the student cannot deal with practical applications; on the other hand, by diving too much into difficult technicalities, the student is discouraged
-* the first step in learning is to understand one's own assets and liabilities
 * "something that is not right is wrong" - fallacy imposed by typical education's need for testable knowledge
-* Sept 1962 news story alleges that an $18M rocket was destroyed because of a missing hyphen in a roll of instruction tape; there are no "small" errors in programming, the size of the error does not correlate to the scale of the damage caused
-* an expert avoids the small errors while sweeping toward the grand fallacy
-* in order to maintain alertness, radar systems introduce some artificial events so that human operators have something to watch out for
-* uniform code responds better to tests; the more branches and variation there is, the less confidence a single test provides
-* there is a psychological bias toward early results; programmers testing their own software tend to give up early; people tend to fixate on code where they've found an error before, it's important to coax devs into looking at rarely inspected code as well
-* the low status perception of software testers remain social issues
+* the first step in learning is to understand one's own assets and liabilities
+* learners often mistake a problem for being easier or harder than it is; bad teachers frequently either make a problem domain out to be either much easier or much harder than it is; by making too many simplifying assumptions, the student cannot deal with practical applications; on the other hand, by diving too much into difficult technicalities, the student is discouraged
 * it's not until you turn your head that you realize how sharp the razor was
+* the first and last letters of a word tend to have strong influence over it being recognized than the other letters
+
+## On Projects
+
+* adjust your level of rigor to the task at hand; neither under nor over engineer
+* Sept 1962 news story alleges that an $18M rocket was destroyed because of a missing hyphen in a roll of instruction tape; there are no "small" errors in programming, the size of the error does not correlate to the scale of the damage caused
+* "There probably is, in almost every program, some code which actually does the work that was specified" / "even if we succeed in extracting this kernel of the program, we must not be misled into the illusion that we could have started with this kernel as a specification" / "in most cases, we do not know what we want to do until we have taken a flying leap at programming it" / "writing a program is a process of learning"
+* "Many college-trained developers approach a project like a one-semester class assignment. They think about it or ignore it for a while, then suddenly start jamming on the keyboard to produce something that will earn a passing grade. Software projects done at universities generally don’t have to be maintainable, usable, or testable by another person."
+* The code that is most frequently read is typically problematic code (a bug may have lead the reader there); if a coder doesn't know what good code looks like, they may fail to lean good practices from reading code; the good get better, the bad get worse
+* uniform code responds better to tests; the more branches and variation there is, the less confidence a single test provides
+* These days the goal tends to be value delivered to a customer rather than program efficiency; runtime is typically cheap
+* the low status perception of software testers remain social issues
+* there is a psychological bias toward early results; programmers testing their own software tend to give up early; people tend to fixate on code where they've found an error before, it's important to coax devs into looking at rarely inspected code as well
 
 ## On Programmers
 
+* "When a patient recovers, it is the work of the doctor; when a patient dies, it is an act of God. But when a computer program doesn’t work, everyone knows—and everyone knows who is to blame."
+* Discourse re: programming practices have often failed distinguish between professional and hobby programming, leading to confusion
 * Decades long efforts to eliminate programmers from the software business have failed; typically such schemes are invented by programmers
 * Programming has a mystique, often not well understood; some programmers encourage this, so execs seek to mitigate the human factors
 * good programmers are made, not born
@@ -62,6 +60,9 @@ Note that not all bibliography books are included here. There are lots of citati
 * good people can write bad systems
 * the more that programmers run into constraints, the more they start to anticipate constraints that aren't actually there
 * every programmer is a meta-language expert
+* "more than twenty-five years ago I conducted a survey of the women programmers in my advanced software development class. When I asked these students about their experiences working on teams with other women, none of them could answer—because none had ever worked on a team with another woman programmer. Forty years ago, our typical PSL class might have as many as four women out of twenty-four participants; more likely to be eight-to-twelve out of twenty-four."
+* "the professional is very tired and a bit irritated by the unending stream of amateurs waving their printouts in her face and condemning the machine, the operator, the system, the keypuncher, the language, or the government. The amateur, on the other hand, can see that the professional does not even care that his means and standard deviations are not going to be ready in time for inclusion in the proceedings of the conference"
+* an expert avoids the small errors while sweeping toward the grand fallacy
 
 ## On Managers
 
@@ -85,6 +86,7 @@ Note that not all bibliography books are included here. There are lots of citati
 
 ## On Teams
 
+* Given a new perspective, people will implement improvements
 * tightly knit teams often leave jobs together not as a conspiracy but because it's in each individual's interest
 * "The lack of experience in programming becomes more evident as the size of the system to be produced increases."
 * rule of thumb: three programmers are twice as productive as one, three groups of three programmers are only about twice as productive as one group (or four times as productive as one programmer)
@@ -166,7 +168,7 @@ Note that not all bibliography books are included here. There are lots of citati
 * Assembler - produces assembly code, frees the programmer of housekeeping tasks like counting clock cycles, calculating relative addresses, manually looking up ops codes, etc.
 * Austrian Army - in the 19th century, saw success through hierarchical organization, soldiers are seen as interchangeable; this model is still imitated today but often a project team is more like an engine with parts that cooperate than a pyramid structure for ambitious individuals to climb
 * Authoritarian Team - work is organized and guarded by the appointed leader; seems warm and friendly, is fragile, team members don't need to get along with each other, just get along with the leader; groups in crisis tend to be more accepting of strong leadership but more impatient with perceived incompetent leadership
-* Bebugging - opposite of debugging, agent introduces logic errors to motivate maintainers to search for error cases
+* Bebugging (Chaos Engineering) - opposite of debugging, agent introduces logic errors to motivate maintainers to search for error cases; in order to maintain alertness, radar systems introduce some artificial events so that human operators have something to watch out for
 * Bit-Picking - when management gets involved in technical implementation details; may come from a desire to be precise and mistaking precision for clarity
 * Blame-Analysis - find the person at fault for the problem; motivates people to hide the true cause
 * Blanks Error - a type of punch-card error commonly made by JCL novices
